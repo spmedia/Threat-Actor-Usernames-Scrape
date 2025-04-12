@@ -1,4 +1,7 @@
 # CTI-Stuffs
+
+![CTI nerds vs threat actors](https://i.imgur.com/SP93Ph5.png)
+
 A collection of CTI stuffs 📃
 
 **forum_users.txt**
