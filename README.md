@@ -9,7 +9,7 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 
 **Date Range of scrape:** March 2025 - current
 
-**Amount:** 54,000+ unique usernames
+**Amount:** 55,314 unique usernames
 
 ----
 
