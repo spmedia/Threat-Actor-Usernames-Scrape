@@ -14,3 +14,10 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 ----
 
  More intel coming soon
+
+
+----
+
+# Greetz
+
+All the CTI nerds out there scraping stuffs and in the trenches, [defcon225](https://defcon225.org/), and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
