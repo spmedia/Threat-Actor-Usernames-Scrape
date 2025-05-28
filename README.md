@@ -4,7 +4,7 @@
 
 A collection of CTI stuffs and various intel 📃 
 
-I was inspired to make this because corpo intel copmanies are straight up absurd and charge 5-6 figures a year just to access this same type of data. I aint paying for that shit and oftentimes those of us in CTI cant get a budget approved for the tools we need so here we are. This is an ever changing and evolving repo that should (in theory) be updated oftenish so that it has fresh data. 
+I was inspired to make this because corpo intel companies are straight up absurd and charge 5-6 figures a year just to access this same type of data. I aint paying for that shit and oftentimes those of us in CTI cant get a budget approved for the tools we need/want so here we are. This is an ever changing and evolving repo that should (in theory) be updated oftenish so that it has fresh data. 
 
 If you have anything neat to add, submit a PR and throw it up baw.
 
