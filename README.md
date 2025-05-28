@@ -18,7 +18,7 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 
 ### Cracked.sh
 
-**forum_users_cracked.txt**
+**forum_users_cracked.txt** - coming soon
 
 Usernames scraped from the Cracked forum.
 
