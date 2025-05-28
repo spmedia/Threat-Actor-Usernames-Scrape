@@ -9,6 +9,7 @@ A collection of CTI stuffs and various intel 📃
 ### BreachForums.st
 
 **forum_users.txt**
+
 A list of usernames scraped from the popular cybercrime and hacking forum BreachForums. Scraped from the "Who's Online" section of the forum.
 
 **Date Range of scrape:** March 2025 - April 15 2025 12:52 am - BreachForums went down this morning
@@ -18,6 +19,7 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 ### Cracked.sh
 
 **forum_users_cracked.txt**
+
 Usernames scraped from the Cracked forum.
 
 **Date Range of scrape:** May 27 2025 -> current date
