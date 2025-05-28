@@ -4,9 +4,11 @@
 
 A collection of CTI stuffs and various intel 📃 
 
-I was inspired to make this because corpo intel companies are straight up absurd and charge 5-6 figures a year just to access this same type of data. I aint paying for that shit and oftentimes those of us in CTI cant get a budget approved for the tools we need/want so here we are. This is an ever changing and evolving repo that should (in theory) be updated oftenish so that it has fresh data. 
+I was inspired to make this because corpo intel companies are straight up absurd and charge 5-6 figures a year just to access this same type of data. I aint paying for that shit and oftentimes those of us in CTI cant get a budget approved for the tools we need/want so here we are. This is an ever changing and evolving repo that should (in theory) be updated oftenish so that it has fresh data.
 
-If you have anything neat to add, submit a PR and throw it up baw.
+If you have any neat fresh data/intel to add, submit a PR and throw it up baw.
+
+> It's easy to forget what intelligence consists of: luck and speculation. Here and there a windfall, here and there a scoop, *John le Carré*
 
 ## Forums
 
