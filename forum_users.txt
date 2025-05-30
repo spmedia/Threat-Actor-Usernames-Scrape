@@ -1,3 +1,7 @@
+# Usernames scraped from the hacking/cybercrim forum BreachForums.st
+# Start date of collection = March 2025 - April 15 2025 12:52 am
+# scraped by Major
+
 Ajacong
 algrmi
 flirt
