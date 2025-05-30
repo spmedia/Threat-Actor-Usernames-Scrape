@@ -24,13 +24,13 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 
 ### Cracked.sh
 
-**forum_users_cracked.txt** - coming soon
+**forum_users_cracked.txt**
 
-Usernames scraped from the Cracked forum.
+Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum.
 
 **Date Range of scrape:** May 27 2025 -> current date
 
-**Amount:** coming soon
+**Amount:** 3,288 unique usernames
 
 ----
 
