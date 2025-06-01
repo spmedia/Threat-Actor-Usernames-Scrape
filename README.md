@@ -32,6 +32,16 @@ Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum
 
 **Amount:** 3,288 unique usernames
 
+### DarkForums.st
+
+**forum_users_darkforums.txt** (coming soon)
+
+Usernames scraped from DarkForums
+
+**Date Range of scrape:** June 1 2025 -> current date
+
+**Amount:** (coming soon)
+
 ----
 
 # Greetz
