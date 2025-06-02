@@ -1,4 +1,4 @@
-# Usernames scraped from the hacking/cybercrim forum DarkForums.sh
+# Usernames scraped from the hacking/cybercrim forum DarkForums.st
 # Start date of collection = 2025/6/01 -> current date
 # scraped by Major
 
