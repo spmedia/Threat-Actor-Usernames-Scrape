@@ -8,7 +8,7 @@ I was inspired to make this because corpo intel companies are straight up absurd
 
 If you have any neat fresh data/intel to add, submit a PR and throw it up baw.
 
-> It's easy to forget what intelligence consists of: luck and speculation. Here and there a windfall, here and there a scoop, *John le Carré*
+> It's easy to forget what intelligence consists of: luck and speculation. Here and there a windfall, here and there a scoop -- *John le Carré*
 
 ## Forums
 
