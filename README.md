@@ -16,7 +16,7 @@ If you have any neat fresh data/intel to add, submit a PR and throw it up baw.
 
 ### BreachForums.st
 
-**forum_users.txt**
+**[forum_users.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users.txt)**
 
 A list of usernames scraped from the popular cybercrime and hacking forum BreachForums. Scraped from the "Who's Online" section of the forum.
 
@@ -28,7 +28,7 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 
 ### Cracked.sh
 
-**forum_users_cracked.txt**
+**[forum_users_cracked.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_cracked.txt)**
 
 Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum.
 
@@ -40,7 +40,7 @@ Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum
 
 ### DarkForums.st
 
-**forum_users_darkforums.txt**
+**[forum_users_darkforums.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_darkforums.txt)**
 
 Usernames scraped from DarkForums
 
