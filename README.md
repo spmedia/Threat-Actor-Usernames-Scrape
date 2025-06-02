@@ -12,6 +12,8 @@ If you have any neat fresh data/intel to add, submit a PR and throw it up baw.
 
 ## Forums
 
+---
+
 ### BreachForums.st
 
 **forum_users.txt**
@@ -22,6 +24,8 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 
 **Amount:** 57,468 unique usernames
 
+---
+
 ### Cracked.sh
 
 **forum_users_cracked.txt**
@@ -31,6 +35,8 @@ Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum
 **Date Range of scrape:** May 27 2025 --> current date
 
 **Amount:** 3,288 unique usernames
+
+---
 
 ### DarkForums.st
 
