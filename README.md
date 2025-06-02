@@ -34,7 +34,7 @@ Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum
 
 ### DarkForums.st
 
-**forum_usernames_darkforums.txt**
+**forum_users_darkforums.txt**
 
 Usernames scraped from DarkForums
 
