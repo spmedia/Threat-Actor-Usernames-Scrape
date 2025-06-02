@@ -34,13 +34,13 @@ Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum
 
 ### DarkForums.st
 
-**forum_users_darkforums.txt** (coming soon)
+**forum_usernames_darkforums.txt**
 
 Usernames scraped from DarkForums
 
 **Date Range of scrape:** June 1 2025 -> current date
 
-**Amount:** (coming soon)
+**Amount:** 284 unique usernames
 
 ----
 
