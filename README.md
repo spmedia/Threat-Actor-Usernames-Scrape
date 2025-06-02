@@ -18,7 +18,7 @@ If you have any neat fresh data/intel to add, submit a PR and throw it up baw.
 
 A list of usernames scraped from the popular cybercrime and hacking forum BreachForums. Scraped from the "Who's Online" section of the forum.
 
-**Date Range of scrape:** March 2025 - April 15 2025 12:52 am - BreachForums went down this morning
+**Date Range of scrape:** March 2025 --> April 15 2025 12:52 am - BreachForums went down this morning
 
 **Amount:** 57,468 unique usernames
 
@@ -28,7 +28,7 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 
 Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum.
 
-**Date Range of scrape:** May 27 2025 -> current date
+**Date Range of scrape:** May 27 2025 --> current date
 
 **Amount:** 3,288 unique usernames
 
@@ -38,7 +38,7 @@ Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum
 
 Usernames scraped from DarkForums
 
-**Date Range of scrape:** June 1 2025 -> current date
+**Date Range of scrape:** June 1 2025 --> current date
 
 **Amount:** 284 unique usernames
 
