@@ -52,4 +52,4 @@ Usernames scraped from DarkForums
 
 # Greetz
 
-All the CTI nerds out there scraping stuffs and who are in the trenches, [defcon225](https://defcon225.org/), sp, rj2, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
+All the CTI nerds out there scraping stuffs and who are in the trenches, [dc225](https://defcon225.org/), sp, rj2, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
