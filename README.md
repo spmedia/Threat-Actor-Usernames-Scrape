@@ -10,6 +10,8 @@ If you have any neat fresh data/intel to add, submit a PR and throw it up baw.
 
 > It's easy to forget what intelligence consists of: luck and speculation. Here and there a windfall, here and there a scoop -- *John le Carré*
 
+If you are a researcher or cybercriminal who found your username in these lists, you should enable in the forum Settings to hide yourself when online and/or disable your acct from displaying in the Who's Online sections publicly. Tons of nerds (like me) be scraping weird stuffs like this. 
+
 ## Forums
 
 ---
