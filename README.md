@@ -36,7 +36,7 @@ Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 10,289 unique usernames
+**Amount:** 11,066 unique usernames
 
 ---
 
@@ -48,7 +48,7 @@ Usernames scraped from DarkForums
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 6,377 unique usernames
+**Amount:** 6,953 unique usernames
 
 ----
 
