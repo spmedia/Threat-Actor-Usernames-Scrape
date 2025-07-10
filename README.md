@@ -1,4 +1,4 @@
-# CTI-Stuffs
+# CTI Stuffs
 
 ![CTI nerds vs threat actors](https://i.imgur.com/SP93Ph5.png)
 
@@ -12,7 +12,7 @@ If you have any neat fresh data/intel to add, submit a PR and throw it up baw.
 
 If you are a researcher or cybercriminal who found your username in these lists, you should enable in the forum Settings to hide yourself when online and/or disable your acct from displaying in the Who's Online sections publicly. Tons of nerds (like me) be scraping weird stuffs like this. 
 
-## Forums
+## Forums 📃
 
 ---
 
@@ -52,6 +52,6 @@ Usernames scraped from DarkForums
 
 ----
 
-# Greetz
+# Greetz 💌
 
 All the CTI nerds out there scraping stuffs and who are in the trenches, [dc225](https://defcon225.org/), sp, rj2, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
