@@ -12,23 +12,23 @@ If you have any neat fresh data/intel to add, submit a PR and throw it up baw.
 
 If you are a researcher or cybercriminal who found your username in these lists, you should enable in the forum Settings to hide yourself when online and/or disable your acct from displaying in the Who's Online sections publicly. Tons of nerds (like me) be scraping weird stuffs like this. 
 
-## Forums 📃
+# Scraped Forums 📃
 
 ---
 
-### BreachForums.st
+## BreachForums.st
 
 **[forum_users.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users.txt)**
 
 A list of usernames scraped from the popular cybercrime and hacking forum BreachForums. Scraped from the "Who's Online" section of the forum.
 
-**Date Range of scrape:** March 2025 --> April 15 2025 12:52 am - BreachForums went down this morning
+**Date Range of scrape:** March 2025 --> April 15 2025 12:52 am - BreachForums went down this morning (**RIP**)
 
 **Amount:** 57,468 unique usernames
 
 ---
 
-### Cracked.sh
+## Cracked.sh
 
 **[forum_users_cracked.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_cracked.txt)**
 
@@ -40,7 +40,7 @@ Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum
 
 ---
 
-### DarkForums.st
+## DarkForums.st
 
 **[forum_users_darkforums.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_darkforums.txt)**
 
