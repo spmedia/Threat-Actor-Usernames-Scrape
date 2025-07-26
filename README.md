@@ -16,7 +16,7 @@ If you are a researcher or cybercriminal who found your username in these lists,
 
 ---
 
-## BreachForums.st
+## BreachForums.st (rip)
 
 **[forum_users.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users.txt)**
 
@@ -25,6 +25,18 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 **Date Range of scrape:** March 2025 --> April 15 2025 12:52 am - BreachForums went down this morning (**RIP**)
 
 **Amount:** 57,468 unique usernames
+
+---
+
+## BreachForums.hn
+
+**[forum_users_breached_hn.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_breached_hn.txt)**
+
+The forum came back online after its take down in April and the arrests of IntelBroker and other members. This is a list of usernames found and scraped from the new remix'd version. Scraped from the "Who's Online" section of the forum. Is it a fed psyop honeypot or an actual revival? Time will tell, but for now, we be scraping em. 
+
+**Date Range of scrape:** July 26 2025 --> current date
+
+**Amount:** 15 unique usernames
 
 ---
 
