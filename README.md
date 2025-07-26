@@ -16,13 +16,13 @@ If you are a researcher or cybercriminal who found your username in these lists,
 
 ---
 
-## BreachForums.st (rip)
+## BreachForums.st (**rip**)
 
 **[forum_users.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users.txt)**
 
 A list of usernames scraped from the popular cybercrime and hacking forum BreachForums. Scraped from the "Who's Online" section of the forum.
 
-**Date Range of scrape:** March 2025 --> April 15 2025 12:52 am - BreachForums went down this morning (**RIP**)
+**Date Range of scrape:** March 2025 --> April 15 2025 12:52 am - BreachForums went down on this date (**RIP**)
 
 **Amount:** 57,468 unique usernames
 
