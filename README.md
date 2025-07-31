@@ -36,7 +36,7 @@ The forum came back online after its take down in April and the arrests of Intel
 
 **Date Range of scrape:** July 26 2025 --> current date
 
-**Amount:** 227 unique usernames
+**Amount:** 3,377 unique usernames
 
 ---
 
@@ -48,7 +48,7 @@ Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 26,951 unique usernames
+**Amount:** 28,670 unique usernames
 
 ---
 
@@ -60,7 +60,7 @@ Usernames scraped from DarkForums
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 17,872 unique usernames
+**Amount:** 19,408 unique usernames
 
 ----
 
