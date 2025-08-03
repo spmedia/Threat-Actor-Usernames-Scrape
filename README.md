@@ -8,7 +8,7 @@ I was inspired to make this because corpo intel companies are straight up absurd
 
 If you have any neat fresh data/intel to add, submit a PR and throw it up baw.
 
-> It's easy to forget what intelligence consists of: luck and speculation. Here and there a windfall, here and there a scoop -- *John le Carré*
+> It's easy to forget what intelligence consists of: luck and speculation. Here and there a windfall, here and there a scoop — *John le Carré*
 
 If you are a researcher or cybercriminal who found your username in these lists, you should enable in the forum Settings to hide yourself when online and/or disable your acct from displaying in the Who's Online sections publicly. Tons of nerds (like me) be scraping weird stuffs like this. 
 
@@ -36,7 +36,7 @@ The forum came back online after its take down in April and the arrests of Intel
 
 **Date Range of scrape:** July 26 2025 --> current date
 
-**Amount:** 3,377 unique usernames
+**Amount:** 4,122 unique usernames
 
 ---
 
