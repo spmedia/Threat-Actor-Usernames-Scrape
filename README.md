@@ -16,7 +16,7 @@ If you are a researcher or cybercriminal who found your username in these lists,
 
 Usernames scraped from various cybercrime forums.
 
-Total unique usernames: 78,737
+Total unique usernames: 78,737 (last updated Aug 2025)
 
 ---
 
