@@ -14,6 +14,10 @@ If you are a researcher or cybercriminal who found your username in these lists,
 
 # Scraped Forums 📃
 
+Usernames scraped from various cybercrime forums.
+
+Total unique usernames: 78,737
+
 ---
 
 ## BreachForums.st (**rip**)
