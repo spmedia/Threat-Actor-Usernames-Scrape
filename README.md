@@ -20,6 +20,8 @@ Total unique usernames: 78,737 (last updated Aug 2025)
 
 ---
 
+### Dead Forums
+
 ## BreachForums.st (**rip**)
 
 **[forum_users.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users.txt)**
@@ -38,11 +40,13 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 
 The forum came back online after its take down in April and the arrests of IntelBroker and other members. This is a list of usernames found and scraped from the new remix'd version. Scraped from the "Who's Online" section of the forum. Is it a fed psyop honeypot or an actual revival? Time will tell, but for now, we be scraping em. 
 
-**Date Range of scrape:** July 26 2025 --> current date
+**Date Range of scrape:** July 26 2025 --> Aug 11 2025 - forum went down and its been alledged it was a fed honeypot the entire time
 
-**Amount:** 6,503 unique usernames
+**Amount:** 6,537 unique usernames
 
 ---
+
+### Active Forums
 
 ## Cracked.sh
 
