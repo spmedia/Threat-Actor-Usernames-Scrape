@@ -40,7 +40,7 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 
 The forum came back online after its take down in April and the arrests of IntelBroker and other members. This is a list of usernames found and scraped from the new remix'd version. Scraped from the "Who's Online" section of the forum. Is it a fed psyop honeypot or an actual revival? Time will tell, but for now, we be scraping em. 
 
-**Date Range of scrape:** July 26 2025 --> Aug 11 2025 - forum went down and [its been alledged](https://pastebin.com/raw/EDUtVYq2) it was a fed honeypot the entire time
+**Date Range of scrape:** July 26 2025 --> Aug 11 2025 - forum went down and [its been alleged](https://pastebin.com/raw/EDUtVYq2) it was a fed honeypot the entire time
 
 **Amount:** 6,537 unique usernames
 
