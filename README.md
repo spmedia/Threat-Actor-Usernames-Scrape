@@ -84,6 +84,18 @@ Usernames gathered from the Who's Online section, chatbox, and posted threads.
 
 **Amount:** 259 unique usernames
 
+## Patched.to
+
+**[forum_users_patched.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_patched.txt)**
+
+Usernames that have be en scraped from the Patched forum - some skid forum.
+
+Usernames gathered from posted threads.
+
+**Date Range of scrape:** August 23 2025 --> current date
+
+**Amount:** (coming soon - in collection stage)
+
 ----
 
 # Greetz 💌
