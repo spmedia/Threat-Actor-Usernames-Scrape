@@ -72,6 +72,18 @@ Usernames scraped from DarkForums
 
 ----
 
+## Leakbase.la
+
+**[forum_users_leakbase.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_leakbase.txt)**
+
+Usernames scraped from Leakbase - this site has been around a while and has went thru a few different domain TLDs. It's basically where threat actors can go and leak dbs and info or DL them.
+
+**Date Range of scrape:** August 22 2025 --> current date
+
+**Amount:** xx,xxx unique usernames (coming soon)
+
+----
+
 # Greetz 💌
 
 All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), sp, rj2, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
