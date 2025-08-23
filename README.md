@@ -78,9 +78,11 @@ Usernames scraped from DarkForums
 
 Usernames scraped from Leakbase - this site has been around a while and has went thru a few different domain TLDs. It's basically where threat actors can go and leak dbs and info or DL them.
 
+Usernames gathered from the Who's Online section, chatbox, and posted threads.
+
 **Date Range of scrape:** August 22 2025 --> current date
 
-**Amount:** xx,xxx unique usernames (coming soon)
+**Amount:** 259 unique usernames
 
 ----
 
