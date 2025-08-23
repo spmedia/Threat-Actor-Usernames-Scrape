@@ -2,10 +2,6 @@
 # Start date of collection = 2025/5/27
 # scraped by Major aka spmedia
 
-# Usernames scraped from the hacking/cybercrim forum Cracked.sh
-# Start date of collection = 2025/5/27
-# scraped by Major aka spmedia
-
 SamyDpos645d
 aappeenn123
 Codecesar
@@ -36300,4 +36296,5 @@ javiarpon
 vrafunny
 LeakPeekDotCom
 hoodmaster92
+
 
