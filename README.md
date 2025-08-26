@@ -97,7 +97,7 @@ Usernames gathered from the Who's Online section, chatbox, and posted threads.
 
 **[forum_users_patched.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_patched.txt)**
 
-Usernames that have be en scraped from the Patched forum - some skid forum.
+Usernames that have been scraped from the Patched forum - its some basic run of the mill skid forum.
 
 Usernames gathered from posted threads.
 
