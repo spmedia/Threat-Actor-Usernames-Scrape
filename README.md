@@ -29,7 +29,7 @@ Total unique usernames: 78,737 (last updated Aug 15 2025)
 
 ---
 
-### Dead Forums
+# Dead Forums
 
 ## BreachForums.st (**rip**)
 
@@ -59,7 +59,7 @@ The forum came back online after its take down in April and the arrests of Intel
 
 ---
 
-### Active Forums
+# Active Forums
 
 ## Cracked.sh
 
