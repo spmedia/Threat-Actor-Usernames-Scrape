@@ -93,6 +93,8 @@ Usernames gathered from the Who's Online section, chatbox, and posted threads.
 
 **Amount:** 1,219 unique usernames
 
+----
+
 ## Patched.to
 
 **[forum_users_patched.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_patched.txt)**
@@ -104,6 +106,21 @@ Usernames gathered from posted threads.
 **Date Range of scrape:** August 23 2025 --> current date
 
 **Amount:** 2,254
+
+----
+
+## HackForums.net
+
+**[forum_users_patched.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_patched.txt)**
+
+Usernames that have been scraped from HackForums. The skiddiest of skid forums. The pipeline from kids stumbling upon HF and then after a few years becoming SIM Swapper or com kids is kinda high tho.
+
+Usernames gathered from posted threads and the Who's Online section at the bottom of the forum.
+
+**Date Range of scrape:** August 25 2025 --> current date
+
+**Amount:** (coming soon - in collection phase)
+
 
 ----
 
