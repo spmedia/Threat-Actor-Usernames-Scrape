@@ -115,7 +115,7 @@ Usernames gathered from posted threads.
 
 ## HackForums.net
 
-**[forum_users_patched.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_patched.txt)**
+**[forum_users_hackforums.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_hackforums.txt)**
 
 Usernames that have been scraped from HackForums. The skiddiest of skid forums. The pipeline from kids stumbling upon HF and then after a few years becoming SIM Swapper or com kids is kinda high tho.
 
