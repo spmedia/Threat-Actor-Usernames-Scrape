@@ -24,6 +24,7 @@ Forums scraped from
 - DarkForums.st
 - Leakbase.la
 - Patched.to
+- HackForums.net
 
 Total unique usernames: 78,737 (last updated Aug 15 2025)
 
