@@ -118,7 +118,7 @@ Usernames gathered from posted threads.
 
 **[forum_users_hackforums.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_hackforums.txt)**
 
-Usernames that have been scraped from HackForums. The skiddiest of skid forums. The pipeline from kids stumbling upon HF and then after a few years becoming SIM Swapper or com kids is kinda high tho. The admin of the site, Omniscient, is a lil bitch and a fed.
+Usernames that have been scraped from HackForums. The skiddiest of skid forums. The pipeline from kids stumbling upon HF and then after a few years becoming SIM Swapper or com kids is kinda high tho. 
 
 Usernames gathered from posted threads and the Who's Online section at the bottom of the forum.
 
