@@ -26,7 +26,11 @@ Forums scraped from
 - Patched.to
 - HackForums.net
 
-Total unique usernames: 78,737 (last updated Aug 15 2025)
+Total usernames: 142,101
+
+Total unique usernames: 133,951
+
+(last updated Sept. 1 2025)
 
 ---
 
