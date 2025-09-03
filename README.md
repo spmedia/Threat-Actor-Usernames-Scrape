@@ -1,4 +1,4 @@
-# CTI Stuffs
+# CTI Stuffs - Threat Actor Usernames Scraped Edition
 
 ![CTI nerds vs threat actors](https://i.imgur.com/SP93Ph5.png)
 
@@ -41,7 +41,7 @@ Forums scraped from
 
 ## BreachForums.st (**rip**)
 
-**[forum_users.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users.txt)**
+**[forum_users.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users.txt)**
 
 A list of usernames scraped from the popular cybercrime and hacking forum BreachForums. Scraped from the "Who's Online" section of the forum.
 
@@ -53,7 +53,7 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 
 ## BreachForums.hn (**rip**)
 
-**[forum_users_breached_hn.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_breached_hn.txt)**
+**[forum_users_breached_hn.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breached_hn.txt)**
 
 The forum came back online after its take down in April and the arrests of IntelBroker and other members. This is a list of usernames found and scraped from the new remix'd version. Scraped from the "Who's Online" section of the forum. Is it a fed psyop honeypot or an actual revival? Time will tell, but for now, we be scraping em. 
 
@@ -71,7 +71,7 @@ The forum came back online after its take down in April and the arrests of Intel
 
 ## Cracked.sh
 
-**[forum_users_cracked.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_cracked.txt)**
+**[forum_users_cracked.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_cracked.txt)**
 
 Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum.
 
@@ -83,7 +83,7 @@ Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum
 
 ## DarkForums.st
 
-**[forum_users_darkforums.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_darkforums.txt)**
+**[forum_users_darkforums.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_darkforums.txt)**
 
 Usernames scraped from DarkForums
 
@@ -95,7 +95,7 @@ Usernames scraped from DarkForums
 
 ## Leakbase.la
 
-**[forum_users_leakbase.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_leakbase.txt)**
+**[forum_users_leakbase.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_leakbase.txt)**
 
 Usernames scraped from Leakbase - this site has been around a while and has went thru a few different domain TLDs. It's basically where threat actors can go and leak dbs and info or DL them.
 
@@ -109,7 +109,7 @@ Usernames gathered from the Who's Online section, chatbox, and posted threads.
 
 ## Patched.to
 
-**[forum_users_patched.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_patched.txt)**
+**[forum_users_patched.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_patched.txt)**
 
 Usernames that have been scraped from the Patched forum - its some basic run of the mill skid forum.
 
@@ -123,7 +123,7 @@ Usernames gathered from posted threads.
 
 ## HackForums.net
 
-**[forum_users_hackforums.txt](https://github.com/spmedia/CTI-Stuffs/blob/main/forum_users_hackforums.txt)**
+**[forum_users_hackforums.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_hackforums.txt)**
 
 Usernames that have been scraped from HackForums. The skiddiest of skid forums. The pipeline from kids stumbling upon HF and then after a few years becoming SIM Swapper or com kids is kinda high tho. 
 
