@@ -73,7 +73,7 @@ The forum came back online after its take down in April and the arrests of Intel
 
 **[forum_users_cracked.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_cracked.txt)**
 
-Usernames scraped from the newly launched post-takedown Cracked.sh hacking forum.
+Usernames scraped from the newly launched [post-takedown](https://www.justice.gov/opa/pr/cracked-and-nulled-marketplaces-disrupted-international-cyber-operation) Cracked hacking forum.
 
 **Date Range of scrape:** May 27 2025 --> current date
 
@@ -138,4 +138,4 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 # Greetz 💌
 
-All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), sp, rj2, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
+All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), sp, rj2, smurda, jex, MoB, sikez, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
