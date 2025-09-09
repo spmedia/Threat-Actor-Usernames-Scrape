@@ -133,6 +133,19 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 **Amount:** 9,216
 
+----
+
+## BreachSta.rs
+
+**[forum_users_breachstars.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachstars.txt)**
+
+A forum that recently was created from the ashes of Breached going down. Admins are Rey from the Hellcat ransomware group and a few other threat actors from the breached/RaaS/db leaker scene.
+
+Usernames scraped from posted threads.
+
+**Date Range of scrape:** September 9 2025 --> current date
+
+**Amount:** (coming soon - in collection mode)
 
 ----
 
