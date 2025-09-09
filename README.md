@@ -20,11 +20,12 @@ Forums scraped from
 
 - BreachForums.st (rip)
 - BreachForums.hn (rip)
+- Breachsta.rs
 - Cracked.sh
 - DarkForums.st
+- HackForums.net
 - Leakbase.la
 - Patched.to
-- HackForums.net
 
 ## Scraped Username Statistics
 
