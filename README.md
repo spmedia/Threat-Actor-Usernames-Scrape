@@ -114,11 +114,11 @@ Usernames gathered from the Who's Online section, chatbox, and posted threads.
 
 Usernames that have been scraped from the Patched forum - its some basic run of the mill skid forum.
 
-Usernames gathered from posted threads.
+These usernames are gathered from posted threads.
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 8,734
+**Amount:** 9,694
 
 ----
 
