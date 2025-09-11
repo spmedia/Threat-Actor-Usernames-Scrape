@@ -2,10 +2,6 @@
 # Usernames scraped from the hacking/cybercrime forum Leakbase.la
 # scraped by Major aka spmedia
 
-# Users scraped from https://leakbase.la/
-# Last updated: 2025-09-10 20:39:54
-# Total users: 3485
-
 000000ok000000
 009jgi
 0bits
