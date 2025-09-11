@@ -2,6 +2,11 @@
 # Usernames scraped from the hacking/cybercrime forum Leakbase.la
 # scraped by Major aka spmedia
 
+# Users scraped from https://leakbase.la/
+# Last updated: 2025-09-10 20:39:54
+# Total users: 3485
+
+000000ok000000
 009jgi
 0bits
 0FO1PI4JKWR58BD
@@ -54,12 +59,14 @@
 5year
 5yhy
 65hwge38v
+69latriks
 69xLaurex
 6qy5vz88np
 6rem
 7RROR
 7sjeer
 7z33n7ch
+856896
 911pwnd
 98jho2o1jnmjo
 999hpbugatti
@@ -82,7 +89,11 @@ abdeldelazonne9
 abdmhamaed2
 Abdul1
 abdullapurkadev
+aben9k
+abig45612
 abigailscott
+abmeribari1234
+abr1kos1k
 achismos1
 Acik33
 acqwAW2
@@ -92,6 +103,7 @@ adaaaaa
 adada
 adamnile
 adilowski
+adizombie
 adkpknj
 adri00
 adrianchase
@@ -128,6 +140,7 @@ al777111
 Alaathecutie182
 alafff
 alagitozz
+alanjagielski49
 aleks68bc
 alex1900
 alex990a
@@ -141,9 +154,11 @@ alexrestre
 alexweichen
 alfaomeg
 algerpaul250414
+algg32
 ali123123
 ali7rag
 alialigas
+alibaba1337
 alibaba40
 alice4u
 alidopelines
@@ -208,6 +223,7 @@ antilegal
 antimage
 antonioo19
 antonkrid
+antonydev
 antufi
 anubisdex
 aojuu
@@ -218,6 +234,7 @@ apollo112
 Applelogo
 APT88
 aq123321
+aramaram_104
 Araojho
 arcasz
 archlinux
@@ -226,6 +243,7 @@ arewethereyet
 argonauts
 arianagrande
 ariande21
+arise
 arkey2
 armanin
 armondax
@@ -250,6 +268,7 @@ asdasdas23233
 asdasdsaszzzv
 asdaspdisadfai
 asdcqwfqwvq
+asdew32423jsdfg
 asdf234asdf
 ASDFbroz
 asdfghjkjhgfd
@@ -325,6 +344,7 @@ bando
 bardeNkiN
 baret11222
 barom
+baron7123
 Bart
 bartolettidavin
 basicij
@@ -334,6 +354,7 @@ batmanx1x
 battistinaja
 battle85
 bberkman
+bdabeast11
 bdediZEf
 bdrey503
 beamlight747
@@ -345,6 +366,7 @@ beiji666
 believer
 Belizard
 Bella666
+Bemorelike419
 bencher
 benfangdejie
 benja4reich
@@ -354,6 +376,7 @@ Beny09
 berat
 berluskoni
 bernardLVMH
+Berry05
 berrysysh122
 besoda2433
 betmen83828
@@ -415,12 +438,15 @@ blood123
 blooder007
 blooder008
 blooder2026
+bloomfk
 blopp
 blowfishcloud
 blowjobking
 blu3f0x
 bluemild0range
+bluet1911
 bluezone
+bmpentesting
 bnks
 bob415411
 bobharry9
@@ -431,6 +457,7 @@ bocay30182
 BoDJa
 bofod38339
 bokluherif
+bolszei
 bolts
 bomberman326
 Bombonel23
@@ -438,6 +465,7 @@ Bookhunterx
 boolymon
 boomba
 boomba1213
+bordeaux1337
 Bornori
 boroda360
 borosilwater
@@ -485,9 +513,11 @@ busonrabbit
 butterfactory
 buttplugin
 Buzzoto
+bvcb564645
 bvfjvbjf
 bxxxx1
 byogg2ss
+byQUIMBY
 bytenames
 c1phera
 c3rb3r0skr0w
@@ -535,6 +565,7 @@ cetinolcay060
 cetisubpfechoo
 cexave3085
 chadi123
+chadouxxx890
 chainz42
 chainztheguy
 Chance
@@ -551,23 +582,27 @@ chengyi
 chenner
 chenziji123
 CherpingTowel
+cheryboom
 Chicago77mo
 chidiyaurr
 chikos
 chilla008
 chINE41
 chinginbillin
+chinigami
 chirphomey
 chitresh89
 chmod777
 chouhanjuned05
 chr1slyn
+Chrislinesn2
 ChristianKole45
 chulhachodo
 Chumba
 chupachupakabra
 chutter
 chxai
+Cibercrack1
 Cicciogamer88
 cidiia
 cihantoo
@@ -587,12 +622,14 @@ cloudychiboii
 cnvn1
 cock123
 cocobaub
+cocowco
 code_0x777
 CodeDr1p
 CoderG
 codevinci
 Coinfl1p
 coldfire
+collins10
 colombiana
 Colombo932
 colomina125
@@ -617,6 +654,7 @@ costoffx
 courtika
 cracker1900
 Crackov42
+crawler
 crazycock12
 creek55
 cris_search
@@ -633,6 +671,7 @@ cswww
 ctrlx
 ctspvtltd06
 cuentaforums
+cuhrectt
 culpa
 cuntgoblin
 currentuse
@@ -643,6 +682,8 @@ cybercyber65656
 cyberd401
 CyberIntel
 cyberman
+cyc4t
+cyhawk
 cyriusblack
 cywar
 czartp
@@ -693,7 +734,10 @@ darkspider007
 darkss977
 darkston3e
 darkyy
+darrion424
+darryl25
 darryl98
+dascking
 daserduser
 DasFan
 dashen99
@@ -706,6 +750,7 @@ datanew182
 datasolutions
 date2047
 datoka74
+david2001
 DAVID789
 davidholtmc
 davidputra7171
@@ -774,6 +819,7 @@ dirtyman90
 dix_chip
 diyajay605ncie
 diyici
+djdjddjxjxjj262
 djf1
 djibooty1929
 dktime
@@ -816,12 +862,14 @@ Dr4g0nb4ll
 dr_flax_769
 draculanbody
 DragonKnight
+dreadlord
 dreadpirat
 dream112
 dreamvbv
 drek
 drippong
 drone450
+drrrrrax2015
 drudown500
 drupal247
 dsadasd5
@@ -884,9 +932,11 @@ ELPRO
 elrafael
 elsheiry
 Elsinoku
+ELtrotro
 elvistheking
 elyjrod
 Emailv54
+emedico
 emonw2000
 endofworld
 endtopms
@@ -918,6 +968,7 @@ esqfcsed
 Essaye
 etar
 ethan_fernsby
+eufrates2030123
 Euler
 eulla
 Evan_matt
@@ -931,6 +982,7 @@ exfile
 ExNihilo
 exodusswallettt
 exoticspammer1
+exploit
 exploitable
 explorer1112
 ext0s
@@ -961,6 +1013,8 @@ farzre
 fasteddie
 fastfalcon
 fastuser1
+fastuser2
+Fatbigpanda30
 fatcheckme
 father121
 fatsorad
@@ -1020,6 +1074,7 @@ Fortray
 fotcheu
 fottxx
 fourfour
+foxxprime
 foxymoxyo
 fqwefqwef
 fr3y4
@@ -1032,6 +1087,7 @@ freeny
 fregergreg
 FRELNOO
 freudddd
+frickenawesome
 frinatopiya2
 frog
 Frogger0x
@@ -1044,6 +1100,7 @@ fucksocietyman
 fuckstupi
 fuckstupis
 fuckyuo
+fukyaahhh
 furreal
 fuspiresti
 fuxipis
@@ -1052,6 +1109,7 @@ fvcxbnfvgxd
 fwqfwfewfwfe
 g03jt4la1
 g1v3m3back007
+Gabbar111
 gabiftw
 Gabriel0066
 gabro950
@@ -1070,6 +1128,7 @@ gaswqefg123421
 Gauley55
 gauraverse
 gavist
+gavmer
 gaxxy
 gbeshmax
 gbkart
@@ -1093,6 +1152,7 @@ gg2g
 gg66408
 gggh356
 gghack
+GGHH
 ghaith
 ghghghgh
 ghmb1
@@ -1163,6 +1223,7 @@ Guarden
 guatemalaa
 Gud9i8
 gugrusaurus
+gugu99880
 guiltymanx
 gurjarsuraj577
 gusatvo98
@@ -1179,12 +1240,14 @@ h5hjtedej6yedj6
 habibsssok
 hachimihachimi
 HackDogger2555
+hackedday
 hackendless
 hacker1029
 hacker4009u1329
 hackerfree
 hackerhackedd
 hackertheman
+hackerx8
 hackerzone3
 hackexe
 hackit
@@ -1211,6 +1274,7 @@ hamid123456
 hanaaaaaa
 hannesreinth
 Hany22
+haoplam
 haoylemikanka
 HappuPup
 hardearner
@@ -1239,6 +1303,7 @@ hdyraxtr
 Headstone
 heartleak
 Heatwaze
+heavenly1
 heavens
 heckur_12
 heena
@@ -1263,6 +1328,7 @@ hexavaider2
 hey1234567
 hfhfhkx
 hgdycyautd767ds
+hgfh56756756
 hghhdkr
 hhead31
 hheheignore
@@ -1282,6 +1348,7 @@ hizeaero_hacker
 hjhjhjh
 hk2025
 hodes
+hohntheo
 holdmyglass
 holdon123
 holiganbuz
@@ -1301,6 +1368,7 @@ houdastaraaaaaa
 howtouse
 hqangel
 hromium
+hrtyfghfggfdgdf
 hsay
 Hsgas
 hshajj8965
@@ -1311,6 +1379,7 @@ huhu78
 huks
 hulkbuster
 human009
+Humbert
 humhairahi
 humhaitaahi
 humphreyinda
@@ -1350,6 +1419,7 @@ iloveluci99661
 ilyar
 im_stupid
 imbeliever
+imma83
 impierator
 imrahamed
 imrize
@@ -1361,12 +1431,14 @@ inexorabledisco
 infernal
 infinitylink
 influentialelle
+ingokur
 injunj03
 inspector
 Intel_Data
 intelcollector9
 intelx3
 inter1234
+interceptx
 ioki
 iosonosami
 ipconfig2
@@ -1379,6 +1451,7 @@ ironpotato
 itsokay
 itsqwerty
 itzmrshadow
+ItzRafaelScout
 ivandraco
 ivicy
 ivismirgrez
@@ -1422,10 +1495,12 @@ Januarta69
 japais
 JarJarBinks2
 jasander198
+Jason25
 Jasonabdul
 jasongaming33
 jasyga2825
 jaycobb1991
+jaydub
 jays1212
 jaysonparpe_2
 jbiltda
@@ -1486,6 +1561,7 @@ john_gold
 johndoe221133
 johndope
 JohnDough
+johnjobe333
 johnjohnjohn
 johnjohnn
 johnkok
@@ -1502,6 +1578,7 @@ jokowi666
 Jon_SNow
 jonah1100
 jonastix
+jons20001
 joreenmosich93
 jose76co
 jose_alves1500
@@ -1561,6 +1638,7 @@ kariyaometa
 karkukafyi
 karl34m6
 karox23053
+karrocaeq321
 Kartel666
 kasdklansdklans
 katarna12
@@ -1578,6 +1656,7 @@ keill
 KemoElDeeb
 kenha
 kenjox
+keowlaksndhh
 kerakopat
 kerryjonsons
 Ketamine
@@ -1671,6 +1750,7 @@ kshfkjbdkjeghkg
 ktr4ck3r_
 kubex
 kuh4ah
+kumarraj25
 kupriyangr
 kuracdlakavi
 kuRAma
@@ -1855,6 +1935,7 @@ ma1ex
 ma_banana
 mabiutezde
 maciek_klan
+mack10
 mad88
 madar
 maddogpop0
@@ -1864,6 +1945,7 @@ Magicovice
 magifia
 magneticbread
 magnumpay7
+Mahi66
 mahir_kahn
 mainaachsakta
 mainahinachunga
@@ -1878,6 +1960,8 @@ makix74558
 makmannn
 makmurjaya
 maknus
+maks322
+malagang
 malcom
 Malik001
 malikhamza
@@ -1919,6 +2003,7 @@ mark2025
 mark95
 markin8
 markitto35
+markk
 markovvv
 markusglyde
 maroyy
@@ -1927,6 +2012,7 @@ martest
 martinelli2002
 maryjohnson
 maryland
+Mashpoa
 masoom
 massacre666
 masterkey
@@ -1937,14 +2023,18 @@ mathbottonal
 Matheokil77
 matt777
 mauve4209
+maverickop
 max0911
 maximorel73
 maximosantana
+maxiweb
 Maxlee989
 maxluq
+Maxpayne77
 maxvopeb
 mayhem24
 maysoff3
+mazda811
 mazeltov1337
 Mazice
 mazzorca
@@ -1953,6 +2043,7 @@ mconst
 mcvvv
 meaowsdev
 measargh
+mebasen661
 medad
 Medianghi
 medleydeigarata
@@ -1964,6 +2055,7 @@ meitnerium
 mel0
 melatonin
 melez121
+memek22
 Menac
 mengsk123
 MeoMeo
@@ -1992,7 +2084,9 @@ mikeandrewson
 mikel_ewe
 mikelak123
 Mikespinte
+mikhailist31
 mikikee100
+mila
 milard
 milenabilska
 millukizoldyck
@@ -2013,6 +2107,7 @@ mm1708817
 Mm949264
 mmh3
 mmm7
+mockparachute85
 modsee
 mody_fara
 mogamad4
@@ -2027,6 +2122,7 @@ MoMoProxy
 mondomondo
 moneydrill
 moneyistime
+moneylover
 moneymeech
 moneyteam
 MoniccaPoros
@@ -2044,6 +2140,7 @@ mopumbo
 mortyexp
 moshin
 moskito254
+mossadcc
 mostafaash
 mosw91
 motrox
@@ -2052,6 +2149,7 @@ moway58711
 MOYAGOLUBU
 mr3siri
 mr_gong
+MrBeast
 mrblack9697
 mrdhaw
 mrdwizard13
@@ -2083,6 +2181,7 @@ muzlym
 mvnulicicd
 mwze
 myfriendhola58
+mysticherbal55
 mysticso
 mythreatintel
 mzard
@@ -2097,6 +2196,7 @@ nadergfx
 nafimuzu
 nafizedun
 nagraxo785
+nagzlele
 Nahaa
 naimurdesilva
 nainadevi
@@ -2163,9 +2263,11 @@ niwoor222
 nkdfknsdf
 nm0094779
 nmfewnofwem
+nnnnnnn
 noah77
 noasch
 noc44
+nocera
 nocira3547
 nocr
 noctua
@@ -2192,6 +2294,7 @@ nouch8
 Novarooo
 novathorn
 novek78021
+Novies0
 npm1337
 nrockerz
 nsanwar22
@@ -2222,6 +2325,7 @@ OiXMonster
 okijin
 Olajik
 OlegOguretz228
+olekravchenk
 olivarx
 OllieFlipXD
 oloscyber
@@ -2263,6 +2367,7 @@ overd
 oversleep785
 oymhri
 ozhakiki_r00t
+ozzx31x
 ozzz
 p00ol
 p0l0n1um
@@ -2281,6 +2386,7 @@ paloalto
 panda_po
 Pantei
 papiizaza
+paralyzes
 parsingvoterdat
 partekugne
 passerino
@@ -2326,6 +2432,7 @@ piggy00090
 pijecolepozdro
 pikaboo
 ping888
+piraxxs
 pitoxab
 pixelphreak
 pjunior77
@@ -2342,6 +2449,7 @@ poka
 poka123
 pokorman
 polar
+polasda123
 pollosxd1
 polokomo
 polpokqsd55
@@ -2397,6 +2505,7 @@ Put1NRuleZ
 PuViu
 pvaryk
 pwnstar
+pythonx
 q8yas
 qazwsxqaz
 qiaoba
@@ -2406,6 +2515,7 @@ qkuweiourquhfjo
 qt461587
 QuarkOwl
 queenhart
+quest512
 quinzel
 qwe112233
 qweasss
@@ -2438,9 +2548,13 @@ Rambo404
 ramonasalty
 rancho
 rand0m
+randomjohn69
+randomjohn699
+randomwebiqueha
 rankanim
 rankx8
 rap2503
+rararara4342134
 rasengan02909
 rat
 ratapapa47
@@ -2467,6 +2581,7 @@ redgordon98
 redoxjames3003
 redskull000
 redtobor
+reenkarsam
 reg0066
 regep31338
 reis
@@ -2489,6 +2604,7 @@ rhamz
 Rheadzz
 riachan27
 richelieu
+richestrich
 richy0011
 ridevo
 rigo_rosa7
@@ -2523,6 +2639,7 @@ rollsoss
 Roman097
 roman098
 ronbeton
+RonFerk
 rononcruzi
 RONT
 roootj
@@ -2547,6 +2664,7 @@ ruspedarte
 RussRae
 ruzzopuzzo
 rwlion
+rwob720wui
 rxtxack
 ryan253
 rydss
@@ -2554,6 +2672,7 @@ s11421113
 s1monc0well
 s3ve7n
 s4pii
+s7hiar
 saas
 sabbatos
 sad_rig
@@ -2633,6 +2752,7 @@ serbianmafia
 sergoxcx
 Sertolo
 Servers
+sery22
 set0
 seven13
 sfderds9
@@ -2674,6 +2794,7 @@ shucks
 shulma
 shurpa
 sibalon855
+sibkskia
 sicatar245
 SickbayMold
 siegheil
@@ -2685,6 +2806,7 @@ silence
 silentz1z
 silverh
 silvershone
+silvia
 simbaxy
 simo2good
 simon01
@@ -2707,6 +2829,7 @@ skeltonmop123
 skilbani
 Skill69
 skipps
+skrleteam
 skulofthero0t
 skychase
 skydreammodz
@@ -2721,6 +2844,8 @@ SMF_VOLDEMORT
 Smith1
 smith123
 smolbob
+smtp586
+snakehh2025
 snbweb
 snellchris412
 Snicker
@@ -2736,6 +2861,7 @@ sobadtobegood
 sodeba9211
 sodomhussein
 soffrom
+Solidw0rkk
 solip76526
 solivann78
 someoneonearth
@@ -2767,6 +2893,7 @@ spyrochecker123
 sql502
 squilered
 srte
+stacionar
 stackunderflow
 staneley8
 starboy
@@ -2820,6 +2947,7 @@ sysghost
 systmbrok
 t4n9
 t9fb38xuh9
+tacuri
 tadaa
 taetae7
 Tahara1337
@@ -2853,6 +2981,7 @@ tekaduzumaki
 telemier
 tempuserazerty
 tendrelapin12
+tenpiece10
 tentest
 tep0tq
 terebiasah
@@ -2897,6 +3026,7 @@ thisistemporary
 Thomas7D
 thordata
 Throvinus
+ththiagosantos
 thuflow2001
 thuongvia
 tiara7441
@@ -2942,6 +3072,7 @@ totonat
 totorito
 totxwin
 tpn91
+tr4ck0ur
 tracies
 traja
 traktorist
@@ -2956,6 +3087,7 @@ tribizizizizz23
 trol555
 trololo11
 trongthien203
+troxvcu
 truce
 tsay
 tslegacy
@@ -2966,6 +3098,7 @@ tubby
 tuhd
 tular37
 tulpar
+tungtungsahur
 turkishschizo
 tuuuuer
 tuzisdw
@@ -2975,6 +3108,7 @@ twiitwii
 txtulp
 tycoon4l
 tye097366
+tyrel2333
 tysontrx666
 tzadekabuhamda
 uber
@@ -2994,6 +3128,7 @@ unboy
 undercut3485
 Uneteausoleil
 unit0x6
+Unit20
 unk_wf
 unknow
 unknownuserde
@@ -3023,7 +3158,9 @@ userpay2
 userrandom7
 Usershuldbe123
 ushee
+usllaure
 utfcuio
+V01D
 v1nee
 v1nh
 v3rsacettt
@@ -3046,14 +3183,17 @@ vecna
 vegetable55
 velvetclass
 velypear123
+venomsec
 venuto
 veritas
 verohat
+verymadscientis
 vespiary
 veue
 vevsasy
 vgrupo
 vh65oi
+VHappyN
 vhbgroup
 viarewind
 vickys
@@ -3079,6 +3219,7 @@ vltmaker1
 vodiloj387
 voidisbliss
 Voiler
+vortexstorm
 vosstalane
 voyaloj9
 vplrnmzw1
@@ -3106,6 +3247,7 @@ wantring
 WarDroid
 warper77
 WaterMan
+watermelony
 wauzz
 waves
 wavpeh
@@ -3114,6 +3256,7 @@ wbsjy
 wean
 wearelegion
 webdarkmatter
+WebDok
 webhelpusd1
 webinfo
 weggsilas
@@ -3123,6 +3266,7 @@ well
 wenamem722
 wenjunword
 WENSTEX
+wergme24
 westcoastkilla
 westedn
 whatdaflip
@@ -3159,6 +3303,7 @@ wonder
 wongstev8673
 work2025
 workbase
+workingberet
 worldleads2025
 worldproblem
 worldwidedata
@@ -3188,6 +3333,7 @@ xCapuche1337
 xdbongxd420
 xdeep007
 xdefr
+xelabed129
 xen2992on
 xenofobia
 Xeoa
@@ -3201,6 +3347,7 @@ xglitch
 xhrmpv
 xiaopeng
 xiaoputao
+xiaoxinv
 xiaoyou8888
 xids
 xigodcc
@@ -3268,6 +3415,7 @@ yoyoyo
 ysbossy
 yshow171
 ysnock
+ytrewjhgfd04
 ytytthttyytyhyh
 yubikey
 yukta
@@ -3287,6 +3435,7 @@ zamundaid1
 zapper42
 zarar
 zavisco
+zaybe
 zbre
 zcoldik
 zdark
@@ -3311,6 +3460,8 @@ ziehad
 zikor99
 zimablue
 ZImbo
+zinel94
+zinxx
 zirael
 ziyaahmadin
 zjkee
@@ -3331,6 +3482,7 @@ zx320323
 zx45543453543
 zxcxzc
 zxd110
+zydrex
 zyz3x
 zyzexx
 zzbigboi
