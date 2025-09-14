@@ -31,7 +31,7 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 159,217 |
+| Total usernames | 164,958 |
 | Total unique usernames | 133,951 |
 
 *Last updated: September 1, 2025*
