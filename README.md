@@ -25,7 +25,7 @@ Forums scraped from
 - DarkForums.st
 - HackForums.net
 - Leakbase.la
-- Patched.to
+- Patched.sh
 
 ## Scraped Username Statistics
 
@@ -108,7 +108,7 @@ Usernames gathered from the Who's Online section, chatbox, and posted threads.
 
 ----
 
-## Patched.to
+## Patched.sh
 
 **[forum_users_patched.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_patched.txt)**
 
@@ -132,7 +132,7 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 **Date Range of scrape:** August 25 2025 --> current date
 
-**Amount:** 12,618
+**Amount:** 13,349
 
 ----
 
