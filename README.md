@@ -153,3 +153,10 @@ The usernames in this list are scraped from posted threads.
 # Greetz 💌
 
 All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), sp, rj2, smurda, jex, MoB, sikez, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
+
+
+----
+
+# Stars ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=spmedia/Threat-Actor-Usernames-Scrape&type=Date)](https://www.star-history.com/#spmedia/Threat-Actor-Usernames-Scrape&Date)
