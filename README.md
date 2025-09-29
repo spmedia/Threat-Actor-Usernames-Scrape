@@ -31,7 +31,7 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 177,056 |
+| Total usernames | 186,139 |
 | Total unique usernames | 133,951 |
 
 *Last updated: September 1, 2025*
@@ -78,7 +78,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 46,935 unique usernames
+**Amount:** 49,141 unique usernames
 
 ---
 
