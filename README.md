@@ -24,6 +24,7 @@ Forums scraped from
 - Cracked.sh
 - DarkForums.st
 - HackForums.net
+- OGUser.com/OGU
 - Leakbase.la
 - Patched.sh
 
@@ -150,6 +151,21 @@ The usernames in this list are scraped from posted threads.
 **Amount:** 250
 
 ----
+
+## OGUser.com/OGU
+
+**[forum_users_oguser.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_oguser.txt)**
+
+OGU/OGUsers forum has been around for a good lil while. Mainly associated with selling 'og' usernames like if you wanted to buy the handle @poop on Instagram or etc.
+
+The usernames in this list are scraped from posted threads.
+
+**Date Range of scrape:** October 7 2025 --> current date
+
+**Amount:** (collection process started - will update soon_
+
+----
+
 
 # Greetz 💌
 
