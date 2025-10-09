@@ -148,7 +148,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** September 9 2025 --> current date
 
-**Amount:** 250
+**Amount:** 272
 
 ----
 
@@ -162,7 +162,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 459
+**Amount:** 600
 
 ----
 
