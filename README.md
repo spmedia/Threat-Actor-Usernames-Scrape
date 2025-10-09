@@ -20,6 +20,7 @@ Forums scraped from
 
 - BreachForums.st (rip)
 - BreachForums.hn (rip)
+- BlackHatWorld.com
 - Breachsta.rs
 - Cracked.sh
 - DarkForums.st
@@ -163,6 +164,20 @@ The usernames in this list are scraped from posted threads.
 **Date Range of scrape:** October 7 2025 --> current date
 
 **Amount:** 600
+
+----
+
+## BlackHatWorld
+
+**[forum_users_blackhatworld.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_blackhatworld.txt)**
+
+This forum has been around forever (decades). Basically a bunch of nerds talking about how to make money online via spam, seo, affiliate marketing, social media, blah blah blah.
+
+The usernames in this list are scraped from posted threads and users who add replies.
+
+**Date Range of scrape:** October 9 2025 --> current date
+
+**Amount:** (pending - in collection period)
 
 ----
 
