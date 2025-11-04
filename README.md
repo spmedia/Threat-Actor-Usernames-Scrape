@@ -45,6 +45,8 @@ Forums scraped from
 
 # Dead Forums
 
+These are forums that went offline since being scraped. 
+
 ## BreachForums.st (**rip**)
 
 **[forum_users.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users.txt)**
