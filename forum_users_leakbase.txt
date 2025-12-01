@@ -1,6 +1,6 @@
-# Start date of collection = 8/22/2025 -> current date
-# Usernames scraped from the hacking/cybercrime forum Leakbase.la
-# scraped by Major aka spmedia
+# Users scraped from https://leakbase.la/
+# Last updated: 2025-10-13 13:51:10
+# Total users: 6369
 
 000000ok000000
 009jgi
@@ -6371,3 +6371,47 @@ zzk_k
 zzw199515
 zzying
 zzzzzdddd
+jacklove
+kgm96
+RedLogsCloud
+pantoja777
+ShenronV
+Werden
+Plankton
+justme23
+kingcapo1
+w3lc
+Bojackk
+aofk
+wvlnnn
+DOYTOS
+kratosghost
+whatatroll
+NEW_DAISYCLOUD
+b8a3dc7c0c7288
+sry6fev9cn
+4gerr
+hiflex
+DarkNet
+Novarus
+tension
+Willi_Lade
+irujimee
+loigiloigi
+babacam
+BottegaP
+motifxf8
+Chucky
+fantasmacoder
+songsterzu
+tinystreet
+Doly
+Faraday
+Moveworker
+ElbaphTrickster
+Kreytos
+NoobBoyDev
+stell@rium
+Dabbel79
+ROOOTJ
+BushLi9527
