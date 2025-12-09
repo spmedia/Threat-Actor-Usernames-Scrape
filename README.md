@@ -111,7 +111,7 @@ Usernames gathered from the Who's Online section, chatbox, and posted threads.
 
 **Date Range of scrape:** August 22 2025 --> current date
 
-**Amount:** 7,006 unique usernames
+**Amount:** 7,123 unique usernames
 
 ----
 
