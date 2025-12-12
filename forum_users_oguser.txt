@@ -434,7 +434,6 @@ bleed
 blockxs
 blossom
 blue
-boot
 brute
 btc
 buildqueue
