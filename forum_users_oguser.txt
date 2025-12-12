@@ -932,7 +932,8 @@ choso
 G
 vein
 legal
-Dark gdx
+Dark
+gdx
 Godezz
 nasdiq
 shame
