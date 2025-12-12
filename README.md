@@ -23,7 +23,7 @@ Forums scraped from
 - BreachForums.st (rip)
 - BreachForums.hn (rip)
 - BlackHatWorld.com
-- Breachstars.hn
+- Breachstars.io
 - Cracked.sh
 - DarkForums.st
 - HackForums.net
@@ -143,19 +143,19 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 ----
 
-## BreachStars.hn
+## BreachStars.io
 
 **[forum_users_breachstars.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachstars.txt)**
 
 A forum that recently was created from the ashes of Breached going down. Admins are Rey from the Hellcat ransomware group and a few other threat actors from the breached/RaaS/db leaker scene.
 
-Previous domains include: BreachSta.rs, Bstars.st, breachstars.st.
+Previous domains include: BreachSta.rs, Bstars.st, breachstars.st, breachstars.hn
 
 The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** September 9 2025 --> current date
 
-**Amount:** 607
+**Amount:** 615
 
 ----
 
