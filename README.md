@@ -25,6 +25,7 @@ Forums scraped from
 - BlackHatWorld.com
 - Breachstars.io
 - Cracked.sh
+- DarknetArmy.io
 - DarkForums.st
 - HackForums.net
 - Leakbase.la
@@ -184,6 +185,20 @@ The usernames in this list are scraped from posted threads and users who add rep
 **Date Range of scrape:** October 9 2025 --> current date
 
 **Amount:** 16,238
+
+----
+
+## DarknetArmy.io
+
+**[forum_users_darknetarmy.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_darknetarmy.txt)**
+
+A forum for leaks, carding, spam, and more. 
+
+The usernames in this list are scraped from posted threads and users who respond in them.
+
+**Date Range of scrape:** December 12 2025 --> current date
+
+**Amount:** (coming soon - in collection)
 
 ----
 
