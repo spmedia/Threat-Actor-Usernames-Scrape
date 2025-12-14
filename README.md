@@ -205,7 +205,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 # Greetz 💌
 
-All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), sp, rj2, smurda, jekz, MoB, sikez, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
+All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), sp, rj2, neQx, jt, smurda, jekz, MoB, sikez, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
 
 If you know of any cybersec researchers or CTI nerds who might find this data interesting, share it w em <3
 
