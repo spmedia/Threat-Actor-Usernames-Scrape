@@ -196,7 +196,7 @@ A forum for leaks, carding, spam, and more.
 
 The usernames in this list are scraped from posted threads and users who respond in them.
 
-**Date Range of scrape:** December 12 2025 --> current date
+**Date Range of scrape:** December 14 2025 --> current date
 
 **Amount:** 1,297
 
