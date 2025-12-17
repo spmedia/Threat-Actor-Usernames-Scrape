@@ -1,10 +1,12 @@
 --1007
 --5
+0-o
 01010101011
 0me
 0ppa
 0xA
 0xpx
+1-1
 11
 13231232
 1414
@@ -63,10 +65,12 @@ Aetolians
 Aggravated
 Agony
 Ahldw
+Al4x3
 Alcest
 Alex
 Alexie
 Alibi
+Alishaama1
 Alpik
 Alr
 Amir
@@ -127,6 +131,7 @@ Blora
 Bluntz
 Blurt
 Bonuby
+BottingShop
 BourbonCC
 Bozzman
 Brox
@@ -199,6 +204,7 @@ Ex
 ExamServices
 FR
 FactionsKing
+Fake
 Fate
 Fazaa
 Fed
@@ -213,6 +219,7 @@ Forza
 Forza101
 Frost
 Frying
+Fuck-You
 Future500
 Fwwyn
 Fyat
@@ -428,6 +435,7 @@ Polkadot
 Poopz
 Popbytes
 Portal
+Portuguese
 Pourgoogle
 Premium
 Presley
@@ -509,6 +517,8 @@ Shib
 Shinigami
 Shionji
 Shiverer
+Siltation
+Sinayso
 Sireghost
 Siruxz
 Sissy
@@ -549,6 +559,7 @@ Taco
 TacoDealer
 Taimoorzhub
 TaintedDev
+Tarnish
 Tastey
 Tayhay
 Tea
@@ -696,6 +707,7 @@ attract
 avauty
 avis
 awesome
+awokexd
 azuroh
 azzaro
 b
@@ -749,6 +761,7 @@ buildqueue
 bulane
 bulkdatas
 bunnywastaken
+buyins
 bwn
 by
 cBrisk
@@ -915,6 +928,7 @@ externalizing
 eye
 eyeofrah
 ez
+facade
 fail
 failure
 fame
@@ -946,6 +960,7 @@ freedom
 friend246
 frootloops65t
 frowny
+fruitopia
 fryteczek
 fume
 fuxkez
@@ -983,6 +998,7 @@ gopro94
 gor
 gorr
 goth
+gowan
 grace
 gradual
 graham
@@ -1083,6 +1099,7 @@ jokers
 josh
 jpo
 jsdjadjasjd
+jsdkzdhzhd
 julien
 junho
 jup
@@ -1094,6 +1111,7 @@ k2tty
 kaisa
 kaltec
 karaca
+karz
 kaskhet
 katemoss
 kayro
@@ -1112,10 +1130,12 @@ kitty
 kms
 kn
 knife
+knot
 kobs
 komododragon
 korea
 kotek28164217
+kraftk
 krispies
 krxys
 ktu
@@ -1126,6 +1146,7 @@ l1e
 l5ivel
 lag
 laminate
+landobando
 larpforlife
 larpingblud
 lawliet
@@ -1285,6 +1306,7 @@ originalcath
 orochimaru
 osintify
 osman
+ouwy
 ovine
 owo
 oxyfein
@@ -1322,12 +1344,14 @@ pppp
 predict
 prefilling
 princess
+princon
 privatanzeige
 privatedd
 protective
 psychotic
 puppy
 pushups
+pussy
 pw
 qfqf
 qlo
@@ -1407,6 +1431,7 @@ shaco
 shame
 shana
 shawl
+shgwn
 shopcore
 shotsify
 shyfrogy30
@@ -1420,6 +1445,7 @@ sk1rmish
 skirt
 skreee
 skull
+skweakyzs
 slash
 sleep
 sleepybear321
@@ -1494,6 +1520,7 @@ swapfivem
 swedcomz
 sxlarmm
 sxyy
+syn02852
 syria
 t1xaf
 t56e3dr4i8u9
@@ -1528,6 +1555,7 @@ tuff
 tuhsooki
 turny
 tweaker
+twiboost
 twitchking
 twoesce
 typescript
@@ -1592,6 +1620,7 @@ wanting123
 warn
 wav
 wbz
+wdadsddwa1
 wealt
 weird
 wept
