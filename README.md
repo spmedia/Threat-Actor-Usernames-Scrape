@@ -166,7 +166,7 @@ The usernames in this list are scraped from posted threads.
 
 OGU/OGUsers forum has been around for a good lil while. Mainly associated with selling 'og' usernames like if you wanted to buy the handle @poop on Instagram or etc.
 
-The usernames in this list are scraped from posted threads.
+The usernames in this list are scraped from posted threads and users that reply within threads.
 
 **Date Range of scrape:** October 7 2025 --> current date
 
