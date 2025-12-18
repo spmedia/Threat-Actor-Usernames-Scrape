@@ -36,7 +36,7 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 278,291 |
+| Total usernames | 280,456 |
 | Total unique usernames | 248,757 |
 | Total duplicate usernames | 12,209 |
 
@@ -198,7 +198,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 2,821
+**Amount:** 3,028
 
 ----
 
