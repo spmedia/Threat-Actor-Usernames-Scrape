@@ -202,6 +202,20 @@ The usernames in this list are scraped from posted threads and users who respond
 
 ----
 
+## BreachForums.bf
+
+**[forum_users_breachforumsBF.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachforumsBF.txt)**
+
+Sigh...BF number #32423423. How long will this one last? Likely not long but until then, we be scraping it.
+
+The usernames in this list are scraped from posted threads and users who respond in them.
+
+**Date Range of scrape:** December 18 2025 --> current date
+
+**Amount:** (in collection)
+
+----
+
 
 # Greetz 💌
 
