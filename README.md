@@ -22,6 +22,7 @@ Forums scraped from
 
 - BreachForums.st (rip)
 - BreachForums.hn (rip)
+- BreachForums.bf (lol)
 - BlackHatWorld.com
 - Breachstars.io
 - Cracked.sh
