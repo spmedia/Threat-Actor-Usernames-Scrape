@@ -51,7 +51,7 @@ These are forums that went offline since being scraped.
 
 ## BreachForums.st (**rip**)
 
-**[forum_users.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users.txt)**
+**[forum_users_breachforums_st.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachforums_st.txt)**
 
 A list of usernames scraped from the popular cybercrime and hacking forum BreachForums. Scraped from the "Who's Online" section of the forum.
 
