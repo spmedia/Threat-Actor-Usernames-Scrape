@@ -51,7 +51,7 @@ These are forums that went offline since being scraped.
 
 ## BreachForums.st (**rip**)
 
-**[forum_users_breachforums_st.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachforums_st.txt)**
+**[forum_users_rip_breachforums_st.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_rip_breachforums_st.txt)**
 
 A list of usernames scraped from the popular cybercrime and hacking forum BreachForums. Scraped from the "Who's Online" section of the forum.
 
@@ -63,7 +63,7 @@ A list of usernames scraped from the popular cybercrime and hacking forum Breach
 
 ## BreachForums.hn (**rip**)
 
-**[forum_users_breached_hn.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breached_hn.txt)**
+**[forum_users_rip_breached_hn.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_rip_breached_hn.txt)**
 
 The forum came back online after its take down in April and the arrests of IntelBroker and other members. This is a list of usernames found and scraped from the new remix'd version. Scraped from the "Who's Online" section of the forum. Is it a fed psyop honeypot or an actual revival? Time will tell, but for now, we be scraping em. 
 
