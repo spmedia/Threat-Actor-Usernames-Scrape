@@ -32,6 +32,7 @@ Forums scraped from
 - Leakbase.la
 - OGUser.com/OGU
 - Patched.sh
+- XSS.pro
 
 ## Scraped Username Statistics
 
@@ -216,6 +217,18 @@ The usernames in this list are scraped from posted threads and users who respond
 **Amount:** 5,350
 
 ----
+
+## XSS.pro
+
+**[forum_users_xss.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_xss.txt)**
+
+Russians gunna Russian. This forum is pretty og in the scene.
+
+The usernames in this list are scraped from posted threads and users who respond in them.
+
+**Date Range of scrape:** December 25 2025 --> current date
+
+**Amount:** (in collection mode)
 
 
 # Greetz 💌
