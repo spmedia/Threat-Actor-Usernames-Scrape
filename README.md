@@ -222,7 +222,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **[forum_users_xss.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_xss.txt)**
 
-Russians gunna Russian. This forum is pretty og in the scene.
+Russians gunna Russian. This forum is pretty og in the scene. They be talking about Программирование Разработка, Malware, Мошенничество, and Уязвимости
 
 The usernames in this list are scraped from posted threads and users who respond in them.
 
