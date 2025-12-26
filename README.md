@@ -222,7 +222,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **[forum_users_xss.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_xss.txt)**
 
-Russians gunna Russian. This forum is pretty og in the scene. They be talking about Программирование Разработка, Malware, Мошенничество, and Уязвимости
+Russians gunna Russian. This forum is pretty og in the scene. They be talking about Программирование Разработка, Malware, Мошенничество, and Уязвимости. Used to have the domain xss[.]is until July 2025 when LE seized their stuffs and arrested 1 nerd in Ukraine over it. 
 
 The usernames in this list are scraped from posted threads and users who respond in them.
 
