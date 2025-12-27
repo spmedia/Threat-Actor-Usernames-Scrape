@@ -229,7 +229,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** (in collection mode)
+**Amount:** 968
 
 ---
 
