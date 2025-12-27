@@ -230,6 +230,19 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Amount:** (in collection mode)
 
+---
+
+## Dread
+
+**[forum_users_dread.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_dread.txt)**
+
+The infamous Dread. Ran by HugBunter. Mainly a darknet market (DNM) forum that grew out of when the reddit admins did a ban wave of all the DNM subs. Content includes drugs, hacking, and all kinda fraud and sus stuffs.
+
+The usernames in this list are scraped from posted threads and users who respond in them.
+
+**Date Range of scrape:** December 27 2025 --> current date
+
+**Amount:** (in collection mode)
 
 # Greetz 💌
 
