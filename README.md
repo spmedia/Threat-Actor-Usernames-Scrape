@@ -28,6 +28,7 @@ Forums scraped from
 - Cracked.sh
 - DarknetArmy.io
 - DarkForums.st
+- Dread
 - HackForums.net
 - Leakbase.la
 - OGUser.com/OGU
