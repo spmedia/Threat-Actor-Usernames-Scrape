@@ -237,7 +237,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **[forum_users_dread.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_dread.txt)**
 
-The infamous Dread. Ran by HugBunter. Mainly a darknet market (DNM) forum that grew out of when the reddit admins did a ban wave of all the DNM subs. Content includes drugs, hacking, and all kinda fraud and sus stuffs.
+The infamous Dread. Ran by HugBunter. Mainly a darknet market (DNM) forum that grew out of when the reddit admins did a ban wave of all the DNM subs. Content includes drugs, carding, social engineering, hacking, and all kinda fraud and sus stuffs.
 
 The usernames in this list are scraped from posted threads and users who respond in them.
 
