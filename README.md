@@ -47,7 +47,7 @@ Forums scraped from
 
 *Last updated: December 29, 2025* *
 
-* total usernames is updated frequently. unique and dupe is monthly.
+*total usernames is updated frequently. unique and dupe is monthly.
 
 ---
 
