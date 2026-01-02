@@ -45,7 +45,9 @@ Forums scraped from
 | Total unique usernames | 291,136 |
 | Total duplicate usernames | 16,478 |
 
-*Last updated: December 29, 2025*
+*Last updated: December 29, 2025* *
+
+* total usernames is updated frequently. unique and dupe is monthly.
 
 ---
 
