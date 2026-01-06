@@ -40,6 +40,7 @@ Forums scraped from
 - [Leakbase.la](#leakbasela)
 - [OGUser.com/OGU](#ogusercomogu)
 - [Patched.sh](#patchedsh)
+- [Umbra.by](#umbra)
 - [XSS.pro](#xsspro)
 
 ## Scraped Username Statistics
@@ -253,6 +254,18 @@ The usernames in this list are scraped from posted threads and users who respond
 **Date Range of scrape:** December 27 2025 --> current date
 
 **Amount:** 4,443
+
+---
+
+## Umbra.by
+
+**[forum_users_umbra.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_umbra.txt)**
+
+The usernames in this list are scraped from posted threads and users who respond in them.
+
+**Date Range of scrape:** January 03 2025 --> current date
+
+**Amount:** 150
 
 # Greetz 💌
 
