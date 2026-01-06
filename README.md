@@ -29,18 +29,18 @@ Forums scraped from
 
 - [BreachForums.st](#breachforumsst-rip) (rip)
 - [BreachForums.hn](#breachforumshn-rip) (rip)
-- BreachForums.bf (lol)
-- BlackHatWorld.com
-- Breachstars.io
-- Cracked.sh
-- DarknetArmy.io
-- DarkForums.st
-- Dread
-- HackForums.net
-- Leakbase.la
-- OGUser.com/OGU
-- Patched.sh
-- XSS.pro
+- [BreachForums.bf](#breachforumsbf) (lol)
+- [BlackHatWorld.com](#blackhatworld)
+- [Breachstars.io](#breachstarsio)
+- [Cracked.sh](#crackedsh)
+- [DarknetArmy.io](#darknetarmyio)
+- [DarkForums.st](#darkforumsst)
+- [Dread](#dread)
+- [HackForums.net](#hackforumsnet)
+- [Leakbase.la](#leakbasela)
+- [OGUser.com/OGU](#ogusercomogu)
+- [Patched.sh](#patchedsh)
+- [XSS.pro](#xsspro)
 
 ## Scraped Username Statistics
 
