@@ -16,6 +16,10 @@ If you are a researcher or cybercriminal who found your username in these lists,
 
 I also have private scraped intel collections that I do not list here for various reasons. If you would like access to those, hit me up!
 
+Other uses:
+
+- combine all the usernames together to use as an interesting password list
+
 # Scraped Forums 📃
 
 Usernames scraped from various cybercrime forums.
