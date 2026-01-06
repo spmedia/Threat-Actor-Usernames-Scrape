@@ -27,8 +27,8 @@ Usernames scraped from various cybercrime forums.
 
 Forums scraped from
 
-- BreachForums.st (rip)
-- BreachForums.hn (rip)
+- [BreachForums.st](#breachforumsst-rip) (rip)
+- [BreachForums.hn](#breachforumshn-rip) (rip)
 - BreachForums.bf (lol)
 - BlackHatWorld.com
 - Breachstars.io
