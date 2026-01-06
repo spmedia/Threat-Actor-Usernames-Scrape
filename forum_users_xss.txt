@@ -10,6 +10,7 @@
 0way
 0xCode
 0xEEEE
+0xR3v3rs3
 0xfluxsec
 1434
 174region174
@@ -25,7 +26,9 @@
 4c986eb113
 4el1337
 4wayswing
+520
 86-DOS
+AFromXYZ
 AKella
 ALISMS
 AP3XX
@@ -137,6 +140,7 @@ D1ABl0Z
 D3buG
 D4rk1337
 DAO
+DBforumsUser
 DIMON DT 777
 DOC
 Danone
@@ -159,6 +163,7 @@ DimmuBurgor
 Dirlinuxs
 DirtyBunny
 Diter676
+Domainstore
 DomiiiinicK
 DrSleep
 Dr_Zhivago
@@ -172,6 +177,7 @@ Dulnex
 EchoStorm9
 EitrA
 ElliotDominion
+Em0c2
 Emilio
 Engil
 Enigma_Traf
@@ -220,6 +226,7 @@ Gorglueman
 Gorgon
 GrafDeLaFer
 GrafKura
+Graffov
 GreatProxy
 Grimxploit
 Guest
@@ -227,6 +234,7 @@ Guron_18
 HASH BROKER SERVICE
 HNH CRYPTO
 HackingRealm
+Harbour
 Hash_Cracker
 Hashdestructor
 Hawkeye
@@ -260,6 +268,7 @@ Johnny_Catswill
 Jonathan
 JonnySilver
 Joow
+Judgin
 Juk022
 KAJIT
 KDot
@@ -291,6 +300,7 @@ KurDrap
 Kusaw
 L9pka_P0lka
 LIGUL
+LaRob
 Lapa
 LastKo
 Lawyer
@@ -317,6 +327,7 @@ LuciferXFiles
 Lunaris
 Lunnayan
 M0N3Y777_
+M0rk
 M666
 MRK01
 MSSP
@@ -331,6 +342,7 @@ Matanbuchus
 MaxUp
 Maxat
 MaybeIam
+Megaserver
 Mellstroy
 Mermix
 Merry Christmas
@@ -355,6 +367,7 @@ MrKoLoTeR
 MrNiffler
 Mustang Studio
 Mycroft
+MystiqueEmber
 NOA_SniFF
 NOP
 NTK
@@ -379,6 +392,8 @@ Octoberine
 Omezik
 One shot - One hit
 Onyx1050
+Opa334
+OrNelo
 OrviTo
 OutlawCoder
 OverlordGameDev
@@ -532,6 +547,7 @@ Viper CC Checker
 Virtualine
 Vivi
 Voda
+Volcan
 Voltor
 W3W
 WANNAKILL
@@ -546,6 +562,7 @@ X-Ware
 X-splinter
 XDRevil
 XSS
+XSSBot
 XSSer
 Xipher_
 Xorr
@@ -594,6 +611,7 @@ arsium
 artcic2
 at_limbo
 atinepizdi
+atom_Samurai
 avia
 aygunbasak
 azazello1998
@@ -613,6 +631,7 @@ bay31
 baykal
 bba
 benjimain33
+bephomai113
 besenok
 betmoose
 bibop
@@ -653,6 +672,7 @@ chmod_777
 chrissolskjaer1
 chuchak
 clarkkkk
+clindamycin
 coder131313
 coldblunt
 complete
@@ -729,6 +749,7 @@ fewfe
 fidel
 finduser
 fishingobtusely
+flatcat8
 fondness
 for4for2
 foxydrop
@@ -764,6 +785,7 @@ ha4ska
 hackutron
 hahbah
 handersen
+hashcode100
 he1to
 hellboy003
 hilightCMD
@@ -803,12 +825,14 @@ jperes82
 jubss
 k0d
 k4rk4j0i
+kaktustest
 kalonialization
 kamzzzzz
 kanroiden
 kard
 karetnikoff
 kas4enk0
+kent
 kerberos
 kev_attack
 key00key
@@ -824,9 +848,11 @@ kokoganev
 kokoiToPidor
 kosh_e4ka
 kosheemod
+kotkokos
 kotnosok1
 kreker97
 kreonyq
+krups87
 kxanerunna
 l0rdjho23n
 l3nn0m
@@ -876,6 +902,7 @@ majorka
 mak23
 maminsibiryak
 mantis
+mantra
 marko
 marti1n
 maxim1of1
@@ -911,6 +938,7 @@ n1k7
 n3xtr4n
 narow71
 nest0r
+nexslin
 nibmcmb
 nice_00
 nightcity
@@ -962,6 +990,7 @@ pradacrash
 proexp
 projectACI
 proofofaddress
+proooxy
 prostoezlo
 prox8899
 pryx
@@ -970,6 +999,7 @@ pyPro
 qatema
 qwerty1337
 r0d
+r11492962
 r4cket3er
 r_as
 raiseonce
@@ -994,9 +1024,11 @@ rwxrwx
 s1ber1an
 s1mm0rtal
 salmon8
+salvia
 sangrila
 sanytol
 satan
+sc4m
 scherber99
 secidiot
 sect adept
@@ -1027,7 +1059,9 @@ snakey
 soap1234
 socialusdt
 society
+softcash11s
 soldierboy
+someweed
 sorax
 sosaaaa1337
 sosolau
@@ -1035,6 +1069,7 @@ spazolla
 spyboy
 square
 sssqqqooojjj
+starstefa1
 stelthon
 stepany4
 stilirok
@@ -1090,7 +1125,9 @@ valeraleontev
 varwar
 vasilevsky322
 vebxpert
+vectorwheel
 vei
+vend0r
 vernicel
 vespiaryList
 viskas
@@ -1154,6 +1191,7 @@ zatvornikdamagi
 zaza1
 zdestuta
 zeez
+zer0_flipp
 zetaboy
 zillion
 zjcgg
