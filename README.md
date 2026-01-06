@@ -19,6 +19,7 @@ I also have private scraped intel collections that I do not list here for variou
 Other uses:
 
 - combine all the usernames together to use as an interesting password list
+- enrich existing intel
 
 # Scraped Forums 📃
 
