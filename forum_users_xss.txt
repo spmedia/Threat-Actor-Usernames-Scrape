@@ -12,6 +12,7 @@
 0xEEEE
 0xR3v3rs3
 0xfluxsec
+141142
 1434
 174region174
 1am3r0k
@@ -19,6 +20,7 @@
 220v
 256
 256bit
+2c71e9
 3r5adfs2awedsadsad
 404
 44Alex44
@@ -31,9 +33,11 @@
 AFromXYZ
 AKella
 ALISMS
+ANONYMOUS TEAM
 AP3XX
 ATT
 AVAX_Hacking_Group
+AccStore
 Ahli
 Aiden
 Akrapovich
@@ -46,6 +50,7 @@ AnonEx
 AnonRDP
 Anonflare
 Anonify
+Anonymouskrushi
 Antagonz
 AntiScammers
 Antman090
@@ -73,6 +78,7 @@ BabaDook
 Baiden
 BanServicer
 Banana Traff
+BaphometTeam
 Battler
 Bender_Blender
 Benihowy
@@ -107,6 +113,7 @@ Brom999
 BryanOps
 Bubbelgum
 Buldozerov
+BullFrog
 C0rtex
 C2flow
 CKAP
@@ -114,22 +121,26 @@ CODE XREF
 CSulptor
 CallAzaman
 Cam_no_cebe
+Camorra
 CapitanPrice
 Cartell
 CellikRat
 Certs
 Chicha07
 Chococream
+ChromaxDesign
 Clear Connection
 Clipboy001
 Colibry_Supp
 Colsw
 Compiler
 Coockie
+CoreLab
 Couley Erma
 CozartWeb
 Cprdonn
 Cr4cked P4pita
+Cretor_Design
 Croco Siffredi
 CryptGygabyte
 CryptNeeded
@@ -147,6 +158,7 @@ Danone
 Darbotz
 DarckSol
 DarkBLUP
+DarkMatter74
 Darkness_dark
 DataCrime
 DataFor
@@ -154,6 +166,7 @@ Datagram
 DePlut
 Def4ik
 Deltaplan
+Derivative
 Desoxyn
 DestanBegu
 DiDjera
@@ -217,6 +230,7 @@ Gemfory_
 Gennady Abdulov
 Ghost Casper
 GlasGlaz
+GlowingOne
 GoGaB0HGa
 GoldShadow
 GoogleFI
@@ -314,6 +328,7 @@ Lezginka
 LifeLife
 LightMan
 LikOs
+Linus
 Litara_B
 Lkereng
 Loaded
@@ -331,6 +346,7 @@ M0rk
 M666
 MRK01
 MSSP
+MacaRON
 Madgoose
 Mantara
 Marat01
@@ -368,6 +384,7 @@ MrNiffler
 Mustang Studio
 Mycroft
 MystiqueEmber
+N3t0r
 NOA_SniFF
 NOP
 NTK
@@ -404,6 +421,7 @@ Pantera
 Panther
 Parabellum_Clan
 Paxom
+Pelegrim
 PerspiringKiwi
 Petras
 PewBeth
@@ -426,6 +444,8 @@ RSH
 RSMS
 Radik
 Ram0s2
+Raz0rStr1ke
+ReactRaven
 Reboot Inc
 RedGar
 RedTeam
@@ -461,6 +481,7 @@ SSNDOB_ORG
 STAREC
 Sa1ntJohn
 SafearR
+Saga5300
 SakaiHaki
 Sakrileg
 Sanitater
@@ -543,6 +564,7 @@ Venom
 Verificator
 Vertex_lord
 Vespiary
+ViCode
 Viper CC Checker
 Virtualine
 Vivi
@@ -570,6 +592,7 @@ Xrenovi4
 XxsManXss
 Yakudzza
 Ychastkovaya
+Your_Curse
 Yuji0x01
 ZXSCoder
 ZeR0ShKa
@@ -604,10 +627,12 @@ amore
 anaMorphe
 andrewerdn
 antikrya
+antikwar
 apss
 arbadakarba2000
 armadillo
 arsium
+art_moneys
 artcic2
 at_limbo
 atinepizdi
@@ -643,6 +668,7 @@ black-codes
 blackhat1717
 blackhunt
 blackshaw1
+bldstrm
 boroda4
 bosota
 br0
@@ -699,6 +725,7 @@ defhost
 deletant
 delti
 denetx
+dento
 deu5n
 dexterra
 dibodi
@@ -709,6 +736,7 @@ dkwhoami
 dmitriblovv
 doZKey
 dolyavora
+donskoy
 dplane
 draincorp
 drawingdocm
@@ -773,6 +801,7 @@ gomazaru
 google_
 gotolearnpls
 goydo4ka
+grechkakashka
 greeneyes
 greenzy
 grepwea
@@ -785,9 +814,12 @@ ha4ska
 hackutron
 hahbah
 handersen
+haojiao97899
 hashcode100
 he1to
+helixtwins
 hellboy003
+hijaked
 hilightCMD
 hipeople
 hipi
@@ -797,6 +829,7 @@ holytrinity
 holyvirginmary
 horker_kalix
 hoyosteal
+hunts
 hustleTraffic
 hwy16888
 i0pht
@@ -807,6 +840,7 @@ imlevi
 index
 infra
 ingorele
+injector1316
 inna911
 integraGT
 ips
@@ -869,6 +903,7 @@ lestertester
 lgb1ze
 licitacoes
 lima8v4v
+line333
 linkoln
 lisa99
 lisma
@@ -929,9 +964,11 @@ monsoon
 moonthenight
 morpheus0x00
 mostov
+mostwanted2
 motorola95
 mrcertipy
 mrzed
+mugwort
 mylife
 mymie
 n1k7
@@ -1002,6 +1039,7 @@ r0d
 r11492962
 r4cket3er
 r_as
+rainstorm
 raiseonce
 rand
 rask0lnik0v
@@ -1019,6 +1057,7 @@ rosa
 roush
 rtkm
 rudra
+ruizkai0
 rwanda
 rwxrwx
 s1ber1an
@@ -1079,6 +1118,7 @@ sumetal
 supremex_tnt0
 swagcat228
 syntdev
+synten
 sysbot
 system45
 szcznoyov
@@ -1105,6 +1145,7 @@ tormasterru28
 toto007
 triblekill
 triplex560
+trumpsacks
 uglygirl
 uholovo
 uncleNull
@@ -1196,6 +1237,7 @@ zetaboy
 zillion
 zjcgg
 zoom1nfo
+zurix2
 zweq
 zxc21
 Бафомет
@@ -1221,4 +1263,5 @@ zxc21
 кекич
 плаг
 платиновыйдракон
+фристаил
 человек
