@@ -40,7 +40,7 @@ Forums scraped from
 - [Leakbase.la](#leakbasela)
 - [OGUser.com/OGU](#ogusercomogu)
 - [Patched.sh](#patchedsh)
-- [Umbra.by](#umbra)
+- [Umbra.by](#umbraby)
 - [XSS.pro](#xsspro)
 
 ## Scraped Username Statistics
