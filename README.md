@@ -14,7 +14,7 @@ If you have any neat fresh data or intel to add, submit a PR and throw it up baw
 
 If you are a researcher or cybercriminal who found your username in these lists, you should enable in the forum Settings to hide yourself when online and/or disable your acct from displaying in the Who's Online sections publicly. If you make posts on the forum, well no way to hide from that. Just make sure you use a username that is non-attributed to your other monikers or self. Also make sure to VPN and proxy up because you know law enforcement be getting their hands on these forums raw databases. Tons of nerds (like me) be scraping weird stuffs like this. 
 
-I also have private scraped intel collections that I do not list here for various reasons. If you would like access to those, hit me up!
+I also have private scraped intel collections that I do not list here for various reasons. I can scrape pretty much any source for you. Let's work together, hit me up yo[@]scrapedintel[.]com.
 
 Other uses:
 
