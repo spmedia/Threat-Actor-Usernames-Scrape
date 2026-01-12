@@ -47,7 +47,7 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 343,729 |
+| Total usernames | 356,295 |
 | Total unique usernames | 291,136 |
 | Total duplicate usernames | 16,478 |
 
@@ -111,7 +111,7 @@ Usernames scraped from DarkForums
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 53,791 unique usernames
+**Amount:** 54,255 unique usernames
 
 ----
 
