@@ -235,7 +235,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **[forum_users_xss.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_xss.txt)**
 
-Russians gunna Russian. This forum is pretty og in the scene. They be talking about Программирование Разработка, Malware, Мошенничество, and Уязвимости. Used to have the domain xss[.]is until July 2025 when LE seized their stuffs and arrested 1 nerd in Ukraine over it. As always, LE takedowns are largely ineffective and the forum simply just popped back up a few days later on a new TLD.
+Russians gunna Russian. This forum is pretty og in the scene. They be talking about Программирование Разработка, Malware, Мошенничество, and Уязвимости. Used to have the domain xss[.]is until July 2025 when LE seized their stuffs and arrested 1 nerd (toha aka admin) in Ukraine over it. As always, LE takedowns are largely ineffective and the forum simply just popped back up a few days later on a new TLD.
 
 The usernames in this list are scraped from posted threads and users who respond in them.
 
