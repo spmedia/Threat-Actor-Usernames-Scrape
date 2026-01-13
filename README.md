@@ -111,7 +111,7 @@ Usernames scraped from DarkForums
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 54,255 unique usernames
+**Amount:** 54,522 unique usernames
 
 ----
 
