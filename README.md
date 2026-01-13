@@ -47,7 +47,7 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 356,295 |
+| Total usernames | 362,460 |
 | Total unique usernames | 291,136 |
 | Total duplicate usernames | 16,478 |
 
