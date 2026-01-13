@@ -40,6 +40,7 @@ Forums scraped from
 - [Leakbase.la](#leakbasela)
 - [OGUser.com/OGU](#ogusercomogu)
 - [Patched.to](#patchedto)
+- [RehubCom](#rehubcomag)
 - [Umbra.by](#umbraby)
 - [XSS.pro](#xsspro)
 
@@ -275,7 +276,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **[forum_users_rehubcom.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_rehubcom.txt)**
 
-Following the shutdown of XSS, ex-moderator Rehub launched Rehubcom.
+Following the shutdown/raid of XSS top admin, ex-moderator Rehub launched RehubCom.
 
 The usernames in this list are scraped from posted threads, users who respond in them, users who show up in the Members Online or Latest member section.
 
