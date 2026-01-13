@@ -269,9 +269,23 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Amount:** 162
 
+---
+
+## Rehubcom.ag
+
+**[forum_users_rehubcom.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_rehubcom.txt)**
+
+Following the shutdown of XSS, ex-moderator Rehub launched Rehubcom.
+
+The usernames in this list are scraped from posted threads, users who respond in them, users who show up in the Members Online or Latest member section.
+
+**Date Range of scrape:** January 13 2026 --> current date
+
+**Amount:** Pending - In Collection Mode
+
 # Greetz 💌
 
-All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), sp, rj2, neQx, jt, smurda, jekz, MoB, sikez, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
+All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), chill intel companies that dont charge people 6-7 figures a year to access intel, sp, rj2, neQx, jt, smurda, jekz, MoB, sikez, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
 
 If you know of any cybersec researchers or CTI nerds who might find this data interesting, share it w em <3
 
