@@ -20,6 +20,7 @@ Other uses:
 
 - combine all the usernames together to use as an interesting password list
 - enrich existing intel
+- pick a random username from these lists and adopt it for yourself on another forum or platform to mask yourself a bit and to confuse some researchers/LE
 
 # Scraped Forums 📃
 
@@ -242,7 +243,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** 1,488
+**Amount:** 1,513
 
 ---
 
