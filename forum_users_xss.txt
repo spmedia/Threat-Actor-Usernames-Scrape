@@ -171,8 +171,10 @@ CrypterSeller
 CtrlZero
 Cupid
 CyberDioxidecyoxlabs
+CyberNovaX
 CyberPudge
 Cyber_Yozh
+D E N Z E L
 D1ABl0Z
 D3buG
 D4rk1337
@@ -229,6 +231,7 @@ Engil
 Enigma_Traf
 Eritas
 EscapismQ
+Esckeit
 Escobar
 EthicalRichard
 EvilKo0
@@ -236,6 +239,7 @@ Existedd
 ExodusMarket
 ExodussAB
 FPS
+FR3END
 Fandorin88
 FantasticExploits
 FantomKoda
@@ -359,6 +363,7 @@ Knight
 Kodex
 Koko_toh
 Kolkapetkinsyn
+Komisstu
 Kotmart75
 Kovalyoff
 KrakenBite
@@ -408,6 +413,7 @@ MacaRON
 Madgoose
 Mantara
 Marat01
+MarcoJ0e
 Marcomouly
 Marcus52
 MarkVohan
@@ -429,6 +435,7 @@ Mhasan
 MiddleIN
 Mikeclover
 MilanZaitzev
+Minions
 MioLab
 Mlex
 MobD1pp
@@ -485,6 +492,7 @@ OutlawCoder
 OverlordGameDev
 OxDEADBEEF
 PAL1T
+PAYDAY
 PRNDL
 Pantera
 Panther
@@ -610,6 +618,7 @@ Stimul007
 Stupor
 Sudogreen
 SupaFinCook
+SuppWS
 Synthesis
 TERM1NATOR
 TNeymAR
@@ -704,6 +713,7 @@ Znak
 _C3FaRiR_
 _Sentap
 _sheva740
+aboutddos
 acidboy
 actavis
 actorarnold
@@ -749,6 +759,7 @@ azcord
 b3hindYou
 b4ssb4b33
 bablodalo
+babuin88
 bacha
 badop69
 baggins
@@ -811,6 +822,7 @@ ccs
 ceb
 celine666
 celty
+charon1
 checkyou
 chepush
 cherabeliy
@@ -863,6 +875,7 @@ diams
 dibodi
 digidi
 dioozit
+dispatcher
 divoki
 dkwhoami
 dmitriblovv
@@ -995,6 +1008,7 @@ iskaprox
 issasplash
 itsmeeliot
 iventor01
+ixicor
 j0mbrade
 jaba1234
 jacklove
@@ -1092,6 +1106,7 @@ m0nst3r
 m1xtyr3r
 m3srine
 m3xTa1nes
+m4k4ras
 m4v3rick
 machinegun
 magically
@@ -1190,6 +1205,7 @@ personasrataxxs
 pestexterminator
 petrinh1988
 phantomterror
+phenozepamuser
 pickup24
 pixe1
 placenta
@@ -1208,6 +1224,7 @@ proexp
 projectACI
 proofofaddress
 proooxy
+prosper
 prostoezlo
 prox8899
 pryx
@@ -1269,6 +1286,7 @@ shivaNEW
 shoaibdzinersmc
 shockall
 shrekushka
+shuc
 shuriken0x1
 shutan
 shyrka
@@ -1309,6 +1327,7 @@ sumetal
 superguy12
 supremex_tnt0
 swagcat228
+swahhhhd
 swwwheart
 syntdev
 synten
@@ -1339,6 +1358,7 @@ tophoot
 topology
 tormasterru28
 toto007
+tralala777
 triblekill
 triplex560
 trumpsacks
@@ -1379,8 +1399,10 @@ vkash
 vns10k
 vodkawaf
 voldemort
+vollbeat
 w0land7
 w0nd3r
+w1nd0ws12
 w1thluv
 w3bwitcher
 waahoo
@@ -1404,6 +1426,7 @@ wumpus
 wwdoc
 wx69wx
 x0nes
+x3xex
 x7phone
 xChimera
 xSTRANGEGHOST
@@ -1467,7 +1490,9 @@ zxc21
 Кодер
 КриптоМэн
 Маршал Жуков
+Мутабор
 Протон
+Пулемет
 Пушкин
 Смирнов
 Созидатель
