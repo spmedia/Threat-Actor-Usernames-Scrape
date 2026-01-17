@@ -269,7 +269,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** January 03 2025 --> current date
 
-**Amount:** 162
+**Amount:** 176
 
 ---
 
@@ -283,7 +283,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** Pending - In Collection Mode
+**Amount:** 676
 
 # Greetz 💌
 
