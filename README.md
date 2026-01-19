@@ -187,7 +187,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 4,450
+**Amount:** 4,559
 
 ----
 
@@ -283,7 +283,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** 676
+**Amount:** 699
 
 # Greetz 💌
 
