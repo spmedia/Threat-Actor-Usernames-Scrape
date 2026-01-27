@@ -50,7 +50,7 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 405,150 |
+| Total usernames | 406,150 |
 | Total unique usernames | 291,136 |
 | Total duplicate usernames | 16,478 |
 
@@ -144,7 +144,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 20,995
+**Amount:** 21,703
 
 ----
 
