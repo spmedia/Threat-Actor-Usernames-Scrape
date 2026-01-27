@@ -50,7 +50,7 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 394,612 |
+| Total usernames | 405,150 |
 | Total unique usernames | 291,136 |
 | Total duplicate usernames | 16,478 |
 
@@ -102,7 +102,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 115,146 unique usernames
+**Amount:** 118,787 unique usernames
 
 ---
 
@@ -114,7 +114,7 @@ Usernames scraped from DarkForums
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 56,426 unique usernames
+**Amount:** 56,647 unique usernames
 
 ----
 
@@ -188,7 +188,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 4,959
+**Amount:** 5,271
 
 ----
 
@@ -202,7 +202,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 20,752
+**Amount:** 21,045
 
 ----
 
@@ -216,7 +216,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 18,924
+**Amount:** 19,844
 
 ----
 
@@ -230,7 +230,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 18 2025 --> current date
 
-**Amount:** 19,726 
+**Amount:** 21,656 
 
 ----
 
