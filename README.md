@@ -14,14 +14,13 @@ If you have any neat fresh data or intel to add, submit a PR and throw it up baw
 
 If you are a researcher or cybercriminal who found your username in these lists, you should enable in the forum Settings to hide yourself when online and/or disable your acct from displaying in the Who's Online sections publicly. If you make posts on the forum, well no way to hide from that. Just make sure you use a username that is non-attributed to your other monikers or self. Also make sure to VPN and proxy up because you know law enforcement be getting their hands on these forums raw databases. Tons of nerds (like me) be scraping weird stuffs like this. 
 
-I also have private scraped intel collections that I do not list here for various reasons. I can scrape pretty much any source for you. Let's work together: if you are a corpo hit me up yo[@]scrapedintel[.]com, if you are a researcher, hi@. 
-
-Other uses:
+Other uses for these lists:
 
 - combine all the usernames together to use as an interesting password list
 - enrich existing intel
 - pick a random username from these lists and adopt it for yourself on another forum or platform to mask yourself a bit and to confuse some researchers/LE
 - use the data to send PM spam on the forums
+- do some cool nerd data science things
 
 # Scraped Forums 📃
 
