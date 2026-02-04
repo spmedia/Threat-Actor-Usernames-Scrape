@@ -47,6 +47,7 @@ H4ck3rn00b
 Hackfut
 HybridTheories
 HyperPlayer
+HyperRAT
 ImpishTreat
 JerardPike
 Jin5xx
@@ -76,6 +77,7 @@ Praomoj
 RafayBaloch
 Reliablesource
 Retabyte
+Sessions
 ShinyCorporation
 Slavko-Hieronim
 Slovkiiizi
@@ -207,6 +209,7 @@ thesystemowner
 ttooppaazz
 urm0m123
 useGateway
+vasja1
 vlainn
 waduh777
 windElf25
@@ -215,6 +218,7 @@ woffwoff199210
 woodworks
 wwwroot
 x7xipp
+yesyesyes
 yvngrich
 zackeprom93
 zero00
