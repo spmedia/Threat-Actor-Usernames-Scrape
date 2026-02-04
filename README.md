@@ -30,7 +30,7 @@ Forums scraped from
 
 - [BreachForums.st](#breachforumsst-rip) (rip)
 - [BreachForums.hn](#breachforumshn-rip) (rip)
-- [NoHide.io](#nohideio-rip) (rip)
+- [NoHide.io](#nohideio--rip) (rip)
 - [BreachForums.bf](#breachforumsbf) (lol)
 - [BlackHatWorld.com](#blackhatworld)
 - [Breachstars.io](#breachstarsio)
