@@ -30,6 +30,7 @@ Forums scraped from
 
 - [BreachForums.st](#breachforumsst-rip) (rip)
 - [BreachForums.hn](#breachforumshn-rip) (rip)
+- [NoHide.io](#nohideio-rip) (rip)
 - [BreachForums.bf](#breachforumsbf) (lol)
 - [BlackHatWorld.com](#blackhatworld)
 - [Breachstars.io](#breachstarsio)
@@ -84,6 +85,20 @@ The forum came back online after its take down in April and the arrests of Intel
 **Date Range of scrape:** July 26 2025 --> Aug 11 2025 - forum went down and [its been alleged](https://pastebin.com/raw/EDUtVYq2) it was a fed honeypot the entire time. after this came out, it went offline shortly after to never return.
 
 **Amount:** 6,537 unique usernames
+
+---
+
+## NoHide.io  (**rip**)
+
+**[dead_forum_users_nohide_io.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_nohide_io.txt)**
+
+It was small hacking/carding forum.
+
+The usernames in this list are scraped from posted threads.
+
+**Date Range of scrape:** December 14 2025 --> Dec 31 2025
+
+**Amount:** 138
 
 ---
 
