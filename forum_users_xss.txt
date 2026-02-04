@@ -21,6 +21,7 @@
 0xf1ac
 0xfluxsec
 0xmorzh
+0xp4c3
 0xrick
 108111118101
 1095069697
@@ -71,6 +72,7 @@ ASSkovator
 ATT
 AURUS_77
 AVAX_Hacking_Group
+AWUNGARD
 Abnoxa
 Absconder
 AccStore
@@ -78,6 +80,7 @@ AculaSwap
 Ahli
 Ahmed09
 Aiden
+Ailurophile
 Akrapovich
 Alanamana
 Albert Wesker
@@ -92,6 +95,7 @@ AllStarCorp
 AlphaKZ
 Alphabase
 Alphabet
+Alphy
 Alzheimer
 Amazon
 AnasStop
@@ -158,6 +162,7 @@ Beam
 Bender0
 Bender_Blender
 Benihowy
+Benjamin
 Benneton
 Ber1in
 Bertor
@@ -202,6 +207,7 @@ Brandon
 Bratva_kotoriu_stariy
 BreachX
 Brejnev
+Brittnicw0
 Broduyaga
 BrokerGang
 Brom999
@@ -238,6 +244,7 @@ CatGrep
 CellikRat
 CenturiaDev
 Certs
+Cesare97
 Chahos
 ChallengerSS10
 Chandan
@@ -267,6 +274,7 @@ Cplus-life
 Cplusplus
 Cprdonn
 Cr4cked P4pita
+Cracow
 Crekshmek
 Cretor_Design
 Croco Siffredi
@@ -325,6 +333,7 @@ DePlut
 Dead_silence
 Decentor
 Decrypto
+DedHasan
 Def4ik
 DeiTy
 Deltaplan
@@ -395,12 +404,14 @@ Existedd
 ExodusMarket
 ExodussAB
 ExploitXdevpro
+Exvoid
 F36b
 FLOKI
 FOXYFOX
 FPS
 FR3END
 FX_Nachalo
+Faliuquskimvn
 Fandorin88
 FantasticExploits
 FantomKoda
@@ -516,6 +527,7 @@ Hiddence
 HideRR
 HikMbed
 Homeless
+Horonyaboss123
 Horse_whith_big_balls
 HostBost
 HotTraffic
@@ -583,6 +595,7 @@ KONUNG
 KYCservise
 Kadis
 Kaimi
+Kain
 Kaiz
 KakToTak
 Kalopol
@@ -672,6 +685,7 @@ M3rlin
 M3xan1k
 M666
 MK23
+MLeak
 MORPHEUSS
 MRK01
 MSSP
@@ -821,6 +835,7 @@ Pass_the_hash
 Pathogen
 Paxom
 Pelegrim
+Pennywise
 Pernat1y
 PerspiringKiwi
 Pest
@@ -829,6 +844,7 @@ Petras
 PewBeth
 Phantasm
 Piama
+Pierabo
 PifPaf1
 Piramida
 Popularseller
@@ -908,6 +924,7 @@ RoolingDeep
 RootShift
 RuBiX
 Rubicon
+Rupert
 Ruslan Borisovich
 Russian_Coder
 RykiNogi
@@ -999,6 +1016,7 @@ StayOut
 Steffanov
 Stimul007
 StormTeam
+Str0ng
 Striper
 Strykal0
 Stupor
@@ -1077,6 +1095,7 @@ Unk
 UnsafeInternet
 Uruk-hai
 Uservice
+Usogui
 UzPentest
 V1rtu4lM4tr1x
 V1rtualGh0st
@@ -1206,6 +1225,7 @@ alpacadolphin05
 alphaman
 always420
 am0nra
+amarrion
 amazing
 ambassador
 amdfx6300
@@ -1312,6 +1332,7 @@ bldstrm
 blessthefall
 blopman
 blyqq
+bmwpower
 bmxERS
 bob liboot
 bobbideb
@@ -1326,6 +1347,7 @@ boyboy2026
 br0
 bratka
 bratva
+breakarule
 briancrabs
 brigadir
 btcblackclub
@@ -1335,6 +1357,8 @@ bugphp
 bulkpalace
 bullx
 bumpk1nwrkk
+bunar1
+burstmode
 bxxxx_1
 byfly
 byt3r0se
@@ -1397,6 +1421,7 @@ creeper44
 criminalxd
 crokod2396
 crumble
+cryox
 cryptobot
 cryptomv3
 cryptonic
@@ -1556,6 +1581,7 @@ fs0c131y
 ft9zh1
 furer404
 fuskarlis
+futbolka
 fxm044
 g-hosting
 g1gg
@@ -1563,6 +1589,7 @@ gael
 gagaggsuu
 gajam
 gancharart
+gangshit
 gavz
 georgiafox
 germans
@@ -1650,6 +1677,7 @@ idenVersio
 im1111
 imlevi
 index
+indexcoder
 infra
 ingorele
 injector1316
@@ -1669,6 +1697,7 @@ ivangrozniy
 iventor01
 ixicor
 izobretatel
+j0ker13
 j0mbrade
 jaba1234
 jacklove
@@ -1693,6 +1722,7 @@ jperes82
 jubss
 jumpeqw12
 k0d
+k1ll3r
 k3rn3l_d3v
 k3rnel pan1c
 k4rk4j0i
@@ -1711,6 +1741,7 @@ kas4enk0
 kasparoff
 kasual63
 kazobmennik
+keepallrights
 kent
 kerberos
 kernelsanders
@@ -1771,6 +1802,7 @@ lbrnzxc
 lbsparks
 ldmx
 leadtheway
+learner
 lebovsKiy
 leeex
 lega
@@ -1866,6 +1898,7 @@ memory
 meornot
 merdock
 meteora
+meterpreter
 mhailquirrell
 mike123321
 millioner
@@ -1896,6 +1929,7 @@ monsoon
 monstercat
 montory
 moonshine
+moonsun
 moonthenight
 morpheus0x00
 moshearmor
@@ -1917,6 +1951,7 @@ n1k7
 n3xtr4n
 nakedpoet
 namecheap
+narikvasya
 narow71
 nelly12
 neonh4ze
@@ -2016,6 +2051,7 @@ pozertriplesix
 pr0fit
 pradacrash
 princessroxy
+privatetoolz
 proexp
 profitmaster
 projectACI
@@ -2031,6 +2067,7 @@ punisher
 pupsik4444
 pwncat89
 pwrddos
+pxyn
 pyPro
 pycckoe777
 q0zy
@@ -2049,6 +2086,7 @@ r3b1nd
 r3xq1
 r4cket3er
 r_as
+rabbit
 ragnarog
 raichu
 rainfill
@@ -2066,6 +2104,8 @@ red_byte
 redborscht
 redeyex
 redfox216
+redkite808
+redskull
 refer61
 reg
 reqwest
@@ -2111,6 +2151,7 @@ sap4eg
 sargoce
 satan
 sc4m
+scarfb
 scherber99
 scoring0
 scrack
@@ -2164,6 +2205,7 @@ smartsofi777
 smile013
 smsup
 snakey
+snikfik
 snkg
 snovvcrash
 soap1234
@@ -2315,6 +2357,7 @@ vernicel
 vespiaryList
 veter22
 vigi4
+viktorselk
 viola87
 viperultra1
 viral_love
@@ -2351,7 +2394,9 @@ wer
 wesskibo
 western
 whatspoppin
+whatz1337
 white_1337
+whitegirl
 whitenigga
 wigo
 winrar85
