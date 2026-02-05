@@ -31,6 +31,7 @@ Forums scraped from
 - [BreachForums.st](#breachforumsst-rip) (rip)
 - [BreachForums.hn](#breachforumshn-rip) (rip)
 - [NoHide.io](#nohideio--rip) (rip)
+- [ASCarding.net](#ascardingnet)
 - [BreachForums.jp](#breachforumsjp) (lol)
 - [BlackHatWorld.com](#blackhatworld)
 - [Breachstars.io](#breachstarsio)
@@ -301,6 +302,22 @@ The usernames in this list are scraped from posted threads, users who respond in
 **Date Range of scrape:** January 13 2026 --> current date
 
 **Amount:** 1,114
+
+---
+
+## ASCarding.net
+
+**[forum_users_ascarding.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_ascarding.txt)**
+
+A financial fraud and carding forum.
+
+The usernames in this list are scraped from posted threads.
+
+**Date Range of scrape:** February 5 2026 --> current date
+
+**Amount:** In collection mode - coming soon
+
+---
 
 # Greetz 💌
 
