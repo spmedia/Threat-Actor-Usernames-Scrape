@@ -311,7 +311,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **[forum_users_ascarding.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_ascarding.txt)**
 
-A financial fraud and carding forum.
+A financial fraud and carding forum. These people be stealing yo grandmas credit card or frauding her retirement funds.
 
 The usernames in this list are scraped from posted threads.
 
