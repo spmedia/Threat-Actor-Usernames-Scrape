@@ -31,6 +31,7 @@ Forums scraped from
 - [BreachForums.st](#breachforumsst-rip) (rip)
 - [BreachForums.hn](#breachforumshn-rip) (rip)
 - [NoHide.io](#nohideio--rip) (rip)
+- [Altenen.is](#altenenis)
 - [ASCarding.net](#ascardingnet)
 - [BreachForums.jp](#breachforumsjp) (lol)
 - [BlackHatWorld.com](#blackhatworld)
@@ -318,6 +319,20 @@ The usernames in this list are scraped from posted threads.
 **Date Range of scrape:** February 5 2026 --> current date
 
 **Amount:** 1,653
+
+---
+
+## Altenen.is
+
+**[forum_users_altenen.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_altenen.txt)**
+
+Another financial fraud and carding forum and also has some hacking sections.
+
+The usernames in this list are scraped from posted threads and Who's Online.
+
+**Date Range of scrape:** February 7 2026 --> current date
+
+**Amount:** (in collection mode - coming soon)
 
 ---
 
