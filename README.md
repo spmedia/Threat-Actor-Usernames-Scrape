@@ -118,7 +118,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 131,313 unique usernames
+**Amount:** 133,387 unique usernames
 
 ---
 
@@ -132,7 +132,7 @@ Old urls: DarkForums.io
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 57,978 unique usernames
+**Amount:** 58,180 unique usernames
 
 ----
 
@@ -234,7 +234,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 21,725
+**Amount:** 22,657
 
 ----
 
@@ -264,7 +264,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** 2,602
+**Amount:** 2,644
 
 ---
 
@@ -290,7 +290,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** January 03 2025 --> current date
 
-**Amount:** 229
+**Amount:** 237
 
 ---
 
@@ -318,7 +318,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 1,653
+**Amount:** 1,782
 
 ---
 
