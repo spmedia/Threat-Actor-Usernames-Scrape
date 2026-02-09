@@ -33,7 +33,7 @@ Forums scraped from
 - [NoHide.io](#nohideio--rip) (rip)
 - [Altenen.is](#altenenis)
 - [ASCarding.net](#ascardingnet)
-- [BreachForums.jp](#breachforumsjp) (lol)
+- [BreachForums.bf](#breachforumsbf) (lol)
 - [BlackHatWorld.com](#blackhatworld)
 - [Breachstars.io](#breachstarsio)
 - [Cracked.sh](#crackedsh)
@@ -238,7 +238,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 ----
 
-## BreachForums.jp
+## BreachForums.bf
 
 **[forum_users_breachforumsBF.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachforumsBF.txt)**
 
@@ -246,11 +246,11 @@ Sigh...BF number #32423423. How long will this one last? Likely not long but unt
 
 The usernames in this list are scraped from posted threads and users who respond in them.
 
-old tlds: BreachForums.bf
+old tlds: BreachForums.jp
 
 **Date Range of scrape:** December 18 2025 --> current date
 
-**Amount:** 26,420
+**Amount:** 27,562
 
 ----
 
