@@ -206,7 +206,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 6,169
+**Amount:** 6,219
 
 ----
 
@@ -220,7 +220,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 22,057
+**Amount:** 22,355
 
 ----
 
@@ -250,7 +250,7 @@ old tlds: BreachForums.jp
 
 **Date Range of scrape:** December 18 2025 --> current date
 
-**Amount:** 27,562
+**Amount:** 28,757
 
 ----
 
@@ -290,7 +290,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** January 03 2025 --> current date
 
-**Amount:** 237
+**Amount:** 240
 
 ---
 
@@ -304,7 +304,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** 1,276
+**Amount:** 1,282
 
 ---
 
@@ -318,7 +318,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 1,782
+**Amount:** 1,865
 
 ---
 
