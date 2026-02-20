@@ -52,7 +52,7 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 473,941 |
+| Total usernames | 479,593 |
 | Total unique usernames | 383,117 |
 | Total duplicate usernames | 26,331 |
 
@@ -118,7 +118,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 139,117 unique usernames
+**Amount:** 141,737 unique usernames
 
 ---
 
@@ -132,7 +132,7 @@ Old urls: DarkForums.io
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 59,066 unique usernames
+**Amount:** 59,205 unique usernames
 
 ----
 
@@ -206,7 +206,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 6,626
+**Amount:** 6,774
 
 ----
 
@@ -234,7 +234,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 23,890
+**Amount:** 24,360
 
 ----
 
@@ -250,7 +250,7 @@ old tlds: BreachForums.jp
 
 **Date Range of scrape:** December 18 2025 --> current date
 
-**Amount:** 31,964
+**Amount:** 32,625
 
 ----
 
@@ -264,7 +264,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** 2,712
+**Amount:** 2,813
 
 ---
 
@@ -278,7 +278,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 9,485
+**Amount:** 9,811
 
 ---
 
@@ -318,7 +318,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 2,280
+**Amount:** 2,482
 
 ---
 
@@ -332,7 +332,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 18,836
+**Amount:** 19,821
 
 ---
 
