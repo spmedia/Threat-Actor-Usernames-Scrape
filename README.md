@@ -161,7 +161,7 @@ Usernames scraped from Leakbase - this site has been around a while and has went
 
 Usernames gathered from the Who's Online section, chatbox, and posted threads.
 
-**Date Range of scrape:** August 22 2025 --> current date
+**Date Range of scrape:** August 22 2025 --> March 4 2026. Forum taken down and seized by law enforcement. 
 
 **Amount:** 10,954 unique usernames
 
