@@ -53,7 +53,7 @@ Forums scraped from
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 505,384 |
+| Total usernames | 506,384 |
 | Total unique usernames | 383,117 |
 | Total duplicate usernames | 26,331 |
 
@@ -251,7 +251,7 @@ old tlds: BreachForums.jp
 
 **Date Range of scrape:** December 18 2025 --> current date
 
-**Amount:** 36,595
+**Amount:** 37,494
 
 ----
 
