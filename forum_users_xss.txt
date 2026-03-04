@@ -14,6 +14,7 @@
 0x00x0
 0x04
 0x3a
+0xAsterisk
 0xCode
 0xEEEE
 0xR3v3rs3
@@ -66,6 +67,7 @@
 8888
 90087
 9271d6ee
+AD_
 AFromXYZ
 AGN
 AHTOLLlKA
@@ -88,6 +90,7 @@ Absconder
 AccStore
 Access_Hunter
 AculaSwap
+Adderall
 Ahli
 Ahmed09
 Aiden
@@ -134,6 +137,7 @@ AntiLegal
 AntiOwner
 AntiScammers
 Antman090
+Antonomy
 Anwar
 Anya0x0
 ApexDev
@@ -153,6 +157,7 @@ Asgard_Seller
 Asha
 Asist
 Aster
+AsterixObelix
 AtomikBot
 AudiA6
 Audit_Team
@@ -174,6 +179,7 @@ BRUTO
 BaDRabbiT404
 BaNano
 BabaDook
+Babkavkedah
 Baiden
 Bald
 Ballard
@@ -356,6 +362,7 @@ DEPORT
 DIMON DT 777
 DOBRO
 DOC
+DRkrushen
 DSTR!
 DVanDerLinde
 Daithi
@@ -396,6 +403,7 @@ Despersof
 DestanBegu
 Detools
 DeusTirael
+Devtools
 Dexternobi
 DiDjera
 DieGo_xss
@@ -413,6 +421,7 @@ DollarShade
 Domainstore
 DomiiiinicK
 Donat3llo
+Donka
 Donrulezz
 Dorothea88
 Dottuts
@@ -448,6 +457,7 @@ Engil
 Englishmen22
 Enigma_Traf
 Enj
+Ennek111
 Eritas
 EscapismQ
 Esckeit
@@ -589,6 +599,7 @@ Hagrid
 Hannibal
 Harbour
 Harold7
+Harun
 HarweyDavis
 HashCr4cker
 Hash_Cracker
@@ -627,6 +638,7 @@ ILVMINATI
 INC.
 INFSHOP
 IT-user
+IamTheScorpion
 Iament
 Impulse777
 InCrease
@@ -686,6 +698,7 @@ KINGFISH
 KLINTXXXGOD
 KNOWNAME
 KODTHEDAVINCHI
+KONTORA
 KONUNG
 KYCservise
 Kadis
@@ -700,6 +713,7 @@ Kas
 Kass1
 Katant
 Kavalergard
+Kazejugg
 Kemal
 Kentofarios
 Kernel32dll
@@ -767,6 +781,7 @@ LidarSystem
 LifeLife
 LightMan
 LikOs
+LilJorry
 LimitlessX
 Linus
 Litara_B
@@ -785,6 +800,7 @@ Ls39kam
 Lteasy
 LuciferXFiles
 LuckyExchange
+LulzToor
 LumenSend
 Luminorena
 Lumma
@@ -836,6 +852,7 @@ Maverick
 Mavka
 MaxUp
 Maxat
+MaximusSpawn
 Maxipion
 MaybeIam
 MbArgo
@@ -891,6 +908,7 @@ N0n4m3s
 N3t0r
 N3ur0n
 NEMAFIA
+NICENIC NET
 NOA_SniFF
 NOP
 NTK
@@ -931,16 +949,19 @@ Nosymptoms
 NotCat
 Novenki
 Null Revolt
+O6Mop0k
 OBNALLLC
 OLALA1337
 ONEMILI
 ONION
+OOOOOO
 OSINT Service
 OUKB
 Obeme
 Octavian
 Octoberine
 Offensive
+Old_School
 Oleg1254685
 Oliver Bennett
 Omezik
@@ -992,6 +1013,7 @@ Pierabo
 PifPaf1
 Piramida
 PlUsApLaYer
+PolyglotEleven
 Popularseller
 Porshe911GT3
 PosterMorgan
@@ -1038,9 +1060,11 @@ Ram0s2
 RandomName
 Rashaus
 Raz0rStr1ke
+Rdeek
 Rdpnd59
 ReSources
 ReactRaven
+Reagle
 Reboot Inc
 Red123
 RedBear
@@ -1104,13 +1128,16 @@ SILITE
 SMB
 SMSRoute-cc
 SMacGregor
+SONG
 SSN247
 SSNDOB_ORG
 STAREC
 SUPER_CHELOVEK
+SWISSANDEN
 SXorg
 SYNDICATESERVICE
 Sa1ntJohn
+SaT311it3
 SaTa
 SafearR
 Saga5300
@@ -1121,6 +1148,7 @@ SamSamych
 Samura
 SamuraiDD
 Sanitater
+SantaFe
 Satanium
 SatoshiNakomoto
 Saturday
@@ -1134,6 +1162,7 @@ SecureHost
 SecuredCrypter
 Seff
 SelF
+Seller2
 SenjorZeroday
 SergeyNicola
 ServiceUA
@@ -1146,8 +1175,10 @@ Shaolin
 Shark_Boss
 Shaurmist25
 ShellDone
+ShinchanReal
 ShinyHunters
 Shtefan
+Sialent
 SilentLucidity
 Simpo
 Size
@@ -1181,6 +1212,7 @@ Solomka
 Sorriso01
 Sosyopat
 Sot3n
+Speaker
 Spear
 Spider777
 Splinterv5
@@ -1193,6 +1225,7 @@ StartFinishAds
 StayOut
 Steffanov
 Stimul007
+StormStealer
 StormTeam
 Str0ng
 Striper
@@ -1209,6 +1242,7 @@ SweetyAlex
 SyCo
 Synthesis
 T3atral
+T4mn44mm
 TERM1NATOR
 TM013
 TNeymAR
@@ -1362,6 +1396,7 @@ X-Shar
 X-Ware
 X-splinter
 XDRevil
+XDev
 XM8WyK
 XOXOACCOUNTS
 XSS
@@ -1547,6 +1582,7 @@ benjimain33
 beooeef
 bephomai113
 besenok
+bethabong
 betmoose
 bg1
 bibki09
@@ -1637,6 +1673,7 @@ carnaval
 caruso13
 cash2dash
 cashapp
+casper7727
 cassary
 catman
 cause
@@ -1693,6 +1730,7 @@ creeper44
 criminalxd
 crococola
 crokod2396
+croygoon
 crumble
 cryox
 cryptobot
@@ -1760,6 +1798,7 @@ dg007
 diams
 dibodi
 digidi
+diktator
 dioozit
 disc0verer
 dispatcher
@@ -1781,6 +1820,7 @@ dplane
 drMirzen
 drago_bloodwest
 draincorp
+drakenenot
 drawingdocm
 dreadenergy
 dreadglandon
@@ -1800,6 +1840,7 @@ ebaypower
 ec0n0m1st
 edward0666
 eidolon_hex
+ekzo
 el-
 el-farado
 el84
@@ -1945,7 +1986,9 @@ h0peIess
 h3lldvr
 h3r01n
 h4sh0
+h5je54
 ha4ska
+hacat
 hackedbots
 hackeryaroslav
 hackingdata
@@ -1967,12 +2010,14 @@ hexdump
 hezzjing
 hidden0
 hiddenname3
+hidecontact
 hijaked
 hilightCMD
 hipeople
 hipi
 hishi
 hits
+holab70960
 holaholabanggg
 hollylo
 holodilnik
@@ -2029,6 +2074,7 @@ j0mbrade
 jaba1234
 jacklove
 jair8hb
+jakedoe1337
 jamesbond007
 jamilois
 jaros
@@ -2087,6 +2133,7 @@ key
 key00key
 kgb0y
 khalid
+khoajkl123
 kickrera
 kidkdk
 kidlin
@@ -2156,6 +2203,7 @@ leshanapas
 lestertester
 lgb1ze
 licitacoes
+lied96
 ligalize42
 like_read
 lilvarya
@@ -2257,8 +2305,10 @@ mindyourbusiness
 minerva
 minimoves
 miserylord
+mj1337
 mkcvnvn
 mkrdz
+mkxk
 mlafeldt
 mlx
 mlxybaby0824
@@ -2282,6 +2332,7 @@ monsoon
 monstercat
 montal
 montory
+moom825
 moonshine
 moonsun
 moonthenight
@@ -2318,6 +2369,7 @@ narikvasya
 narow71
 ne100baksov
 nelly12
+nemort
 neonh4ze
 neopaket
 nest0r
@@ -2407,6 +2459,7 @@ perry_platypus
 personasrataxxs
 pestexterminator
 petlix
+petr0v1ch
 petrinh1988
 petrpetrov
 ph4nt0mxxx
@@ -2421,6 +2474,7 @@ pixe1
 pl3q
 placenta
 playmaker10
+please
 plutopluto
 plymouth
 po4emuonaneya
@@ -2483,6 +2537,7 @@ raiseonce
 ralf0007
 ramsapi
 rand
+randbrokers
 raoulduke666
 rask0lnik0v
 rceinn
@@ -2560,6 +2615,7 @@ scherber99
 scoring0
 scrack
 script
+sec0de
 secidiot
 sect adept
 sedrig
@@ -2645,7 +2701,9 @@ sqlidumper
 square
 ssh25621
 sssqqqooojjj
+st0li14
 stPTSR
+stanis
 starstefa1
 stderr
 stelthon
@@ -2675,12 +2733,14 @@ sysbot
 sysger
 system45
 szcznoyov
+t0nt0n
 t6wershop
 tabac
 tailscale
 tanasko
 tankhunyeong
 tbackkali
+tbaumann93
 tbrown
 tck158
 ted_b3z4
@@ -2689,6 +2749,7 @@ tempuser98
 tenac1ous
 tenzera
 tesla2021
+tether
 tg_moder
 th3g3ntl3man
 the-gost-pastor
@@ -2792,6 +2853,7 @@ vei
 vend0r
 venkat
 vercetti3
+verhsa
 vernicel
 vers
 vespiaryList
@@ -2804,6 +2866,7 @@ viral_love
 visage23wr
 viskas
 vitae96
+vkad
 vkash
 vkk1
 vlhoscc
@@ -2827,6 +2890,7 @@ waahoo
 waine
 wallis
 wasted1337
+waud
 wav
 weaver
 web_3
@@ -2856,6 +2920,7 @@ wps
 wumpus
 wwdoc
 wx69wx
+x00star
 x0nes
 x3Rx
 x3xex
@@ -2880,6 +2945,7 @@ xhash
 xhi
 xiaocai
 xiaohua886
+xicool
 xiobb
 xleaknn
 xm00nmogul
@@ -2895,6 +2961,7 @@ xss_user
 xssagency
 xtho
 xtrfy
+xvezee
 xvxv
 xwizex
 xx100
@@ -2969,6 +3036,7 @@ zxc21
 КингКонгг
 Кодер
 КозаКороль
+КоролеваДи
 Космач
 Криминальный
 КриптоМэн
@@ -2978,6 +3046,7 @@ zxc21
 Мехмет
 Мистер квак
 Мутабор
+Ниггадяй
 Одинокий Волк
 Протон
 Пулемет
