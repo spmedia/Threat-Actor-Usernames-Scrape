@@ -249,7 +249,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 old tlds: BreachForums.jp, BreachForums.bf
 
-**Date Range of scrape:** December 18 2025 --> current date
+**Date Range of scrape:** December 18 2025 --> March 16 2026
 
 **Amount:** 39,229
 
