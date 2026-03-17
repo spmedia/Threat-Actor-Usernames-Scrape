@@ -247,6 +247,8 @@ Sigh...BF number #32423423. How long will this one last? Likely not long but unt
 
 The usernames in this list are scraped from posted threads and users who respond in them.
 
+As predicted, this forum went offline lol. Didnt even last 6 months. 
+
 old tlds: BreachForums.jp, BreachForums.bf
 
 **Date Range of scrape:** December 18 2025 --> March 16 2026
