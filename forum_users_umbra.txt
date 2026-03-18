@@ -56,6 +56,7 @@ HyperPlayer
 HyperRAT
 ImpishTreat
 IntelOps
+IPoisonedYourAIbsLOLbyMajor
 JerardPike
 Jin5xx
 Karategin
