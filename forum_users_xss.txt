@@ -8,6 +8,7 @@
 0blako
 0check
 0nebob
+0peratorSuiss31
 0spqr0
 0urTh1ng
 0way
@@ -159,6 +160,7 @@ Archer Vice
 Archi_tektor
 Arctic_Fox
 Aristotelcode
+Arkyn
 Arlingtonking
 Armageddon
 ArthurHero
@@ -368,11 +370,13 @@ D0bermann
 D1ABl0Z
 D3F4ULT_cc
 D3buG
+D4nte
 D4rk1337
 DABR0
 DAO
 DBforumsUser
 DEPORT
+DEVAI
 DIMON DT 777
 DOBRO
 DOC
@@ -434,6 +438,7 @@ Dirlinuxs
 DirtyBunny
 Diter676
 Dizarted
+Dkey
 Dmitri0x0
 Dodic
 Dodokoin
@@ -578,6 +583,7 @@ Gelel
 GeliosStudio
 Gemfory_
 GenWolf
+General Iroh
 Gennady Abdulov
 Gentare
 Georges1992
@@ -642,6 +648,7 @@ Haskj7
 Haunt
 Hawkeye
 Hbvhuc
+Hehxan
 Heinsang
 Heist
 Hell1337
@@ -674,6 +681,7 @@ INC.
 INFSHOP
 IPoisonedYourAIbsLOLbyMajor
 IT-user
+ITMaster
 IamTheScorpion
 Iament
 Ilune
@@ -794,6 +802,7 @@ Kraxs
 Kremlin Gremlin
 Krustywise
 Krypt0n
+Ktaff
 KurDrap
 Kusaw
 L0n9
@@ -811,6 +820,7 @@ Lawyer
 Le Roi Soleil
 Leak_Shop
 LeaksPlus
+LebovskyGG
 Lebron_James
 LegolasGL
 LenAI
@@ -964,6 +974,7 @@ Mustang Studio
 Muuurlock
 Mycroft
 MystiqueEmber
+N01seless
 N0Pn0pn0p
 N0n4m3s
 N3t0r
@@ -1057,6 +1068,7 @@ Panam 87
 Pantera
 Panther
 PapaMama
+ParSchiz0
 Parabellum_Clan
 Paramedic
 Pass_the_hash
@@ -1135,6 +1147,8 @@ Rdpnd59
 ReSources
 ReactRaven
 Reagle
+Rebelb
+Reboot
 Reboot Inc
 Recruit
 Red123
@@ -1172,6 +1186,7 @@ Robert_D
 Rocket
 RocketRacoon
 Rocky-Balboa
+RogerCh1
 Rogue0M
 Rolton
 Romar
@@ -1225,6 +1240,8 @@ SamuraiDD
 Sanitater
 SantaFe
 Satanium
+SatoruGojo
+SatoshiAff
 SatoshiNakomoto
 Saturday
 Savillrow
@@ -1455,6 +1472,7 @@ Vivi
 Vnk
 Voda
 Vodkaland
+VoidSpecter
 Volcan
 Volsakor
 Voltor
@@ -1609,6 +1627,7 @@ arbadakarba2000
 arcadia
 arcteryxSE
 arkhitektor
+arlekino
 armadillo
 armando
 arnoldscwatt19
@@ -1657,6 +1676,7 @@ backuper
 badn3t
 badop69
 baggins
+bakelite
 balaena
 baliabinfera
 balopkod
@@ -1775,9 +1795,11 @@ canva
 capitaine
 capital-love
 captainbtw
+carasik
 carderpro
 carding
 carnaval
+carry
 caruso13
 cash2dash
 cashapp
@@ -2065,6 +2087,7 @@ gancharart
 gangshit
 gatmos
 gavz
+geeky
 genrok
 georgiafox
 germans
@@ -2120,6 +2143,7 @@ h5je54
 ha4ska
 hacat
 hackedbots
+hackermania
 hackeryaroslav
 hackingdata
 hackutron
@@ -2159,6 +2183,7 @@ honda
 horker_kalix
 hoyosteal
 hpxofficial
+hsw666
 htcode
 humanPie
 hunterkash
@@ -2186,6 +2211,7 @@ inspectorgadget
 integraGT
 intelx
 interdebug
+internetional
 ioioio777
 iowyks
 ipaulsmith
@@ -2208,6 +2234,7 @@ jacklove
 jair8hb
 jakedoe1337
 jamesbond007
+jamierant0784
 jamilois
 jaros
 jaskolka
@@ -2271,12 +2298,14 @@ khoajkl123
 kickrera
 kidkdk
 kidlin
+killcripta
 killerhaxor
 kilogang
 kilven
 kimchi99
 kingessopper
 kingking0
+kingkong13280
 kingshiit
 kingston
 kingstonfury
@@ -2341,6 +2370,7 @@ les2020
 leshanapas
 lestertester
 lgb1ze
+lianxinr
 licitacoes
 lied96
 ligalize42
@@ -2521,6 +2551,7 @@ narikvasya
 narow71
 ne100baksov
 nelly12
+nemesis69
 nemort
 neonh4ze
 neopaket
@@ -2651,6 +2682,7 @@ pompompurin
 povadimka
 powwer
 pozertriplesix
+ppdonchiq
 pr0fit
 pradacrash
 princessroxy
@@ -2666,6 +2698,7 @@ prostoezlo
 prostoman
 prox8899
 pryx
+psicoman2000
 psych0duck
 punisher
 pupsik4444
@@ -2846,6 +2879,7 @@ sirius
 sitemaps
 sithortodox
 sixbrother
+ski
 skidooow
 skipchil
 skl
@@ -2958,10 +2992,12 @@ tiandochen
 tilekvj
 timacoco
 togoodforthisshit
+tokensoftt24
 tokhmsag
 tokyo88
 ton
 tonny_gram
+tool
 toor
 top
 tophoot
@@ -3048,6 +3084,7 @@ vebxpert
 vect
 vectorwheel
 vei
+velvaruth1995
 vend0r
 venkat
 vercetti3
