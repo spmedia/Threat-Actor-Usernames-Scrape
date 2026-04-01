@@ -33,8 +33,9 @@ Forums scraped from
 
 - [BreachForums.st](#breachforumsst-rip) (rip)
 - [BreachForums.hn](#breachforumshn-rip) (rip)
-- [NoHide.io](#nohideio--rip) (rip)
 - [Breachstars.io](#breachstarsio) (rip)
+- [Leakbase.la](#leakbasela) (rip)
+- [NoHide.io](#nohideio--rip) (rip)
 - [Altenen.is](#altenenis)
 - [ASCarding.net](#ascardingnet)
 - [BreachForums.bf](#breachforumsbf) (lol)
@@ -44,7 +45,6 @@ Forums scraped from
 - [DarkForums.me](#darkforumsme)
 - [Dread](#dread)
 - [HackForums.net](#hackforumsnet)
-- [Leakbase.la](#leakbasela)
 - [OGUser.com/OGU](#ogusercomogu)
 - [Patched.to](#patchedto)
 - [RehubCom](#rehubcomag)
@@ -107,8 +107,6 @@ The usernames in this list are scraped from posted threads.
 
 ---
 
-----
-
 ## BreachStars.io
 
 **[forum_users_breachstars.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachstars.txt)**
@@ -122,6 +120,20 @@ The usernames in this list are scraped from posted threads.
 **Date Range of scrape:** September 9 2025 --> Jan 24 2026
 
 **Amount:** 733
+
+---
+
+## Leakbase.la
+
+**[forum_users_leakbase.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_leakbase.txt)**
+
+Usernames scraped from Leakbase - this site has been around a while and has went thru a few different domain TLDs. It's basically where threat actors can go and leak dbs and info or DL them.
+
+Usernames gathered from the Who's Online section, chatbox, and posted threads.
+
+**Date Range of scrape:** August 22 2025 --> March 4 2026. Forum taken down and seized by law enforcement. 
+
+**Amount:** 10,954 unique usernames
 
 ---
 
@@ -152,20 +164,6 @@ Old urls: DarkForums.io
 **Date Range of scrape:** June 1 2025 --> current date
 
 **Amount:** 62,641 unique usernames
-
-----
-
-## Leakbase.la
-
-**[forum_users_leakbase.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_leakbase.txt)**
-
-Usernames scraped from Leakbase - this site has been around a while and has went thru a few different domain TLDs. It's basically where threat actors can go and leak dbs and info or DL them.
-
-Usernames gathered from the Who's Online section, chatbox, and posted threads.
-
-**Date Range of scrape:** August 22 2025 --> March 4 2026. Forum taken down and seized by law enforcement. 
-
-**Amount:** 10,954 unique usernames
 
 ----
 
