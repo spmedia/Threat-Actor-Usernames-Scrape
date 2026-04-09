@@ -53,6 +53,7 @@ Active:
 - [OGUser.com/OGU](#ogusercomogu)
 - [Patched.to](#patchedto)
 - [RehubCom](#rehubcomag)
+- [xReactor](#xreactor)
 - [XSS.pro](#xsspro)
 
 ## Scraped Username Statistics
@@ -354,6 +355,20 @@ The usernames in this list are scraped from posted threads and Who's Online.
 **Date Range of scrape:** March 31 2026 --> current date
 
 **Amount:** 2,184
+
+---
+
+## xReactor.org
+
+**[forum_users_xreactor.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_xreactor.txt)**
+
+A carding forum.
+
+The usernames in this list are scraped from posted threads and Who's Online.
+
+**Date Range of scrape:** March 31 2026 --> current date
+
+**Amount:** 3,820
 
 ---
 
