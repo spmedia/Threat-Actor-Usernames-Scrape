@@ -112,7 +112,7 @@ The usernames in this list are scraped from posted threads.
 
 ## BreachStars.io
 
-**[forum_users_breachstars.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachstars.txt)**
+**[dead_forum_users_breachstars.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_breachstars.txt)**
 
 A forum that recently was created from the ashes of Breached going down. Admins are Rey from the Hellcat ransomware group and a few other threat actors from the breached/RaaS/db leaker scene.
 
