@@ -342,6 +342,20 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 ---
 
+## CraxPro.org
+
+**[forum_users_craxpro.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_craxpro.txt)**
+
+A financial fraud and carding/spamming/hacking forum.
+
+The usernames in this list are scraped from posted threads and Who's Online.
+
+**Date Range of scrape:** March 31 2026 --> current date
+
+**Amount:** 2,184
+
+---
+
 # Greetz 💌
 
 All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), chill intel companies that dont charge people 6-7 figures a year to access intel, sp, rj2, neQx, jt, smurda, jekz, MoB, sikez, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
