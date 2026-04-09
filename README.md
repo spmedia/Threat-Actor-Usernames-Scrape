@@ -31,14 +31,18 @@ Usernames scraped from various cybercrime forums.
 
 Forums scraped from
 
-- [BreachForums.st](#breachforumsst-rip) (rip)
-- [BreachForums.hn](#breachforumshn-rip) (rip)
-- [Breachstars.io](#breachstarsio) (rip)
-- [Leakbase.la](#leakbasela) (rip)
-- [NoHide.io](#nohideio--rip) (rip)
+Dead:
+- [BreachForums.st](#breachforumsst-rip) 
+- [BreachForums.hn](#breachforumshn-rip)
+- [BreachForums.bf](#breachforumsbf) (lol) 
+- [Breachstars.io](#breachstarsio) 
+- [Leakbase.la](#leakbasela) 
+- [NoHide.io](#nohideio--rip) 
+- [Umbra.by](#umbraby)
+
+Active:
 - [Altenen.is](#altenenis)
 - [ASCarding.net](#ascardingnet)
-- [BreachForums.bf](#breachforumsbf) (lol)
 - [BlackHatWorld.com](#blackhatworld)
 - [Cracked.sh](#crackedsh)
 - [DarknetArmy.io](#darknetarmyio)
@@ -48,7 +52,6 @@ Forums scraped from
 - [OGUser.com/OGU](#ogusercomogu)
 - [Patched.to](#patchedto)
 - [RehubCom](#rehubcomag)
-- [Umbra.by](#umbraby)
 - [XSS.pro](#xsspro)
 
 ## Scraped Username Statistics
@@ -134,6 +137,18 @@ Usernames gathered from the Who's Online section, chatbox, and posted threads.
 **Date Range of scrape:** August 22 2025 --> March 4 2026. Forum taken down and seized by law enforcement. 
 
 **Amount:** 10,954 unique usernames
+
+---
+
+## Umbra.by
+
+**[forum_users_umbra.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_umbra.txt)**
+
+The usernames in this list are scraped from posted threads and users who respond in them.
+
+**Date Range of scrape:** January 03 2025 --> 4/1/26
+
+**Amount:** 257
 
 ---
 
@@ -282,18 +297,6 @@ The usernames in this list are scraped from posted threads and users who respond
 **Date Range of scrape:** December 27 2025 --> current date
 
 **Amount:** 13,478
-
----
-
-## Umbra.by
-
-**[forum_users_umbra.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_umbra.txt)**
-
-The usernames in this list are scraped from posted threads and users who respond in them.
-
-**Date Range of scrape:** January 03 2025 --> current date
-
-**Amount:** 257
 
 ---
 
