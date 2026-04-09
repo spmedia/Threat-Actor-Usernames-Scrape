@@ -128,7 +128,7 @@ The usernames in this list are scraped from posted threads.
 
 ## Leakbase.la
 
-**[forum_users_leakbase.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_leakbase.txt)**
+**[dead_forum_users_leakbase.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_leakbase.txt)**
 
 Usernames scraped from Leakbase - this site has been around a while and has went thru a few different domain TLDs. It's basically where threat actors can go and leak dbs and info or DL them.
 
@@ -142,7 +142,7 @@ Usernames gathered from the Who's Online section, chatbox, and posted threads.
 
 ## Umbra.by
 
-**[forum_users_umbra.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_umbra.txt)**
+**[dead_forum_users_umbra.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_umbra.txt)**
 
 The usernames in this list are scraped from posted threads and users who respond in them.
 
