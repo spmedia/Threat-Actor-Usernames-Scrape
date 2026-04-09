@@ -45,6 +45,7 @@ Active:
 - [ASCarding.net](#ascardingnet)
 - [BlackHatWorld.com](#blackhatworld)
 - [Cracked.sh](#crackedsh)
+- [CraxPro](#craxproorg)
 - [DarknetArmy.io](#darknetarmyio)
 - [DarkForums.me](#darkforumsme)
 - [Dread](#dread)
