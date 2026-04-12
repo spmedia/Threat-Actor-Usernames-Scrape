@@ -64,7 +64,7 @@ Active:
 | Total unique usernames | 574,244 |
 | Total duplicate usernames | 40,848 |
 
-*Last updated: April 12, 2025*<sup>*</sup>
+*Last updated: April 12, 2026*<sup>*</sup>
 
 <sup>*total usernames is updated frequently. unique and dupe is monthly</sup>
 
