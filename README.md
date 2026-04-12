@@ -18,7 +18,7 @@ Other uses for these lists:
 
 - combine all the usernames together to use as an interesting password list
 - enrich existing intel
-- pick a random username from these lists and adopt it for yourself on another forum or platform to mask yourself a bit and to confuse some researchers/LE
+- pick a random username from these lists and adopt it for yourself on another forum or platform to mask yourself a bit and to confuse some researchers or law enforcement
 - use the data to send PM spam on the forums
 - do some cool nerd data science things
 - track a threat actor username across multiple forums to see which ones they are on
