@@ -98,6 +98,24 @@ The forum came back online after its take down in April and the arrests of Intel
 
 ---
 
+## BreachForums.as
+
+**[forum_users_breachforumsBF.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachforumsBF.txt)**
+
+Sigh...BF number #32423423. How long will this one last? Likely not long but until then, we be scraping it.
+
+The usernames in this list are scraped from posted threads and users who respond in them.
+
+As predicted, this forum went offline lol. Didnt even last 6 months. 
+
+old tlds: BreachForums.jp, BreachForums.bf
+
+**Date Range of scrape:** December 18 2025 --> March 16 2026
+
+**Amount:** 39,229
+
+---
+
 ## NoHide.io  (**rip**)
 
 **[dead_forum_users_nohide_io.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_nohide_io.txt)**
@@ -180,7 +198,7 @@ Old urls: DarkForums.io, DarkForums.me
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 63,764 unique usernames
+**Amount:** 64,207 unique usernames
 
 ----
 
@@ -252,25 +270,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 44,882
-
-----
-
-## BreachForums.as
-
-**[forum_users_breachforumsBF.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breachforumsBF.txt)**
-
-Sigh...BF number #32423423. How long will this one last? Likely not long but until then, we be scraping it.
-
-The usernames in this list are scraped from posted threads and users who respond in them.
-
-As predicted, this forum went offline lol. Didnt even last 6 months. 
-
-old tlds: BreachForums.jp, BreachForums.bf
-
-**Date Range of scrape:** December 18 2025 --> March 16 2026
-
-**Amount:** 39,229
+**Amount:** 45,684
 
 ----
 
@@ -284,7 +284,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 25 2025 --> current date
 
-**Amount:** 4,294
+**Amount:** 4,370
 
 ---
 
@@ -298,7 +298,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 27 2025 --> current date
 
-**Amount:** 14,076
+**Amount:** 14,230
 
 ---
 
@@ -326,7 +326,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 6,473
+**Amount:** 6,637
 
 ---
 
@@ -340,7 +340,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 48,669
+**Amount:** 50,206
 
 ---
 
@@ -354,7 +354,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 2,629
+**Amount:** 2,984
 
 ---
 
@@ -368,7 +368,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 4,186
+**Amount:** 4,432
 
 ---
 
