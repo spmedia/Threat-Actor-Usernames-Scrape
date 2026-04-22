@@ -60,7 +60,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 615,092 |
+| Total usernames | 635,629 |
 | Total unique usernames | 574,244 |
 | Total duplicate usernames | 40,848 |
 
@@ -198,7 +198,7 @@ Old urls: DarkForums.io, DarkForums.me
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 64,455 unique usernames
+**Amount:** 64,630 unique usernames
 
 ----
 
@@ -214,7 +214,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 31,874
+**Amount:** 32,917
 
 ----
 
