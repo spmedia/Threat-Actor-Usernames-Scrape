@@ -56,6 +56,7 @@
 220v
 256
 256bit
+2Check
 2c71e9
 2club2
 2fast
@@ -67,6 +68,7 @@
 3gabra
 3r5adfs2awedsadsad
 3th
+3y3G0r3
 404
 404recon
 44Alex44
@@ -218,6 +220,7 @@ Asgard
 Asgard_Seller
 Asha
 AshenWraith
+Ashuankilo
 Asist
 Astarothx
 Astedoto
@@ -365,6 +368,7 @@ C0rtex
 C2flow
 C3F3R
 CCexpress
+CHOLO
 CKAP
 CODE XREF
 CSA_software
@@ -559,6 +563,7 @@ Dimon
 Dirlinuxs
 DirtyBunny
 DirtyGarry
+DiscordTelergamService
 Diter676
 Dizarted
 Dkey
@@ -700,6 +705,7 @@ Fin1stS0k0L
 Finch
 Finder
 Finix
+Fireboy
 FishLab
 Five_Family
 Fivio
@@ -1194,6 +1200,7 @@ Matteo
 Maverick
 Mavka
 Max Butler
+Max Power
 MaxUp
 Maxat
 MaximusSpawn
@@ -1295,6 +1302,7 @@ NOP
 NTK
 NTrunner
 Nabogatov
+Naj1n
 NamiOO
 NarayanX
 Nardo
@@ -1446,6 +1454,7 @@ PolyglotEleven
 Polym0rph
 Polymorph
 Pompinius
+Poortrader
 Popularseller
 Porshe911GT3
 PosterMorgan
@@ -2105,6 +2114,7 @@ alisckamoore
 alpacadolphin05
 alph
 alphaman
+alves40401
 always420
 am0nra
 amarrion
@@ -2116,6 +2126,7 @@ amoralventures
 amore
 amphetam1n
 amstrot
+amylee009
 anaMorphe
 anacondaz
 andinov
@@ -2319,6 +2330,7 @@ br0ny
 bratka
 bratva
 breakarule
+brewstate
 briancrabs
 brigadir
 brokeasf
@@ -2331,6 +2343,7 @@ btcman
 btmob
 bubooboy
 buffalo
+bug41
 bugatti
 bugphp
 builder
@@ -2936,6 +2949,7 @@ ice80
 icerackz
 idenVersio
 idol1bpi
+ihatemyfuckinglife
 ilonmask
 ilovevodkaru
 im1111
@@ -2988,6 +3002,7 @@ jamierant0784
 jamilois
 jaros
 jaskolka
+jasonkarl
 javascriptbypass
 jaxaw
 jemka94
@@ -3218,6 +3233,7 @@ lorddragon
 lordmilti
 lost and found
 losts
+loucs999
 lousytequila
 lovelyme
 lovenotlust
@@ -3313,10 +3329,12 @@ millioner
 milly
 mindyourbusiness
 minerva
+minfin
 minimik73
 minimoves
 mipolaoia
 mipos
+mirak59
 miserylord
 missrobot
 mistinic01
@@ -3375,6 +3393,7 @@ mrfelina
 mrfreakman
 mrgh0st
 mrhensley
+mrx2909
 mrxdark
 mrzed
 msm545
@@ -3668,6 +3687,7 @@ real
 realism
 realmofinternet
 red_byte
+redblueapple2
 redborscht
 reddbigie
 redeyex
@@ -3716,6 +3736,7 @@ roywork
 rozmarin
 rresearcherr
 rtkm
+rubikscube
 rudadima
 rudra
 ruizkai0
@@ -3779,6 +3800,7 @@ sec0de
 secbro
 secidiot
 sect adept
+sedative543
 sedrig
 seedfucker
 seepatiy
@@ -3804,6 +3826,7 @@ shady
 shakalru
 shantar4m
 sharey
+shattof
 shears
 shell2web
 shellcode_
