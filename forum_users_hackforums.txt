@@ -1,7 +1,3 @@
-# Usernames scraped from the forum HackForums.net
-# Start date of collection = Aug 25 2025 -> present date
-# scraped by Major aka spmedia
-
 !Gambit!
 !NFO
 !lucking
@@ -1031,6 +1027,7 @@ APACHE9393
 APELAXPNL
 APEX007
 API4
+APIBoy
 APIron
 APKEtherum2025
 APT88
@@ -2242,6 +2239,7 @@ Apoloo404
 Apophis1337
 Apos11
 AppRox
+Appbookinq
 Appelsinas
 Appex
 Appladr44
@@ -2506,6 +2504,7 @@ Askyourmomforit
 Asm88
 AsmNinja
 AsmResolver
+AsmoML
 Asna
 Aspect217
 Aspendealz
@@ -4418,6 +4417,7 @@ CST_Cryst
 CT-ZY
 CTOMONO
 CTRL Digital
+CTrePT
 CTwaS
 CUB4N
 CUBVW0TWJJPT
@@ -4698,6 +4698,7 @@ CeoKerv
 Ceolifestyle24k
 Cerberus27
 CerberusTools
+CerealXeno
 CerebrosOSINT
 Cervina 1
 Cesar Ataucusi
@@ -4942,6 +4943,7 @@ Chronosanda
 Chronosphere
 Chronotrigga
 Chroon
+Chuasdas
 ChubChub03
 Chubacas
 Chuck Norris‌‌‌‌
@@ -6335,6 +6337,7 @@ DecipherX
 DecksL
 Declanpitter
 Decodec
+Decodo9000
 Decoto
 Decree 211
 Ded6933
@@ -9940,6 +9943,7 @@ Hackde
 Hacked-Life
 HackedNightmare
 HackedZonat
+Hacked_WithNoMalware
 Hackemgood!
 Hackenbacker
 Hackentosh
@@ -9995,6 +9999,7 @@ Hackme1983
 Hackmysack
 Hacks el pepe
 Hackski0000
+Hackslash
 Hackter
 Hacktick
 Hackuababe
@@ -10998,6 +11003,7 @@ Ilikemilk001
 IllIIlIIIllIlI
 Illegalmover93
 Illu$ion
+Illustrious_Mind3685
 Illy05
 IlokZUr
 Ilooklikemymama
@@ -17816,6 +17822,7 @@ OnXeon
 Onamil
 Ondt
 OneBadYokai
+OneHalf
 OneHundred14
 OneKing
 OneManArmy19
@@ -18046,6 +18053,7 @@ P0mp0m
 P13S
 P1N7
 P1R4T3
+P1easeHe1pM3
 P1hd4
 P1nkman
 P3H3X
@@ -20165,6 +20173,7 @@ Rompow
 Ron78
 Ronaldo4
 Ronaldrivera
+Ronalz351s
 RonieDinosaur
 Ronin69
 Ronit123
@@ -21786,6 +21795,7 @@ Siddharth singh
 Sid™
 Sierra-117
 Sifeless
+Sift
 Siggi.
 Sigma
 Sigma Lewis
@@ -22013,6 +22023,7 @@ Skithesky
 Skitzboi2k9
 SkizzoAcid
 Skjors
+Skkathi
 Skkz912
 Skm1991
 SknyG
@@ -22106,6 +22117,7 @@ Slippy1968
 Slizard
 Slllo
 Slo4nPlay3r
+Slobodan
 Sloobot
 Sloobotv2
 SloopDoop
@@ -22288,6 +22300,7 @@ SolEvioleta
 Sola71111
 SolarFlareSTNL
 SolarRAT
+SolarisS04
 Soldier Boy
 Soldierboyav
 SolidPlace
@@ -23335,6 +23348,7 @@ TassenHeldFrankStein378
 Taste187
 Tastyhamsandwich
 Tasumi
+Taswinz
 Tasz
 Tat Tvam Asi
 Tat2creed
@@ -24422,6 +24436,7 @@ Trinity™
 Trip01x
 Tripai
 Triple Bond
+Triple Five
 TripleRat
 Tripp6
 Tripple6
@@ -24635,6 +24650,7 @@ UTCS00
 UUSIKEISARI
 UUZEX
 Uaar
+Ub3rallin
 Ubaid Khan
 Ubaste
 Ubbadhjh63
@@ -24739,6 +24755,7 @@ Unkman
 Unkn0wnPlayer
 Unkn0wnacc0un7
 Unknowman
+Unknown
 Unknown Swipper
 Unknown guy
 Unknown man
@@ -25199,6 +25216,7 @@ VinkO
 VinkoLeVrai
 Vinlassl
 VinnieOmari
+Vinniess
 Vintax94
 Vinzzy22
 Violatez
@@ -26220,6 +26238,7 @@ Yahyabkd
 Yakless
 Yaks
 YakuzaCnxs
+Yakuzacan
 Yakuzacannn
 Yamaaxito
 Yamada
@@ -26909,6 +26928,7 @@ Zzzippo
 Zzzkiller
 Zéro Day
 [Benevolence]
+[Eden]
 [Fidelity]
 [Gamblers]
 [H4CK3R$]
@@ -29138,6 +29158,7 @@ avtomati
 avtz667
 avxi_
 aw3bn7981
+aw8977045
 awa-hc
 awaffle
 awaitferrari2005
@@ -29739,6 +29760,7 @@ bearseo
 bearvibrant
 beast764
 beasty123
+beatentomycore
 beatgov
 beatthebox123
 beatworld
@@ -30268,6 +30290,7 @@ blackb333rrryy
 blackbearagency
 blackberry33
 blackbird1
+blackbird19990918
 blackblood5
 blackcar
 blackcash007
@@ -30849,6 +30872,7 @@ bratva77
 bratvaa
 bratzpurse
 braun33
+braunnypr
 bravetroo
 bravo61
 brawlstarsdemon
@@ -31241,6 +31265,7 @@ c130se
 c1carbon3
 c1fr4
 c1sco
+c2597175
 c2cu
 c2media
 c4201
@@ -32346,6 +32371,7 @@ cool kid .•’.
 cool2
 cool2424
 coolaccount123
+coolbeans12
 coolboiiiii
 coolboy213123
 coolbuddie
@@ -33289,6 +33315,7 @@ dashan22wow
 dashcat
 dashd
 dashwell
+daspir
 dasskitty
 dasti1
 dasw0n
@@ -33839,6 +33866,7 @@ devo33
 devondunaway
 devontahaley
 devontemaples
+devoooo
 devops
 devox333
 devsamsepi0l
@@ -34090,6 +34118,7 @@ dioniscam
 dionteostrander
 dipppyyyyy
 diqiuceo
+diretto1337
 dirjo
 dirkb032
 dirlewanger
@@ -40853,6 +40882,7 @@ jickjackjoe
 jid91191
 jidk
 jiff4141
+jiffyliffy2367
 jiggerkk
 jigglebutt
 jiinx
@@ -42797,6 +42827,7 @@ kookiem
 koolio07
 koolyjoe77
 koonp
+koool
 koopachuck
 kooster747
 kootermans
@@ -43703,6 +43734,7 @@ lightduty
 lighter78
 lightmon398555
 lightning strikes
+lightningspeed
 lightone
 lightoskaka
 lightsoul
@@ -44639,6 +44671,7 @@ maestrodemonero
 maevelline3287
 mafiaboss101
 mafiaboy
+mafiaking26
 mafianclub
 mafiarugpull
 maficab220
@@ -45714,6 +45747,7 @@ mido9999
 midoeden2732
 midoriwatashi00
 midoskarr
+midou3399
 miehwhha
 mieu
 miffyfi
@@ -46308,6 +46342,7 @@ montoaster
 montyera2k
 montythebrave
 monyetking88
+monzaboutique
 moodes
 moody722
 moom825
@@ -46342,6 +46377,7 @@ mopkon
 moppy123
 mopxdl
 mora201w
+morally
 morastehellebard
 morbid
 morbidlydumb
@@ -48635,6 +48671,7 @@ pahack
 paidinfully
 pain08
 paingravy
+painkiller1
 paiutz
 pakcyber786
 pakdaf
@@ -49030,6 +49067,7 @@ petercole34
 petergiesel
 peterharker
 peterkester
+peterleo456
 peterpan123
 peterparker1234
 petertutek
@@ -49584,6 +49622,7 @@ prastiilel
 pratiquemoi
 pray1776
 prayUI
+prayergz
 prbrsona
 prchoward1998
 prcs2023
@@ -50290,6 +50329,7 @@ ralphindaeyo
 ralta123
 ralzie
 ram@1986
+ramayito13
 rambo9figs
 rambobino
 ramdom alien
@@ -50454,6 +50494,7 @@ razer92
 razersharkz
 razorback42
 razorking100
+razoryn
 razvan5436
 razzy4realbiz
 rb334698
@@ -50954,6 +50995,7 @@ rivenhenry
 rivercharoniv
 riverflow999
 rivermwolf
+rivia1337
 riwkwas
 rixrixie
 riy.uuuxx
@@ -52579,6 +52621,7 @@ shinyzx0
 shinzo
 ship
 shipmentt
+shir4zz
 shiraiko
 shirohige19
 shiroxd
@@ -54922,6 +54965,7 @@ thatcyplex34
 thatfunkymonkey
 thatgirlswag88
 thatguyspoof
+thatonedudewiththeface
 thatonegrayguy
 thatoneguyjamal
 thatscriptkid34
@@ -55780,6 +55824,7 @@ trumpet.ogg
 trunks
 truong
 truquito30
+trusikas
 truskawkamalina
 trusters
 trustfield
@@ -57430,6 +57475,7 @@ whobetta1090
 whocares
 whoevengivesashit
 whoeveriam89
+whoisaws
 whoiscasper
 whoisfrosty
 whoispatch
@@ -58113,6 +58159,7 @@ xioner
 xionglaos
 xiongshu
 xipperzo
+xirus
 xirx-beta
 xiwic
 xixi.xioop
