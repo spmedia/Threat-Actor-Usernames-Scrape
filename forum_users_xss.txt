@@ -84,6 +84,7 @@
 4wayswing
 500mhz
 520
+521
 5btc
 627sticks
 777not999
@@ -299,6 +300,7 @@ Big Black Cat
 Big-Bro
 BigBug
 Bigfatmo
+Bigknocker
 Bill
 Billboard
 BilliMIlligan
@@ -337,6 +339,7 @@ Booster
 Bork
 BotFather
 BottleOfWine
+Brain
 BrainKios
 Brandon
 Bratva_kotoriu_stariy
@@ -385,6 +388,7 @@ CapitanPrice
 Captivate
 Cara
 Carcinid
+Carol
 Cartell
 Casper_504
 CassiusClay
@@ -699,6 +703,7 @@ Felix8
 Femida_Verif
 Fenerovetr
 Fiaqel
+FidelCastro
 Fierce Fox
 File_Collector
 Fin1stS0k0L
@@ -775,6 +780,7 @@ Gehenna
 Gelel
 GeliosStudio
 Gemfory_
+GenGenra
 GenWolf
 General Iroh
 Gennady Abdulov
@@ -829,6 +835,7 @@ GutuYo
 H2SO4
 HASH BROKER SERVICE
 HAT3
+HCZEE
 HDStore
 HNH CRYPTO
 HVRSH
@@ -995,6 +1002,7 @@ KaiserSoze
 Kaiz
 Kaizen
 KakToTak
+Kaktak
 Kalopol
 KamBiNeezOn
 KarinaAff
@@ -1041,6 +1049,7 @@ Kotmart75
 Kovalyoff
 Kozinaaa
 KrakenBite
+Krampus
 Kraxs
 Kremlin Gremlin
 Krustywise
@@ -1277,6 +1286,7 @@ Mr_Pentium_
 Mr_Rob
 Mr_Stuxnot
 Mr_aqua
+MracOs
 Mtknik
 MtlGr
 MultiHost
@@ -1290,6 +1300,7 @@ N01seless
 N0Pn0pn0p
 N0deNull
 N0n4m3s
+N3ptun
 N3t0r
 N3ur0n
 N9XDZ
@@ -1355,6 +1366,7 @@ NotRealMe02
 Novenki
 Nucl3eaRReact0r
 Null Revolt
+NullFast
 NullSafe
 Nylanister
 O6Mop0k
@@ -1367,6 +1379,7 @@ ORBIT666
 OSCE3_MASTER
 OSINT Service
 OUKB
+OWN
 Obeme
 ObsidianEVGroup
 Octavian
@@ -1482,6 +1495,7 @@ Putichka
 PwnCheck
 Pxiolit
 PySt0tA
+Pyramidion
 QAZWSX
 Qasro
 Qebet
@@ -1687,6 +1701,7 @@ Shtefan
 Shuter
 Sialent
 SilentLucidity
+Simonwaver
 Simpo
 SistemMan
 Size
@@ -1771,6 +1786,7 @@ SuppWS
 Support_Exploit
 SureWhy
 Sw4r0wsk1
+SweetDreamsJ7
 SweetyAlex
 SyCo
 Synthesis
@@ -1813,6 +1829,7 @@ The CaT
 The Outsiders
 The404
 TheBadeut
+TheCodeFucker
 TheDeveloper
 TheDude23
 TheExample
@@ -1887,6 +1904,7 @@ US_ER_01
 Ubuniani
 UmaxSoft
 Umbrella
+UnicornTF
 UniqueCombo
 Unitoshka
 Unk
@@ -2046,6 +2064,7 @@ ZeR0ShKa
 ZelyonyKod
 Zephy7
 Zero888
+ZeroCode
 ZeroDDoS
 ZeroTraceX
 Zeta
@@ -2114,8 +2133,10 @@ alisckamoore
 alpacadolphin05
 alph
 alphaman
+altegro1
 alves40401
 always420
+alwayskeepclickin
 am0nra
 amarrion
 amazing
@@ -2139,6 +2160,7 @@ anfisbena
 angel495
 angrypat
 ankit_hossain
+annarkapr
 anonumxs
 antiheros
 antikrya
@@ -2230,6 +2252,7 @@ banksy
 baranka
 barbos
 barhatan
+bariga
 barnaul
 barzifurze
 basiliaflores228
@@ -2333,6 +2356,7 @@ breakarule
 brewstate
 briancrabs
 brigadir
+broggernaut
 brokeasf
 bruce05
 brund1
@@ -2488,6 +2512,7 @@ crystalgreen
 cu1t
 cumen
 cutedemon
+cvv2stash
 cvve
 cwextes
 cx2islife
@@ -2899,6 +2924,7 @@ haxoreagle012
 haxorss
 he1to
 heikeji159357
+heksy37
 helixtwins
 hellboy003
 henryford
@@ -2948,6 +2974,7 @@ iamthekid
 ice80
 icerackz
 idenVersio
+idoesthiss
 idol1bpi
 ihatemyfuckinglife
 ilonmask
@@ -2968,6 +2995,7 @@ integraGT
 intelx
 intenso
 interdebug
+interflon
 internetional
 ioioio777
 iowyks
@@ -3158,6 +3186,7 @@ lacosta29
 lali111
 lambius
 larp1ngs
+larry00x
 larryalcina
 larryflint
 larsI
@@ -3192,6 +3221,7 @@ ligalize42
 lightpep
 like_read
 lilia313
+lilpeep
 lilvarya
 lima8v4v
 limo
@@ -3223,6 +3253,7 @@ lols666
 lonelyakonfolife
 longman
 lookdadon
+lookee
 lookingforpaypaldata
 lookout
 looonely_creature
@@ -3243,6 +3274,7 @@ lucik
 lucyyyyyyy
 lukas
 lukkyduk
+lukmus
 lulz
 lumixxxx
 lunn0b
@@ -3336,8 +3368,10 @@ mipolaoia
 mipos
 mirak59
 miserylord
+mishka_umka
 missrobot
 mistinic01
+mixinstall
 mizoos
 mj1337
 mkcvnvn
@@ -3541,6 +3575,7 @@ passport
 patatala
 patrick jane
 patrodalmo
+pavilion13
 paymanapi
 pe4enka
 penStress
@@ -3558,6 +3593,7 @@ petrinh1988
 petroglyph
 petrpetrov
 petrushka
+pexota
 ph4nt0mxxx
 phantomterror
 phenozepamuser
@@ -3626,6 +3662,7 @@ psyops442
 punisher
 pupsik4444
 purumpum
+puthenia400
 pwncat89
 pwnk3yz
 pwrddos
@@ -3744,6 +3781,7 @@ rukkola
 rumumba
 runtz
 rurk
+russianexploiter
 ruth_nancy
 rwanda
 rwxrwx
@@ -3781,6 +3819,7 @@ sapfire
 sarahfanoli
 sargoce
 sart0ri
+sasha_nevskiy
 satan
 savemysoul
 sawa
@@ -3796,6 +3835,7 @@ scowl
 scrack
 script
 scriptore
+scrlxrd
 sec0de
 secbro
 secidiot
@@ -3816,6 +3856,7 @@ setev1k
 setkas
 seven777th
 sexybroker
+sexyskin
 seyf1387
 sh001er
 sh4d0wkr3k
@@ -4079,6 +4120,7 @@ ucrypt
 uglygirl
 uholovo
 uid0
+uiniqdesoon
 uioxx
 ult1matum
 umarum
@@ -4129,6 +4171,7 @@ vancyvancy
 vanga_s friend
 vangogpro
 vap0r
+vapo
 varga1017
 varwar
 vasilevsky322
@@ -4151,11 +4194,13 @@ vernicel
 vers
 versailleslife
 vespiaryList
+vesti
 veter22
 veteran_alfi
 vhizzleknat
 vigi4
 viktorselk
+vilo9nik
 viola87
 viperultra1
 viral_love
@@ -4181,6 +4226,7 @@ vollbeat
 vortex_lord
 vovakill
 vpsdedic
+vpskot
 vrz
 vtun
 vxero
@@ -4191,6 +4237,7 @@ w0nd3r
 w1nd0ws12
 w1thluv
 w3bwitcher
+w3group
 w3tts0n1337
 waahoo
 waine
@@ -4296,6 +4343,7 @@ xsdxs
 xssNew
 xss_user
 xssagency
+xstrike33
 xtho
 xtrfy
 xvezee
@@ -4315,6 +4363,7 @@ yal
 yaro_slav
 yashechka
 yasher50
+yatutzarespekt
 yelaxar
 yellow
 ygwoods
@@ -4442,6 +4491,7 @@ zzzka
 плаг
 платиновыйдракон
 руки-из-жопы
+святой бог
 скрытый
 уголный чел
 фристаил
