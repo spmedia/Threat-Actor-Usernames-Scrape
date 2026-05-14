@@ -60,7 +60,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 668,059 |
+| Total usernames | 690,300 |
 | Total unique usernames | 574,244 |
 | Total duplicate usernames | 40,848 |
 
@@ -270,7 +270,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 55,715
+**Amount:** 56,296
 
 ----
 
