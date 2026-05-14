@@ -143,6 +143,7 @@ Ahli
 Ahmed09
 Aiden
 Ailurophile
+Aisus
 Akenet
 Akrapovich
 Al4ik
@@ -234,6 +235,7 @@ Astedoto
 Aster
 AsterixObelix
 AsteroidZ
+Atomarnost
 AtomikBot
 Aton
 AudiA6
@@ -347,6 +349,7 @@ Bobap
 Bolgarets
 Bomond
 Boogyman
+Boombastic
 Booster
 Bork
 BotFather
@@ -359,6 +362,7 @@ BraveCrypto
 BraveKreuger172
 BreachX
 BreakDalow
+BreakingBadStore
 Brejnev
 Brian Krebs
 BridieMrazMoore
@@ -394,6 +398,7 @@ CSulptor
 CTiFc3r
 CULA
 CVE-2012-0152
+CVE-2025-5839
 Cacodemon
 CallAzaman
 Cam_no_cebe
@@ -536,6 +541,7 @@ DarkFade
 DarkMatter
 DarkMatter74
 DarkOde
+DarkSoftPlan
 DarkToken
 Dark_Trafer
 Darkc0de0
@@ -563,10 +569,12 @@ DedHasan
 Def
 Def4ik
 DefebCrypt
+Defraq
 DeiTy
 Deltaplan
 Demonessa
 Demonizacija
+DenDevil
 Dennis Modde
 Derivative
 Desoxyn
@@ -813,6 +821,7 @@ Gennady Abdulov
 Gentare
 GeoKinGa
 Geograph
+Geometry
 George-Blake
 Georges1992
 Gerion
@@ -856,6 +865,7 @@ Groffi664
 Grotendique
 Grozny2007
 Grupales
+Gruzin733
 Guest
 Gufi
 Guron_18
@@ -989,6 +999,7 @@ Jiskon
 Joda
 JohnPork
 JohnRipper
+Johnking99
 Johnny_Catswill
 Jolly Roger
 JonRambo
@@ -1127,6 +1138,7 @@ Lena Marlowe
 Leoman
 Leon74
 Leonid Filatov
+Leper
 Lerod
 LesAn
 Leslidiaz
@@ -1253,6 +1265,7 @@ MasterValeriy
 Masterofdark
 Mastershareholder
 Matanbuchus
+Matrix--432
 Matroskin
 Matteo
 Maverick
@@ -1297,6 +1310,7 @@ Mira
 Mirax Bot
 Mirder
 Mirotvorets
+Mister_L
 Mitnick
 Mlex
 MoanMan
@@ -1360,6 +1374,7 @@ N3t0r
 N3ur0n
 N9XDZ
 NEMAFIA
+NERUX
 NFCBro
 NICENIC NET
 NIMBO
@@ -1460,6 +1475,7 @@ Oneteam
 OnionNord
 Onyx1050
 Onyxov
+Op VoIP
 Opa334
 OpenBrock
 Oplot
@@ -1524,6 +1540,7 @@ PifPaf1
 Piramida
 PlUsApLaYer
 PlebsoVata
+Poison_bot
 Polyeek
 PolyglotEleven
 Polym0rph
@@ -1545,6 +1562,7 @@ PrivateService
 PrivilegesGenius
 Pro100boY
 ProTeuS
+Promo Manager
 Protocol
 ProxyBurning
 ProxyWins
@@ -1566,6 +1584,7 @@ Qol
 Qrushe
 Quake3
 Quake3Arena
+Qurle
 QweRR
 R00tkit
 R0C1N4NT3
@@ -1629,6 +1648,7 @@ Rembik
 Remio
 RemoteX
 Ren4rd
+Replicon
 Reptiloid99
 Request
 Rere
@@ -1836,6 +1856,7 @@ StartFinishAds
 StateProperty
 StayOut
 Steffanov
+Stifler
 Stimul007
 Stockholm
 StormBit
@@ -1899,6 +1920,7 @@ Termit45
 Teryx
 Tetcher
 Th1nkAb0ut
+Th30C0der
 Th3RED
 The CaT
 The Outsiders
@@ -1936,6 +1958,7 @@ Tixter13
 Togi
 Tohaer
 Tom_Jerry
+Tomek
 TommyL
 TommyVic
 Tomogotchi
@@ -1973,6 +1996,7 @@ Tw1x88
 TweNt
 TwentyOne
 Twizzy
+TxHunter
 UFO MARKET
 UNTLD
 USA_Straday
@@ -2056,6 +2080,7 @@ Vombat
 Voron
 Vortunian
 Vosa223
+Vredik
 Vulns
 Vultrax
 W3W
@@ -2074,6 +2099,7 @@ WennY
 Wertylet
 Westfield2
 Wezaid
+WhiskyBoy
 Whisper
 WhiteBeer
 WhiteHatOps
@@ -2220,6 +2246,7 @@ aksss
 akulapera
 alex1234
 alex_alex
+alexandervbib
 alexhighrisk
 alexkolovxxx
 alias
@@ -2351,6 +2378,7 @@ balopkod
 balzak
 banananamas
 banger666
+bank.sy
 banksy
 baranka
 barbos
@@ -2378,6 +2406,7 @@ bennybeny
 beooeef
 bephomai113
 berdyanez
+berdyshevskiy
 besenok
 bethabong
 betmoose
@@ -2475,6 +2504,7 @@ bsps
 btcblackclub
 btcman
 btmob
+bubeL
 bubooboy
 buffalo
 bug41
@@ -2676,6 +2706,7 @@ dataleak
 datebae
 dbreach
 dci
+dd-bb
 dd1kie
 deadlider
 death
@@ -2718,6 +2749,7 @@ digger
 digidi
 diktator
 diletant
+dilik
 dion1s
 dioozit
 disKing69
@@ -2728,6 +2760,7 @@ divoki
 divx
 djfksdjfsh8sdujkf
 djony
+dkromero
 dkwhoami
 dmitriblovv
 dmitryutkin
@@ -2747,6 +2780,7 @@ donerkeb
 donpalota
 donskoy
 doomed
+dope2tr
 dort
 doublev
 doxory
@@ -2813,6 +2847,7 @@ empty
 enjey
 enjoyer
 enlarger
+enotwhynotik
 entr0py
 eorlf2544
 epsten
@@ -2931,6 +2966,7 @@ futurenotreal
 fxm044
 g-hosting
 g1gg
+g3r01n
 gaara
 gabryel
 gadkiyYA888
@@ -2940,6 +2976,7 @@ gajam
 galil
 gancharart
 gangshit
+garson1
 gatmos
 gavz
 geeky
@@ -2952,6 +2989,7 @@ ghettorave
 ghost_tost
 ghostdemonic
 ghostdemonics
+ghostface_26
 ghostgunner
 ghostmarket09
 ghostwin
@@ -2961,11 +2999,13 @@ ginko7
 givemetheot
 gl0wrm
 gliderexpert
+gloman4
 gmilz
 gmo42809
 gnida0
 gnomus
 goat
+goat096
 gobl1n
 godofdata
 godslucy
@@ -3058,6 +3098,7 @@ heikeji159357
 heksy37
 helixtwins
 hellboy003
+hellinburn
 henryford
 hexdump
 hexenhammer
@@ -3119,6 +3160,7 @@ imbleedinglol
 imlevi
 index
 indexcoder
+infinity
 infra
 ingorele
 injectioninferno
@@ -3129,6 +3171,7 @@ inspectorgadget
 integraGT
 intelx
 intenso
+interLOCK
 interdebug
 interflon
 internetional
@@ -3186,6 +3229,7 @@ jmoon
 jobv
 joe88
 jogel2424255
+john727
 john_smith_999
 johndoe452
 johndoe7
@@ -3350,6 +3394,7 @@ leeex
 lega
 legalzoom
 legendaryice
+legolas789
 leic
 leito
 lemonarch
@@ -3364,6 +3409,7 @@ lexone
 lgb1ze
 liangfengdada
 lianxinr
+libreservice1
 licitacoes
 lied96
 ligalize42
@@ -3385,6 +3431,7 @@ lion
 liquidator
 liquiddeath
 lisa99
+lishimin
 lisma
 liuxing
 lizi250
@@ -3463,6 +3510,8 @@ maksq
 maksyn
 malloc
 malloy05
+malospaal
+malzor
 maminsibiryak
 mamosito
 man514lo
@@ -3512,6 +3561,7 @@ mhailquirrell
 midst hearts
 mifisto
 mike123321
+milka
 milliardov
 millioner
 milly
@@ -3528,6 +3578,7 @@ mishka_umka
 missrobot
 missxiaochouwang
 mister_mazohist
+mister_username
 mistinic01
 mixinstall
 mizoos
@@ -3659,6 +3710,7 @@ nota9
 notanaddict
 nothingleftnothingleft
 notnull
+notobliterate
 nu_takoe123
 nulevoy
 nullify
@@ -3885,6 +3937,7 @@ rashbar
 rask0lnik0v
 rat0
 rat_sec
+ratatulii
 rayodark
 raywood
 rceinn
@@ -3919,6 +3972,7 @@ restlessness
 ret0x2A
 retonga
 retryr
+return
 return love
 reversetcp
 review1
@@ -4080,6 +4134,7 @@ sikidok
 siky414
 silentgeek
 silentlink
+silkmail
 silvaqr
 silverh
 simbios
@@ -4194,6 +4249,7 @@ swagcat228
 swahhhhd
 swap3r
 swapper007
+sweetMika7
 sweetdoor
 swing477
 swinkapepa
@@ -4212,6 +4268,7 @@ t6wershop
 tabac
 tailscale
 takfanar
+talktalk
 tamusu90
 tanasko
 tankhunyeong
@@ -4372,6 +4429,7 @@ varga1017
 varta
 varwar
 vasilevsky322
+vasya seller
 vatashino
 vbn23
 vbnfghg
@@ -4420,6 +4478,7 @@ vns10k
 vodkaenjoyer
 vodkawaf
 voldemort
+volexx
 volkov_cipher
 vollbeat
 vortex_lord
@@ -4471,6 +4530,7 @@ whitegirl
 whitehaker
 whitenigga
 whitepandaa
+who_am_I
 whois12
 wigo
 wildnight
@@ -4539,6 +4599,7 @@ xnjjnoident
 xordecrypt
 xrahitel
 xsdxs
+xslllll
 xssNew
 xss_user
 xssagency
@@ -4593,6 +4654,7 @@ zaremeso
 zatvornikdamagi
 zaza1
 zdestuta
+zdzd0303
 zebra
 zeez
 zelenobablo
@@ -4661,6 +4723,7 @@ zzzka
 Пулемет
 Пушкин
 Сварожич
+Слободан Милошевич
 Смирнов
 Созидатель
 Спекулянт
