@@ -372,6 +372,18 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 ---
 
+## Breached.st
+
+**[forum_users_breached2026.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breached2026.txt)**
+
+once again, same shit different pile. 2026 remix edition. this forum will not last long.
+
+**Date Range of scrape:** May 15 2026 --> current date
+
+**Amount:** coming soon - in collection mode
+
+---
+
 # Greetz 💌
 
 All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), chill intel companies that dont charge people 6-7 figures a year to access intel, sp, rj2, neQx, jt, smurda, jekz, MoB, sikez, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
