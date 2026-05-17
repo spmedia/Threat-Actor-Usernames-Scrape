@@ -376,7 +376,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **[forum_users_breached2026.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_breached2026.txt)**
 
-once again, same shit different pile. 2026 remix edition. this forum will not last long.
+once again, same shit different pile. 2026 remix edition. this forum will not last long. they also be allowing ransomware nerds to post on it.
 
 **Date Range of scrape:** May 15 2026 --> current date
 
