@@ -1903,6 +1903,7 @@ sleepmask
 SleepyHunter
 SlowLife
 slowtown
+Slywnr
 smarter_human
 smashh
 smashworm
@@ -1926,6 +1927,7 @@ sombster
 Someb0dy
 songoku
 Sonnar
+sonyasd
 soososoq
 soph
 SorySin
@@ -2147,6 +2149,7 @@ valbundy
 valgroupsupport
 Valkorion
 Vanchester3000
+vanev18360
 VashingMachine
 Vasilevskii503
 vasilisaprem
