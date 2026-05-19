@@ -47,6 +47,7 @@ Active:
 - [Breached.st](#breachedst)
 - [Cracked.sh](#crackedsh)
 - [CraxPro](#craxproorg)
+- [DamageLab](#damagelab)
 - [DarknetArmy.io](#darknetarmyio)
 - [DarkForums.su](#darkforumssu)
 - [Dread](#dread)
@@ -380,6 +381,19 @@ The usernames in this list are scraped from posted threads and Who's Online.
 once again, same shit different pile. 2026 remix edition. this forum will not last long. they also be allowing ransomware nerds to post on it.
 
 **Date Range of scrape:** May 15 2026 --> current date
+
+**Amount:** coming soon - in collection mode
+
+---
+
+
+## DamageLab.im
+
+**[forum_users_damagelab.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_damagelab.txt)**
+
+ФОРУМ ЧЁРНОГО РЫНКА - Russians gunna russian. Your run of the mil cybercrime forum with database distribution, phishing panels, and offshore bulletproof hosting.
+
+**Date Range of scrape:** May 18 2026 --> current date
 
 **Amount:** coming soon - in collection mode
 
