@@ -391,7 +391,7 @@ once again, same shit different pile. 2026 remix edition. this forum will not la
 
 **[forum_users_damagelab.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_damagelab.txt)**
 
-ФОРУМ ЧЁРНОГО РЫНКА - Your run of the mil cybercrime forum with database distribution, phishing panels, and offshore bulletproof hosting.
+ФОРУМ ЧЁРНОГО РЫНКА - Your run of the mill cybercrime forum with database distribution, phishing panels, and offshore bulletproof hosting.
 
 **Date Range of scrape:** May 18 2026 --> current date
 
