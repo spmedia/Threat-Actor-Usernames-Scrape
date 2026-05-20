@@ -62,7 +62,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 695,475 |
+| Total usernames | 711,194 |
 | Total unique usernames | 651,089 |
 | Total duplicate usernames | 44,386 |
 
@@ -382,7 +382,7 @@ once again, same shit different pile. 2026 remix edition. this forum will not la
 
 **Date Range of scrape:** May 15 2026 --> current date
 
-**Amount:** coming soon - in collection mode
+**Amount:** 10,390
 
 ---
 
