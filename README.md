@@ -401,6 +401,19 @@ Past urls: Breached.st
 
 ---
 
+
+## PwnForums.st
+
+**[forum_users_pwnforums.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_damagelab.txt)**
+
+Scraped from posted threads, replies, and Who's Online sections.
+
+**Date Range of scrape:** May 22 2026 --> current date
+
+**Amount:** coming soon - in collection mode
+
+---
+
 # Greetz 💌
 
 All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), chill intel companies that dont charge people 6-7 figures a year to access intel, sp, rj2, neQx, jt, smurda, jekz, MoB, sikez, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
