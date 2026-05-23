@@ -54,6 +54,7 @@ Active:
 - [HackForums.net](#hackforumsnet)
 - [OGUser.com/OGU](#ogusercomogu)
 - [Patched.to](#patchedto)
+- [PwnForums.st](#pwnforumsst)
 - [RehubCom](#rehubcomag)
 - [xReactor](#xreactororg)
 - [XSS.pro](#xsspro)
