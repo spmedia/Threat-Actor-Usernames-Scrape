@@ -394,7 +394,7 @@ Past urls: Breached.st
 
 **[forum_users_damagelab.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_damagelab.txt)**
 
-ФОРУМ ЧЁРНОГО РЫНКА - Your run of the mill cybercrime forum with database distribution, phishing panels, and offshore bulletproof hosting.
+ФОРУМ ЧЁРНОГО РЫНКА - Your run of the mill cybercrime forum with database distribution, phishing panels, and offshore bulletproof hosting. I think its even a fake forum with faked posts and users.
 
 **Date Range of scrape:** May 18 2026 --> current date
 
