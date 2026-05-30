@@ -63,7 +63,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 727,169 |
+| Total usernames | 743,072 |
 | Total unique usernames | 651,089 |
 | Total duplicate usernames | 44,386 |
 
@@ -385,7 +385,7 @@ Past urls: Breached.st
 
 **Date Range of scrape:** May 15 2026 --> current date
 
-**Amount:** 13,833
+**Amount:** 14,060
 
 ---
 
