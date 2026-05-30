@@ -217,7 +217,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 37,744
+**Amount:** 38,749
 
 ----
 
