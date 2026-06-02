@@ -403,7 +403,7 @@ Scraped from posted threads, replies, and Who's Online sections.
 
 # Greetz 💌
 
-All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), chill intel companies that dont charge people 6-7 figures a year to access intel, sp, rj2, neQx, jt, smurda, jekz, MoB, sikez, and [Cybersecurity Stickers](https://cybersecuritystickers.com/)
+All the CTI nerds out there scraping intel stuffs and who are in the trenches, [dc225](https://defcon225.org/), chill intel companies that dont charge people 6-7 figures a year to access intel, sp, rj2, neQx, jt, smurda, jekz, MoB, sikez, and [Cybersecurity Stickers](https://neatstickersco.etsy.com)
 
 If you know of any cybersec researchers or CTI nerds who might find this data interesting, share it w em <3
 
