@@ -47,7 +47,6 @@ Active:
 - [Breached.su](#breachedsu)
 - [Cracked.sh](#crackedsh)
 - [CraxPro](#craxproorg)
-- [DamageLab](#damagelabim)
 - [DarknetArmy.io](#darknetarmyio)
 - [DarkForums.su](#darkforumssu)
 - [Dread](#dread)
@@ -390,19 +389,6 @@ Past urls: Breached.st
 ---
 
 
-## DamageLab.im
-
-**[forum_users_damagelab.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_damagelab.txt)**
-
-ФОРУМ ЧЁРНОГО РЫНКА - Your run of the mill cybercrime forum with database distribution, phishing panels, and offshore bulletproof hosting. I think its even a fake forum with faked posts and users.
-
-**Date Range of scrape:** May 18 2026 --> current date
-
-**Amount:** coming soon - in collection mode
-
----
-
-
 ## PwnForums.st
 
 **[forum_users_pwnforums.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_damagelab.txt)**
@@ -411,7 +397,7 @@ Scraped from posted threads, replies, and Who's Online sections.
 
 **Date Range of scrape:** May 22 2026 --> current date
 
-**Amount:** 1,875
+**Amount:** 2,013
 
 ---
 
