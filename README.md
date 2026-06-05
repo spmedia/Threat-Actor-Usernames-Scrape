@@ -62,7 +62,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 754,872 |
+| Total usernames | 761,605 |
 | Total unique usernames | 651,089 |
 | Total duplicate usernames | 44,386 |
 
@@ -186,7 +186,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 220,643 unique usernames
+**Amount:** 222,761 unique usernames
 
 ---
 
@@ -230,7 +230,7 @@ Usernames gathered from posted threads and the Who's Online section at the botto
 
 **Date Range of scrape:** August 25 2025 --> current date
 
-**Amount:** 60,431
+**Amount:** 60,492
 
 ----
 
@@ -258,7 +258,7 @@ The usernames in this list are scraped from posted threads and users who add rep
 
 **Date Range of scrape:** October 9 2025 --> current date
 
-**Amount:** 29,961
+**Amount:** 30,607
 
 ----
 
@@ -272,7 +272,7 @@ The usernames in this list are scraped from posted threads and users who respond
 
 **Date Range of scrape:** December 14 2025 --> current date
 
-**Amount:** 62,531
+**Amount:** 63,261
 
 ----
 
@@ -342,7 +342,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 71,995
+**Amount:** 72,996
 
 ---
 
@@ -356,7 +356,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 7,757
+**Amount:** 7,875
 
 ---
 
@@ -370,7 +370,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 8,413
+**Amount:** 8,702
 
 ---
 
@@ -384,7 +384,7 @@ Past urls: Breached.st
 
 **Date Range of scrape:** May 15 2026 --> current date
 
-**Amount:** 14,929
+**Amount:** 15,172
 
 ---
 
@@ -397,7 +397,7 @@ Scraped from posted threads, replies, and Who's Online sections.
 
 **Date Range of scrape:** May 22 2026 --> current date
 
-**Amount:** 2,013
+**Amount:** 2,317
 
 ---
 
