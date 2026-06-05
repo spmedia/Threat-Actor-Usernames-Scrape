@@ -171,6 +171,7 @@ $tone
 0xSaint
 0xSayf
 0xScr3am
+0xSettngDev
 0xSoul_Parser
 0xSt3li0sD3v
 0xTDW
@@ -713,6 +714,7 @@ $tone
 66Www
 66loved
 66pq
+675131557
 676766766766
 67KZ
 67diddyblud
@@ -904,6 +906,7 @@ A.G
 A.K.
 A011235
 A120B240
+A16ixxx
 A1exsans
 A1rizzi
 A1sky1999
@@ -1943,6 +1946,7 @@ Anc86
 Ancestral
 Anchosteam
 Ancient Rat ©
+Ancoli Kontolo
 And4667y
 AndGP0502
 Anda
@@ -3290,6 +3294,7 @@ BennerBoi
 BennettCard
 Bennibuckow
 Benny Andersen
+Benny Hill
 Benny1810
 Benny99s
 Benokeze
@@ -3938,6 +3943,7 @@ Bono
 Bonsai
 Bonscott
 BooGod
+Boobarina
 Boobb
 Booe97
 Boog87
@@ -4963,6 +4969,7 @@ ChrisIgel
 ChrisMaggot99
 Chris_56
 Chrisboozer
+Chrisnayoxxx
 Christ2003ok
 Christensen
 Christian Jungen
@@ -5602,6 +5609,7 @@ Cryptochadpupper
 Cryptographyexe
 Crypton00b
 Cryptor
+Cryptoservice
 Cryptoxmr
 Cryptz™
 Crysioxxx
@@ -7288,6 +7296,7 @@ Dubbeldd
 Dubes
 Dubitus™
 Duble
+Ducati20
 DuceAteLultimoRespir
 Duck On Quack
 DuckAssistBot
@@ -8191,6 +8200,7 @@ FaberCastell
 Fabian_Dv
 Fabiangg35
 Fabianpa
+FabibaMon
 FabledSenpai
 Faboutnfindout
 Fabox2104
@@ -8417,6 +8427,7 @@ FiftyTwo
 FigerYara
 Figi660
 Fiibzthegreat
+FijiXXS
 FijitoN55
 Fildls
 Fildonakt
@@ -9001,6 +9012,7 @@ GFYM2WICE34
 GG WP
 GG33OF
 GGBAA
+GGBroBuyer
 GGG123WORD
 GGORI
 GGWETWORK
@@ -9046,6 +9058,7 @@ GPT Promo
 GRAPEZ
 GRAUFTARGET
 GRAVITYKILLER
+GREAT DNG
 GREEN12121212
 GREG GREG12
 GREGORY
@@ -9682,6 +9695,7 @@ GraceStella
 Gracelot
 Graciaone214
 Gracie4444444
+Gracious
 GradeWarrior
 Gradix
 Gragas52
@@ -10408,6 +10422,7 @@ Hejty23
 HelenH
 Helernddhrmdkdjd
 Helgerd
+Helios_
 Helixpai
 Hell
 HellCode
@@ -11156,6 +11171,7 @@ ImLogical
 ImMezoh
 ImMrPickles
 ImNot
+ImNotSo_Based
 ImPoorHelp
 ImPostal
 ImSoapy
@@ -13271,6 +13287,7 @@ Kimm007
 Kimming
 Kimo2007
 KimsWay26k
+Kimsprkle
 Kin30
 KinG220
 KinGxKeV
@@ -14648,6 +14665,7 @@ Luffycon
 Luffys_Asshole
 Lufisar
 Lugi4xxx
+LuhCuh
 LuhJayJokah59
 Luhhjit
 Luhm7
@@ -15862,6 +15880,7 @@ Middle
 MiddleIN
 Midgar25
 MidgetStomper
+Midi-Chlorian
 Midnight Rain
 Midnight11
 Midnight231
@@ -17785,6 +17804,7 @@ OJBK
 OK2Skip
 OKKKKS
 OKKOK
+OL3N
 OLRD113
 OLYMP1C
 OMARomaromar
@@ -18900,6 +18920,7 @@ PlummerZ1702
 Plus09
 PlushPersik
 Plushie
+Plusup1994
 PlutoDeva
 PlutoPicks
 Pluxo
@@ -19209,6 +19230,7 @@ Psalmy7287
 Pseekz
 PseudoBizla
 Pshrzu
+Psilocybe
 Psique
 Psmith1104
 PsyCh0
@@ -19732,6 +19754,7 @@ Random1234
 Random581
 RandomATX
 RandomController.
+RandomExMember
 RandomGuyy
 RandomPLol
 RandomPerson
@@ -19888,6 +19911,7 @@ Rdtwolf
 Rdtwolf1
 ReDeX2587
 ReDeus
+ReDrops
 ReX412
 ReZero
 ReaI
@@ -19986,6 +20010,7 @@ Redhatlinux
 Redheaddread
 RedirkNames
 Redmac
+Redman88
 RednewCipher
 RedoMir
 Redoinepopping
@@ -20161,6 +20186,7 @@ Richard smith
 Richard_Feynmand
 Richardbrowine9827
 Richarddd
+Richest.
 Richgaming
 Richie Rich
 Richkide
@@ -20976,6 +21002,7 @@ SIM-5467875
 SIM-5481312
 SIM-5481366
 SIM-5481475
+SIM-5486627
 SIM-5493909
 SIM-5504527
 SIM-5504844
@@ -21051,6 +21078,7 @@ SIM-5725250
 SIM-5726080
 SIM-5726142
 SIM-5728862
+SIM-5730195
 SIM-5730295
 SIM-5731963
 SIM-5732806
@@ -23223,6 +23251,7 @@ Surtle
 Surveillanced
 SurvivePOS
 Surya Hitam
+SusPhoenix
 Susan5050
 Susanoo
 Susboy
@@ -23611,6 +23640,7 @@ Tartan1
 Tarungm
 Tasin78786
 TaskKiller
+Tasmaniandeval
 TassenHeldFrankStein378
 Taste187
 Tastyhamsandwich
@@ -25740,6 +25770,7 @@ WaldoIsWell
 Wali
 Walid anini
 Walidder
+Walker2404
 Walkerjames
 WalkonwaterBlrr
 WallSt
@@ -26594,6 +26625,7 @@ Yazoome
 Ye Htut Naing
 YeZhiFeng
 Yeager254X
+YeahDude13
 Yeahhhjj
 Year
 YeatMyTwizzy1
@@ -27442,6 +27474,7 @@ abhinavram4
 abhinay_ak
 abhsy
 abi ramis
+abiaman12
 abiathackforums
 abids020
 abidullahsahil
@@ -27452,6 +27485,7 @@ abivja1370
 abk77
 abknight0
 abkstorm
+ablationvector
 ableme0093
 ablephri
 abloh
@@ -27938,6 +27972,7 @@ ajdinsmajlovic_
 ajiaduidhi
 ajieajie521521
 ajjjj421
+ajkusevi
 ajlf
 ajmotley
 ajox01
@@ -28475,6 +28510,7 @@ amineaskary784
 aminerever5
 aminesm36
 amingh8888
+aminosemafia
 amiopp
 amir fakoor
 amir tayman
@@ -28806,6 +28842,7 @@ anonymous12
 anonymous1290
 anonymous13
 anonymous4lph4
+anonymous63
 anonymous689
 anonymous78
 anonymous_290
@@ -28847,6 +28884,7 @@ anthonysanchez
 anti-protection
 anti_sysadmin
 antidodod
+antif20
 antifreeze
 antifurry113
 antimodes
@@ -29288,6 +29326,7 @@ asofpkaskofasoop
 asojfasoifjasoijfasoiijfa
 asothii
 aspdhph12pi3h213
+aspect-seeker
 asphlat
 aspiringhoe
 assashakan
@@ -29600,6 +29639,7 @@ azazel47
 azbeiiiajja
 azdasf44
 azeazeazeaze
+azeeraadil112
 azeoo
 azer12
 azer1te
@@ -30877,6 +30917,7 @@ bluu
 bluuz666
 blvckmonk
 blvntmaster
+blyat1337
 blyatlol
 blz112231
 bm4ney
@@ -30924,6 +30965,7 @@ bobberdobber
 bobberella
 bobblyboo
 bobbones22
+bobby75r
 bobbybob2
 bobbyboberson
 bobbyboy
@@ -32908,6 +32950,7 @@ cratszilla
 crawfordjamie618
 craxketz
 craxsratsourcecode
+crayzy8
 craziozfr
 crazy08
 crazy984
@@ -34305,6 +34348,7 @@ dfgdrfdggdfgdr
 dfgfSDFGDSG
 dfgfddf
 dfgfg
+dfghdbdvbdb
 dfghgdgfdh
 dfgnkouffd
 dfgs34r
@@ -35025,6 +35069,7 @@ drown1ngl3ssons
 drowranger123
 drowziee21
 droxifeezy
+drrviruss
 drsdley
 drsh4dow
 drugrun
@@ -35869,6 +35914,7 @@ erotic
 err0x420
 err__y
 erraticlego
+errcruze
 errewq2
 erro
 error_01
@@ -39755,6 +39801,7 @@ iAmKyeroz
 iAmTheGhost
 iAs-346
 iBlitz
+iBull86
 iCULTLEADER
 iCarly
 iCherrySplash
@@ -40468,6 +40515,7 @@ issox22
 issuda999
 issues52
 istack
+istillwhippin
 istordacen
 isufhoxha123
 isv7
@@ -41438,6 +41486,7 @@ jj3rx
 jj47
 jj48104
 jj5485
+jj89XD
 jjaaaaaa
 jjb12
 jjbb2447
@@ -46983,6 +47032,7 @@ motgerion
 motherofgod7999
 mothh
 mothking
+mothmagic
 mothвсаомриопсмои
 motionhealin
 motiveaicsh
@@ -47034,6 +47084,7 @@ mr.54n3x
 mr.N
 mr.Sinister
 mr._.lucifer.__.0
+mr.bone
 mr.derp
 mr.good
 mr.journoble
@@ -47335,6 +47386,7 @@ mutazfan
 muted_dev
 mutiarani
 mutomonza
+mutz222
 mutzlasko7
 muuping
 muwinkins
@@ -48086,6 +48138,7 @@ ninin
 ninja1214
 ninja137
 ninja187
+ninja92
 ninjaLearner
 ninja_01
 ninjahacker47
@@ -49251,6 +49304,7 @@ palantirical
 palehorse7
 palgume
 palle030
+palmer_style2009
 palmy
 palomablanca
 palwan
@@ -49886,6 +49940,7 @@ plangos2
 plankmama321
 plankton
 planktonx
+plasilja
 plaszmaa
 plataoplomo
 plate67
@@ -49918,6 +49973,7 @@ plogster
 plope301
 ploploplop
 plops
+plsadkitim
 plugviolaceo
 plugwalkmark
 pluma
@@ -51999,6 +52055,7 @@ rufusiwnl
 rugechino
 rugged_psycho_28
 ruggyrug
+rugyrwhq
 ruhul12
 ruhv89e-3
 ruipestanas
@@ -54747,6 +54804,7 @@ suchok
 suchozuco
 suchub
 suckatruckmunt
+sucker
 suckmydick
 suckurmum
 suda123
@@ -56779,6 +56837,7 @@ udmuxbypasspls
 udrialdnveoaksdmnve
 udxh10
 uecl2526
+uelmenk
 ueroroot1
 uerqt
 ufde
@@ -57124,6 +57183,7 @@ uzunyoltaksi
 uʍop ǝpısdn
 v01d420
 v0index
+v0oz
 v0rtexcrypt
 v0rtexx
 v0y493
@@ -60071,6 +60131,7 @@ zouzou6838
 zovrecode
 zoxc19
 zozo1786
+zphinxx
 zplace3223
 zpyen22
 zq357636088
