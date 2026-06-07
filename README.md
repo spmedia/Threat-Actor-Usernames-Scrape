@@ -174,6 +174,18 @@ The usernames in this list are scraped from posted threads and users who respond
 
 ---
 
+## RAMP
+
+**[dead_forum_users_ramp.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_ramp.txt)**
+
+Collected from [Dancho Danchev](https://ddanchev.blogspot.com/2026/03/a-full-list-of-usernames-and-handles.html). Forum was [taken down by the FBI in Jan 2026](https://www.zerofox.com/intelligence/flash-report-fbi-seizes-dark-web-forum-ramp/) and never came back up.
+
+**Date Range of scrape:** Jan 2026
+
+**Amount:** 7,709
+
+---
+
 ---
 
 # Active Forums
