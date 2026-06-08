@@ -34,6 +34,7 @@
 0x00b
 0x00ff
 0x02
+0x040015
 0x0FlapJack
 0x105
 0x115f
@@ -150,6 +151,7 @@
 2121savage2121
 214692
 21dosomething
+21x69
 220v
 2267975
 22b1h
@@ -226,6 +228,7 @@
 4ipik
 4kunvalid
 4L_
+4lcada_000
 4lien3630
 4ll3zzy
 4lm0stw11n
@@ -260,6 +263,7 @@
 666TheOne
 69420
 694332a8-e5e0-4c0d-8b47-3
+6bravo9
 6eric9
 6h0st
 6VL8RUfR7ZrXmNvX
@@ -432,6 +436,7 @@ abrikosina
 abrookie3
 abuali
 AbuAli12123
+abualmjd000
 abualqasim
 abuazrael113
 abudan
@@ -466,6 +471,7 @@ acidoverdose
 acktyseller
 aclamp
 aclux
+acmaliazaman2017
 Acronite
 acrossfire
 acruz2xxx
@@ -475,6 +481,7 @@ actuarybear
 actydottle
 acu67
 acyber
+Ad-951
 Ad3h7
 Adababi
 adaild57
@@ -736,6 +743,7 @@ aldovuk
 aldric
 Aldz
 aleatorioa133
+alecc157
 aleckirtsen
 alecrim230
 aleexbae
@@ -1033,6 +1041,7 @@ Anggak
 Anggakurni
 anggelblack215
 AngurisWillow
+angusbastfangus
 anhart4
 anhbaymap
 anhnguyen260100
@@ -1093,6 +1102,7 @@ anonim31
 anonim_PH
 anonimattack404
 anoniminesia
+Anonimis
 ANONIMNIQ
 anonindo
 Anonmeet
@@ -1250,11 +1260,13 @@ ArjunaGimank
 arkana1773
 ArkFly
 ArklekJr
+armadaarm56
 ARMAGIDDON
 ArmanFZY
 arminvanbuuren
 armmer
 Arny404
+Arocket007
 arquebusproject
 arraz
 arrogant
@@ -1338,6 +1350,7 @@ askahban
 askeladd
 askeladmefisto
 asmaul96
+asnkjasfsabf
 asparagas220
 asphaltmuncher49
 asphyxia629
@@ -1617,6 +1630,7 @@ bajingluncat
 Bajista
 bakacaz1
 BakerBaker
+Bakirnacer27
 Bakoxid
 Bakr
 bakuman000
@@ -1641,6 +1655,7 @@ bandokay00
 Bane74
 bangalee007
 bangbaronxxx
+banghaji
 Bangke11
 bangkesuck
 bangsat
@@ -1886,6 +1901,7 @@ Big_Meeper
 Big_Try9587
 biganaconda
 BigBalls76
+bigbluepizza
 bigboy_bugcount
 bigboymarco
 BigBull
@@ -1920,6 +1936,7 @@ Bill_Nub
 billcipher12
 billi12345
 BillionaireLu
+billon69
 BillShura
 billy230
 billybones
@@ -2260,6 +2277,7 @@ BraveLuck
 bravo88
 BrazilDude
 Brea
+Brea31
 breach0
 breach1234b
 breach3r
@@ -2459,6 +2477,7 @@ bwmf
 Bx01
 BX1xrang
 Bxjorn
+bxxb
 ByAnyMeans
 BYDATACY
 byfear1
@@ -2551,6 +2570,7 @@ candyland6969
 candys
 canerbasaran06
 canimex172
+Canterlan
 cap
 CapitanCondom
 capodeicapi
@@ -2840,6 +2860,7 @@ Cipherlogix
 cisco12
 citabah
 Citsim
+ciu
 ciupacapras
 ciwoy63332
 cjjjxjc
@@ -2948,6 +2969,7 @@ come1912
 cometerra
 ComfyMan
 comia
+commentboi69
 common
 comolokko
 Comp123
@@ -3049,6 +3071,7 @@ cpoopc
 cptAw3som3
 cptbaro
 Cptndeep
+CPU
 cqrAaBrHN
 cr0nus
 CR1ON2
@@ -3263,6 +3286,7 @@ d0pam1ne
 d0phamin3
 d0rk313
 d0xxedl0lz
+D12xt
 D14
 d14bl0
 D1FYsec
@@ -3712,6 +3736,7 @@ devilsdad
 Devilwhite792
 devin34
 devion69
+devisna
 devockka
 devour
 DEVREDSKY007
@@ -3941,6 +3966,7 @@ dostoevsky
 dotchavk
 dotdev666
 Dotsu11
+doubl
 Double12
 DOUBLERAINBOW
 DougFunnie
@@ -4129,6 +4155,7 @@ dwighteisenhower
 DwightSchrute545
 dwipangga
 dwjkdawi
+dwm
 dwnlowd
 dwsize
 dx2_2026
@@ -4439,6 +4466,7 @@ etrvria
 Etsuko
 eugenetruex
 eugenics
+euing
 Eump
 Eurekaseven
 eurodancer
@@ -4477,6 +4505,7 @@ excusemyfrench
 EXE69
 eXecutor
 exeia
+Exeleven
 Exetra721
 Exia
 exitnode
@@ -4549,6 +4578,7 @@ faizarworld8754
 fak3optic
 Fakboy
 fakegun
+Fakhrureza
 Falandaya
 FalcEd
 Falconsdk
@@ -4613,6 +4643,7 @@ favourx1
 fawwazmtz
 Faxxy
 Fayfay
+faygo
 fazax
 FazyMalone
 fbbfbfb
@@ -4812,6 +4843,7 @@ FMisi
 fn9x
 Fnan077
 fnc
+fnckinglord
 fnuansa
 Foax
 folex
@@ -4846,6 +4878,7 @@ foulany
 four_eyes
 foxissq
 foxlX
+foxomare
 foxomare01
 FoxRat
 foxsunday
@@ -5381,6 +5414,7 @@ granadosf
 gravedigger
 gravenet
 graywolf
+grcuaiw
 grdrgdgdr
 Great
 GREAT123
@@ -5396,6 +5430,7 @@ greenboy
 greenday3
 greendyd
 greenis
+greenjan
 GreenLantern123
 GreenMalwareTeam
 Greenmans
@@ -5683,6 +5718,7 @@ happyhimars
 HappyHoppie
 HappyMDFK
 HappyS
+happytos
 happywarehouse5
 HapyIce
 haqparast
@@ -5786,6 +5822,8 @@ Hedxed
 heeloomoto
 hehe.2026
 hehe6873
+heibokhan
+HeiCoardo
 heicocto
 heifengye1
 HeIIhound2
@@ -5870,6 +5908,7 @@ herocon956
 herombenim
 Heros3c
 herpetro
+herprox
 herrmannelig
 herrybaker
 heru21
@@ -5918,6 +5957,7 @@ Hidden
 hiddeninplainvis
 HiDDeNN
 hiddentdeath
+hideman6690
 hidemyas
 hideousguy123
 hidude000
@@ -6331,6 +6371,7 @@ immortalhack3r
 Immortalplug
 imnewhere445
 imnogaelol123
+IMnoob
 imnotcha0s
 imotIMIS
 impierator
@@ -6347,6 +6388,7 @@ Imtyaz_7867
 imztv
 in2thedarkness
 Inaction1323
+inameus
 inayileD
 inciker
 incongruous
@@ -6408,6 +6450,7 @@ Intervention
 interweave
 IntforInt
 InTheShadows
+InTheSky
 Intikam
 intothewild12
 Intsane
@@ -6483,6 +6526,7 @@ Istomin
 istoredb
 Itachi92
 itachiakar
+Itachiii
 iTanji
 iTarCHeR
 itartinas
@@ -6627,9 +6671,11 @@ JamesBons404
 JamesLovesYou
 Jamesrt
 jamesryle
+Jamestokped
 jameswel
 Jamiebob
 janaubinb4
+Janborra
 jancokjaran
 jancokku
 JanCokz
@@ -7071,6 +7117,7 @@ juthrifai
 jva
 jvay55
 jvb53
+jvzikang
 jwestern1337
 Jwict
 jwordp
@@ -7147,6 +7194,7 @@ Kaka100
 Kakabusp
 kakajeans
 kakaka2345
+kakas123d
 Kakashi21
 kakashii
 kal3o4ka
@@ -7266,7 +7314,9 @@ KayseriManti
 kayvolk
 kaza17
 Kazee
+Kazehaya
 Kazoknn
+KazumaSama
 KAZZY
 KBalu
 kbllib
@@ -7559,6 +7609,7 @@ kleasto
 klikdoom
 Kliper
 klippelfeil
+KLOP2
 Kloud9
 klowor_kowok
 KlRA
@@ -7670,6 +7721,7 @@ kratics
 Kraxen
 krbunny
 krebsonsecurity
+kremm12
 krestfull12
 kreteusz
 kreteusz1
@@ -7703,6 +7755,7 @@ ksf01c
 kshqoqq1
 Ksjkakbaja
 Ksw
+kSwi
 ktbg9184
 kth666
 ktrek
@@ -7748,6 +7801,7 @@ kvhrr
 kwaiten
 Kwarbanana
 Kwarble
+kwasik
 kwDmeG
 kwolska1808
 kyatze
@@ -7774,6 +7828,7 @@ l0rd1
 L0rd_Bubbles
 L0rdless
 L11M
+l1ghtSoulHem
 L2323N
 L33tleaks2
 L3aK06
@@ -8074,6 +8129,7 @@ liqiye
 liquid0
 lira71
 lisacain234
+List3n3r
 listen
 litabe2138
 lite0n
@@ -8453,6 +8509,7 @@ magabut
 mageonly
 magewati
 maggakos
+MagicBungeee
 Magicovic1
 MagiHildelith
 maginati0n
@@ -8691,6 +8748,7 @@ massimosantone
 massin
 MasstaBeenn
 massylii
+MasterCat
 MasterDoodle
 masterizmo
 masterjalador
@@ -9016,6 +9074,7 @@ milkowski
 Milktfunk
 Mill182
 Miller68
+millionaire
 millyfrost
 milocards
 milqy
@@ -9331,6 +9390,7 @@ mrjohnyo
 MRK007
 MrKev4
 mrkhan0145
+Mrkinder
 MRKZ.ID
 Mrlastng
 mrlee1309
@@ -9648,6 +9708,7 @@ Nedtalk
 needHUG
 neexx
 Neffex78
+NefW
 nega
 Negara
 Negative6
@@ -9778,6 +9839,7 @@ Niggga
 Night_tiger
 NightASD
 nightfury
+NightHex404
 nightly
 nightmare
 NightmareID
@@ -9816,6 +9878,7 @@ Niwa62
 NIWI
 Nix333
 NixBest
+Nixon2427
 nixox
 nizar02
 NizarFarhat
@@ -9839,6 +9902,7 @@ No_name71
 no_on
 no_ox7
 noaahpgt
+noamhampton
 noarex
 nobaby
 nobility4455
@@ -9912,6 +9976,7 @@ nopee
 NorbiUwU
 nordox
 Norgates
+NormalGuy
 normalhunters
 NormalLeVrai
 norman
@@ -9932,6 +9997,7 @@ NotChandets
 note
 notepas6090
 nothanks69
+Nothers
 NothingHere01
 nothingup
 notino619
@@ -10014,6 +10080,7 @@ NvrSxmm
 Nx85uz
 nxck
 nxnx131126pp
+nxrm888
 Nxtorious
 ny3rox
 ny9ma
@@ -10077,6 +10144,7 @@ ofcourseyouwont
 official3596
 official_killingspirit
 officialbuntex
+OfficialFirman
 offshake
 OffshoreLc
 oflyb34266
@@ -10229,6 +10297,7 @@ organik42
 Orichikienra
 oriethor
 orionsec
+ork2394384
 ormo394jk
 Ormosis
 Oroan
@@ -10280,6 +10349,7 @@ OVB101
 overflowdx
 OverNight
 overthinker1877
+Overwatch9
 ow3ns
 Owciwoa
 Oweuh
@@ -10333,6 +10403,7 @@ packlogs
 pacpac
 paddle_pop22
 Paddydoxx
+Padme
 pag
 PageOne
 pahan
@@ -10649,6 +10720,7 @@ Pitou
 pittman
 PiV
 Pixel2075
+PixelGoblin99
 pixhell
 pixxe
 Piyasaa
@@ -11452,6 +11524,8 @@ retr0dark
 retux
 Reupload
 revenant_killer
+reversemyexe
+Revert8657
 Reviil0
 revito31
 RevoLord
@@ -11895,6 +11969,7 @@ salitis
 sallapati4
 salles
 salma12
+Salmoncolt
 Salom
 salsa
 saltinbank
@@ -11949,6 +12024,7 @@ sansinsun
 sanskerta
 santassleigh
 Santeria
+santiamant
 santos
 santosei315m
 santoz
@@ -12008,6 +12084,7 @@ Savage45
 savagestickman
 Savantor123
 Savefade
+saveone
 saviola88
 Savior26
 saviosant
@@ -12042,6 +12119,7 @@ schatje
 Scheznyk
 SchiNchA
 Schinkennnnnnn
+Schnitzel
 schopenhauer
 schuhmann31
 schwarzwald
@@ -12103,6 +12181,7 @@ seccon
 secizaya01
 seconsha
 SecRes
+Secret331
 secret_interest
 secretoMuchacho2376
 SecretUser777
@@ -12250,6 +12329,7 @@ ShadowMccc
 Shadownex
 ShadowNigght
 ShadowOffixial
+Shadowreap
 ShadowRelay
 shady2024
 Shady9955
@@ -12294,6 +12374,7 @@ sheeshlmfao
 sheikhas
 shekel
 SHElaraby
+shelI
 shell_exec
 shella
 shellhax
@@ -12625,6 +12706,7 @@ snake_9002
 Snakecharmer
 snakeface
 Snap2Get
+Snapesin
 SnazzPazz
 snegky
 snem
@@ -12794,6 +12876,7 @@ spik3d
 splast
 spoclespeckle
 Spoiledbutter22
+spoilerv2
 SpongebobStar
 Spongey
 Sponss
@@ -13040,6 +13123,7 @@ surly
 Surn4me
 surrealdeviant
 surungen
+surveilance
 sus69
 susbaka
 sushitrash
@@ -13210,6 +13294,7 @@ tax
 tayc
 tayebja3ba
 Taykom
+taylorkillie
 tayray
 Taza
 tazbrc
@@ -13340,6 +13425,7 @@ Tgolhce
 tgov02
 tgrt26
 TH098
+th14
 th3.w6rst
 th3byp4ssm4st3r
 TH3CL4Y
@@ -13539,6 +13625,7 @@ tif
 TIGER
 tiger4you
 Tigerxcode
+TijnD07
 Tiko333
 tikus
 tilawannad7
@@ -13563,6 +13650,7 @@ tiranga
 Tirthahendu
 tiscogroupltd
 Tiso254
+tissuesoft
 tisubasa
 titania
 titans_777
@@ -13708,6 +13796,7 @@ tr1nxim
 tr4shbo4t
 Traband
 Tracy
+Tradeify
 Traidan
 traidy
 trainwreck
@@ -13731,6 +13820,7 @@ Trbl
 Treeman
 trees567
 treks43
+trekybeany
 trendyqwert99
 trengadominos
 tret
@@ -14135,6 +14225,7 @@ Valllll
 valm33
 ValMam
 valriyz
+Vamells
 vampire
 vampirep
 vamsi8019
@@ -14152,6 +14243,7 @@ vanjoe77
 vankade1
 Vanss
 Vanssszz
+vanvangka
 Vanxkis
 VanZan
 vape2069
@@ -14198,6 +14290,7 @@ ventyll
 venus
 venuspluto
 veozegya
+vepiye5328
 Verdandol
 verdankz
 VerdantFoster
@@ -14555,6 +14648,7 @@ WhitePackerIsAFag
 whitepanda13
 whiteprecise
 whiteraven
+whiteroses
 Whiteshopz
 whitewalter
 whitewitcher29
@@ -14750,6 +14844,7 @@ X42S
 x43x8473x
 X4g3
 x4x4
+X666bears
 x7a9509
 x86_64
 x86arm
@@ -14780,6 +14875,7 @@ xausploit
 xAUwRPXtV
 xauxablau
 xavi129
+Xavierr
 XAVINER22
 xbdm
 XBos
@@ -15016,6 +15112,7 @@ yasiin
 Yasirshakoor
 yaskui
 yasmine
+Yasnae
 Yasox404
 yassin20
 yasuosubang1
@@ -15309,6 +15406,7 @@ ZeroTheGod
 Zerotohero
 Zerotot
 Zerotwo
+Zerotwo02
 zeroX6120
 Zerzokt
 zestking
@@ -15434,6 +15532,7 @@ zwrinerlucas
 ZX10R
 zx78542460
 zxc3690
+zxcmoon
 zxcv32
 zxczsh
 zxspectrum
