@@ -1,6 +1,7 @@
 010111010
 03odchi_xep0
 0peratorSvierg3
+0range
 0th3r
 0x00day
 0x4adolt
@@ -730,6 +731,7 @@ Forbid
 Forbs
 Force
 forcer
+fortihunter
 Fortinet
 fortuna404
 Forum.
@@ -906,6 +908,7 @@ Helter
 henlooo
 Hermano
 hershey1
+hex404
 HexDr0ppr
 hexnull
 HexRider9
@@ -1210,6 +1213,7 @@ Lobster43
 local
 LocalUser
 LockBit
+lockgate
 lockmanwork
 LogsDiller
 loka
@@ -1347,6 +1351,7 @@ mizuno1
 Mkwelcome
 mmamba777
 mmh3
+mmkikki
 mmtk
 mnrl
 mobihub
