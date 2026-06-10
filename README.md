@@ -63,7 +63,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 774,623 |
+| Total usernames | 819,360 |
 | Total unique usernames | 651,089 |
 | Total duplicate usernames | 44,386 |
 
@@ -184,6 +184,19 @@ Collected usernames from RAMP/RAMP4U forum by [Dancho Danchev](https://ddanchev.
 **Date Range of scrape:** Jan 2026
 
 **Amount:** 7,709
+
+---
+
+
+## Nulled
+
+**[dead_forum_users_nulled.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dead_forum_users_nulled.txt)**
+
+From their db leak in 2018 of nulled.cr
+
+**Date Range of scrape:** 2018
+
+**Amount:** 42,315
 
 ---
 
