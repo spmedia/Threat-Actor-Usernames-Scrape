@@ -1,7 +1,6 @@
 010111010
 03odchi_xep0
 0peratorSvierg3
-0range
 0th3r
 0x00day
 0x4adolt
@@ -124,7 +123,6 @@ AlexGhost
 AlexVaiser
 alfred00
 alfred001
-alicecrimes
 aliiaii
 alik228
 alkoholik21
@@ -214,7 +212,6 @@ AzureLLC
 b1xnk
 baba_nyura
 Babaj
-BabaYaga79
 Babssh
 babywka
 bacha
@@ -403,7 +400,6 @@ chair
 chao
 Chaos
 chelo
-Chelsea
 chenase
 chief
 chief0tui
@@ -731,7 +727,6 @@ Forbid
 Forbs
 Force
 forcer
-fortihunter
 Fortinet
 fortuna404
 Forum.
@@ -800,7 +795,6 @@ GhoDev
 ghost0000
 GhostCry
 GhostDevil
-GhosTHacKTooL
 GhostHunter787
 Gigateroo
 gihoh94498
@@ -908,7 +902,6 @@ Helter
 henlooo
 Hermano
 hershey1
-hex404
 HexDr0ppr
 hexnull
 HexRider9
@@ -1173,6 +1166,7 @@ LappaHappa
 Laremas
 Lary
 lash
+Laslo
 lastword
 Ldbru380
 learn
@@ -1211,9 +1205,7 @@ LmaoLmao007
 Loader
 Lobster43
 local
-LocalUser
 LockBit
-lockgate
 lockmanwork
 LogsDiller
 loka
@@ -1351,7 +1343,6 @@ mizuno1
 Mkwelcome
 mmamba777
 mmh3
-mmkikki
 mmtk
 mnrl
 mobihub
@@ -1398,7 +1389,6 @@ mrknown
 MrMorgan5
 MrNiff1er
 MrNiffler
-mrPandora
 MrRed
 MrSam
 MrSE0
@@ -1642,7 +1632,6 @@ prider2010
 prider2011
 proal
 proctinsert
-Procurator
 prokopich
 promo
 Prosto999
@@ -1883,7 +1872,6 @@ shellbe
 shelxer
 shil0
 shilo
-Shinigami
 shinjal
 ShinyHunters
 shirobato
@@ -1916,7 +1904,6 @@ sizeof
 skalomsila
 Skotobaza
 SKPD
-Skyflakes
 Skywalker
 Skywalker2
 slabost
@@ -1964,7 +1951,6 @@ sp1ne
 Spaced
 SpamSMS
 spanchbob
-Spanish
 SpecterWire
 SpeedyAds
 spice
@@ -2131,6 +2117,7 @@ tx000
 tx0957
 tylertiti
 UaWrongTeam
+uiniqdesoon
 ukito
 ululul
 Umario
@@ -2302,7 +2289,6 @@ WinToWin
 Wireshark
 wisetoast
 wishdom
-witwizard
 Wizardswag
 wLSPfmR1CaG3fCL2T9
 wnanan321
