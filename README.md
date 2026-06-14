@@ -64,7 +64,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 819,360 |
+| Total usernames | 834,274 |
 | Total unique usernames | 773,159 |
 | Total duplicate usernames | 46,201 |
 
@@ -213,7 +213,7 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 **Date Range of scrape:** May 27 2025 --> current date
 
-**Amount:** 226,669 unique usernames
+**Amount:** 229,075 unique usernames
 
 ---
 
