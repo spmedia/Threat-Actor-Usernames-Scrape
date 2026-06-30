@@ -245,7 +245,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 43,507
+**Amount:** 44,232
 
 ----
 
@@ -343,7 +343,7 @@ The usernames in this list are scraped from posted threads, users who respond in
 
 **Date Range of scrape:** January 13 2026 --> current date
 
-**Amount:** 2,445
+**Amount:** 2,457
 
 ---
 
