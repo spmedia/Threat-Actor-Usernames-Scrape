@@ -66,7 +66,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 858,146 |
+| Total usernames | 871,964 |
 | Total unique usernames | 773,159 |
 | Total duplicate usernames | 46,201 |
 
@@ -229,7 +229,7 @@ Old urls: DarkForums.io, DarkForums.me
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 77,863 unique usernames
+**Amount:** 78,218 unique usernames
 
 ----
 
@@ -357,7 +357,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 12,192
+**Amount:** 12,329
 
 ---
 
@@ -371,7 +371,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** February 7 2026 --> current date
 
-**Amount:** 82,677
+**Amount:** 83,186
 
 ---
 
@@ -385,7 +385,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 8,621
+**Amount:** 8,718
 
 ---
 
