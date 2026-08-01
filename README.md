@@ -229,7 +229,7 @@ Old urls: DarkForums.io, DarkForums.me
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 80,807 unique usernames
+**Amount:** 81,794 unique usernames
 
 ----
 
