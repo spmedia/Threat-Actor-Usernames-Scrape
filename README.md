@@ -66,7 +66,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 871,117 |
+| Total usernames | 942,608 |
 | Total unique usernames | 812,807 |
 | Total duplicate usernames | 58,310 |
 
@@ -245,7 +245,7 @@ Old url(s): Patched.sh
 
 **Date Range of scrape:** August 23 2025 --> current date
 
-**Amount:** 47,243
+**Amount:** 47,430
 
 ----
 
