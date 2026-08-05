@@ -230,7 +230,7 @@ Old urls: DarkForums.io, DarkForums.me
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 81,794 unique usernames
+**Amount:** 82,254 unique usernames
 
 ----
 
@@ -274,7 +274,7 @@ The usernames in this list are scraped from posted threads and users that reply 
 
 **Date Range of scrape:** October 7 2025 --> current date
 
-**Amount:** 14,798
+**Amount:** 14,895
 
 ----
 
@@ -386,7 +386,7 @@ The usernames in this list are scraped from posted threads and Who's Online.
 
 **Date Range of scrape:** March 31 2026 --> current date
 
-**Amount:** 9,599
+**Amount:** 9,677
 
 ---
 
