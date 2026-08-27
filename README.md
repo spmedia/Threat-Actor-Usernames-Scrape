@@ -52,7 +52,7 @@ Active:
 - [Cracked.sh](#crackedsh)
 - [CraxPro](#craxproorg)
 - [DarknetArmy.io](#darknetarmyio)
-- [DarkForums.su](#darkforumssu)
+- [DarkForums.as](#darkforumsas)
 - [Dread](#dread)
 - [HackForums.net](#hackforumsnet)
 - [OGUser.com/OGU](#ogusercomogu)
@@ -220,17 +220,17 @@ Usernames scraped from the newly launched [post-takedown](https://www.justice.go
 
 ---
 
-## DarkForums.su
+## DarkForums.as
 
 **[forum_users_darkforums.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/forum_users_darkforums.txt)**
 
 Usernames scraped from DarkForums.
 
-Old urls: DarkForums.io, DarkForums.me
+Old urls: DarkForums.io, DarkForums.me, DarkForums.su, DarkForums.ru
 
 **Date Range of scrape:** June 1 2025 --> current date
 
-**Amount:** 82,254 unique usernames
+**Amount:** 82,460 unique usernames
 
 ----
 
