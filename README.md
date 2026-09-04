@@ -54,6 +54,7 @@ Active:
 - [DarknetArmy.io](#darknetarmyio)
 - [DarkForums.as](#darkforumsas)
 - [Dread](#dread)
+- [Drughub](#drughub)
 - [HackForums.net](#hackforumsnet)
 - [OGUser.com/OGU](#ogusercomogu)
 - [Patched.to](#patchedto)
