@@ -448,7 +448,7 @@ Scraped from posted threads, replies, and Who's Online sections.
 
 **[dnm_users_drughub.txt](https://github.com/spmedia/Threat-Actor-Usernames-Scrape/blob/main/dnm_users_drughub.txt)**
 
-Scraped from the homepage. These people be selling meth to your grandma. 
+Vendor usernames that are scraped from the homepage. These people be selling meth to your grandma. 
 
 **Date Range of scrape:** September 04 2026 --> current date
 
