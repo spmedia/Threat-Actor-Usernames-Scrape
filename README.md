@@ -68,7 +68,7 @@ Active:
 
 | Metric | Count |
 |--------|-------|
-| Total usernames | 981,560 |
+| Total usernames | 1,058,355 |
 | Total unique usernames | 812,807 |
 | Total duplicate usernames | 58,310 |
 
