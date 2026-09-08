@@ -452,7 +452,7 @@ Vendor usernames that are scraped from the homepage. These people be selling met
 
 **Date Range of scrape:** September 04 2026 --> current date
 
-**Amount:** 1,602
+**Amount:** 1,617
 
 ---
 
